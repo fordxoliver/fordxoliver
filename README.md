@@ -30,6 +30,12 @@
 
 ---
 
+## 💬 Ask Me About
+
+Financial systems, AI agents, or how to get things done without writing a single line of code yourself 😄
+
+---
+
 ## 📰 Workday Financial Management — What's New
 
 *Last updated: June 9, 2026*
@@ -43,12 +49,6 @@ Workday's biggest week of the year: **DevCon 2026** (June 2) dropped a wave of a
 - 📈 **Q1 FY2027 Results** — Total revenues hit **$2.54B (+13.5% YoY)**, subscription revenues **$2.35B (+14.3% YoY)**, with 7,000+ Financial Management customers globally.
 
 > CEO **Aneel Bhusri** called this a **"re-founding moment"** for Workday — targeting ~15 new AI agents in 2026, with finance automation at the center of the strategy.
-
----
-
-## 💬 Ask Me About
-
-Financial systems, AI agents, or how to get things done without writing a single line of code yourself 😄
 
 ---
 
