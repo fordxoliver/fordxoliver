@@ -34,14 +34,15 @@
 
 *Last updated: June 9, 2026*
 
-Workday is pushing hard into **agentic AI for finance** in 2026. A few things worth tracking:
+Workday's biggest week of the year: **DevCon 2026** (June 2) dropped a wave of agentic finance tools. Here's what matters:
 
-- 🤖 **Lights-Out Finance** — Workday's vision for AI agents that run finance ops continuously, not just at month-end. The new [Financial Test Suite](https://erp.today/workday-lights-out-finance-ai-financial-test-suite/) catches duplicate invoices and errors *before* payments go out.
-- 🧾 **Finance AI Agents** — [Planning Agent](https://blog.workday.com/en-us/workday-delivers-next-wave-agentic-ai-power-new-work-day.html), Financial Audit Agent, and Revenue Contract Agent are rolling out — automating variance analysis, audit evidence, and contract risk review.
-- ⚡ **AI Reconciliation** — Automates up to 70% of reconciliation prep with end-to-end transaction lineage.
-- 📊 **Scale** — Workday delivered **1.7 billion AI actions** across its platform in FY2026, with 7,000+ Financial Management customers globally.
+- 🔌 **Agent-Ready Tools via MCP** — Governed access to Workday financial data over Model Context Protocol, letting external AI agents (including Claude) query finance data with controlled guardrails. Now in early access through Workday Extend Professional.
+- 🛡️ **Agent Passport** — New security-verification framework for AI agents touching finance data, aligning with OWASP LLM Top 10, NIST AI RMF, and MITRE ATLAS. Ensures third-party agents are vetted before deployment.
+- 🕵️ **Financial Test Suite** — AI-powered fraud and error detection running continuously in the background, flagging duplicate invoices and payment anomalies before they hit the ledger. Early access now; GA expected H2 2026.
+- 🧰 **Developer Agent** — Build custom finance AI apps in plain language from tools like Claude Code and Cursor using the open AgentSkills standard on Workday Extend.
+- 📈 **Q1 FY2027 Results** — Total revenues hit **$2.54B (+13.5% YoY)**, subscription revenues **$2.35B (+14.3% YoY)**, with 7,000+ Financial Management customers globally.
 
-> Co-founder **Aneel Bhusri** returned as CEO in February 2026, doubling down on the agentic AI roadmap.
+> CEO **Aneel Bhusri** called this a **"re-founding moment"** for Workday — targeting ~15 new AI agents in 2026, with finance automation at the center of the strategy.
 
 ---
 
