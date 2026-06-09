@@ -32,6 +32,8 @@
 
 ## 📰 Workday Financial Management — What's New
 
+*Last updated: June 9, 2026*
+
 Workday is pushing hard into **agentic AI for finance** in 2026. A few things worth tracking:
 
 - 🤖 **Lights-Out Finance** — Workday's vision for AI agents that run finance ops continuously, not just at month-end. The new [Financial Test Suite](https://erp.today/workday-lights-out-finance-ai-financial-test-suite/) catches duplicate invoices and errors *before* payments go out.
