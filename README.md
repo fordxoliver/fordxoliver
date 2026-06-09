@@ -30,6 +30,19 @@
 
 ---
 
+## 📰 Workday Financial Management — What's New
+
+Workday is pushing hard into **agentic AI for finance** in 2026. A few things worth tracking:
+
+- 🤖 **Lights-Out Finance** — Workday's vision for AI agents that run finance ops continuously, not just at month-end. The new [Financial Test Suite](https://erp.today/workday-lights-out-finance-ai-financial-test-suite/) catches duplicate invoices and errors *before* payments go out.
+- 🧾 **Finance AI Agents** — [Planning Agent](https://blog.workday.com/en-us/workday-delivers-next-wave-agentic-ai-power-new-work-day.html), Financial Audit Agent, and Revenue Contract Agent are rolling out — automating variance analysis, audit evidence, and contract risk review.
+- ⚡ **AI Reconciliation** — Automates up to 70% of reconciliation prep with end-to-end transaction lineage.
+- 📊 **Scale** — Workday delivered **1.7 billion AI actions** across its platform in FY2026, with 7,000+ Financial Management customers globally.
+
+> Co-founder **Aneel Bhusri** returned as CEO in February 2026, doubling down on the agentic AI roadmap.
+
+---
+
 ## 💬 Ask Me About
 
 Financial systems, AI agents, or how to get things done without writing a single line of code yourself 😄
