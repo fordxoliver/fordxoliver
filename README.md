@@ -38,17 +38,17 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: June 9, 2026*
+*Last updated: June 10, 2026*
 
-Workday's biggest week of the year: **DevCon 2026** (June 2) dropped a wave of agentic finance tools. Here's what matters:
+This week: **AvidXchange** completes its Workday Marketplace integration, and Workday's **"Lights-Out Finance"** vision advances with autonomous agents reshaping the finance function.
 
-- 🔌 **Agent-Ready Tools via MCP** — Governed access to Workday financial data over Model Context Protocol, letting external AI agents (including Claude) query finance data with controlled guardrails. Now in early access through Workday Extend Professional.
-- 🛡️ **Agent Passport** — New security-verification framework for AI agents touching finance data, aligning with OWASP LLM Top 10, NIST AI RMF, and MITRE ATLAS. Ensures third-party agents are vetted before deployment.
-- 🕵️ **Financial Test Suite** — AI-powered fraud and error detection running continuously in the background, flagging duplicate invoices and payment anomalies before they hit the ledger. Early access now; GA expected H2 2026.
-- 🧰 **Developer Agent** — Build custom finance AI apps in plain language from tools like Claude Code and Cursor using the open AgentSkills standard on Workday Extend.
-- 📈 **Q1 FY2027 Results** — Total revenues hit **$2.54B (+13.5% YoY)**, subscription revenues **$2.35B (+14.3% YoY)**, with 7,000+ Financial Management customers globally.
+- 💳 **AvidXchange Payment Automation Launches on Workday Marketplace** (June 9) — End-to-end AP automation now available inside Workday Financial Management, connecting to AvidXchange's 1.5M+ supplier network to eliminate manual payment processing.
+- 🕵️ **Financial Test Suite ("Lights-Out Finance")** — Continuous AI-powered fraud and error detection embedded directly into transaction flows, flagging duplicate invoices and anomalies before financial close. GA expected H2 2026.
+- 🤖 **New Finance AI Agents in Early Access** — Financial Audit Agent automates evidence collation; Planning Agent delivers actionable variance insights; Revenue Contract Agent identifies risks and automates downstream accounting.
+- 🔌 **Agent-Ready Tools via MCP** — Governed access to Workday financial data over Model Context Protocol, letting external AI agents (including Claude) query finance data with controlled guardrails via Workday Extend Professional.
+- 🛡️ **Agent Passport** — Security-verification framework for AI agents touching finance data, aligning with OWASP LLM Top 10, NIST AI RMF, and MITRE ATLAS to vet third-party agents before deployment.
 
-> CEO **Aneel Bhusri** called this a **"re-founding moment"** for Workday — targeting ~15 new AI agents in 2026, with finance automation at the center of the strategy.
+> CEO **Aneel Bhusri** on Q1 FY2027 results ($2.54B revenue, +13.5% YoY): **"Workday is ready for this AI moment. Our core business is strong, our AI strategy is working, and we're moving with the speed and focus required to lead."**
 
 ---
 
