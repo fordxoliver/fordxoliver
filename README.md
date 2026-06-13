@@ -38,17 +38,17 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: June 12, 2026*
+*Last updated: June 13, 2026*
 
-This week: Workday's **Travel Agent** brings conversational expense automation to early adopters, and the company hits a milestone of **7,000+ Financial Management customers** worldwide.
+This week: Workday's **DevCon 2026** delivered a major platform push — Agent Passport, AWS Data Cloud integration, and new developer tools put AI-governed finance automation front and center.
 
-- ✈️ **Travel Agent Now in Early Access** — Workday's new AI agent unifies trip planning, booking, policy-compliant approvals, and expense reporting into a single conversational experience; expenses are auto-generated the moment travel is approved, eliminating manual reporting.
-- 🏪 **Specsavers Selects Workday Financial Management** — The global eyecare retailer (4,000+ stores) chose Workday to modernize its global finance operations and support its shift to an omni-channel model, joining 7,000+ core Financial Management customers worldwide.
-- 🕵️ **Financial Test Suite Broadens Early Access** — Workday's AI fraud and anomaly detection tool — flagging duplicate invoices and stopping erroneous payments before financial close — is expanding to more early customers ahead of its H2 2026 GA.
-- 🏆 **Leader in Inaugural Gartner MQ for Cloud ERP Finance** — Workday holds the highest position for Ability to Execute and furthest Completeness of Vision in the first-ever Gartner Magic Quadrant dedicated to Cloud ERP Finance.
-- 📊 **Strong Q1 FY2027 Momentum** — Total revenue reached $2.54B (+13.5% YoY) with subscription revenue up 14.3% YoY; Workday's 2026 Annual Meeting of Stockholders takes place virtually on June 16.
+- 🛂 **Agent Passport Now in Early Access** — Workday's new AI agent vetting system tests every agent (Workday-built or third-party) against OWASP LLM Top 10, NIST AI RMF, and MITRE ATLAS before it touches production financial data; Cisco joins as launch partner for independent testing.
+- ☁️ **Workday Data Cloud + AWS Integration** — Developers gain bi-directional, zero-copy access to Workday's governed HR and finance data from AWS tools and AI services, with the same permissions and audit controls already in place for Workday-native agents.
+- 🔧 **New Developer Tools for Finance & HR Agents** — Workday Build adds Developer Agent (build AI apps in plain language) and Agent-Ready Tools (MCP-based guardrails for secure finance data access), both now in early access via Workday Extend Professional.
+- 🤝 **Google Cloud Embeds Finance Agents in Gemini Enterprise** — The expanded Workday–Google Cloud partnership brings finance and HR agents directly into Gemini Enterprise, with a unified governance foundation spanning both platforms.
+- 📈 **WDAY Jumps 20% on DevCon News** — Markets responded sharply to the Agent Passport and AWS integration announcements on June 2, underscoring investor confidence in Workday's agentic finance platform strategy.
 
-> CEO **Aneel Bhusri** on Q1 FY2027 results: **"Workday is ready for this AI moment. Our core business is strong, our AI strategy is working, and we're moving with the speed and focus required to lead."**
+> CTO **Gabe Monroy** at Workday DevCon 2026: **"Platforms win when they make the hard thing disappear."**
 
 ---
 
