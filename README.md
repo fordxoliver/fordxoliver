@@ -38,17 +38,17 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: June 14, 2026*
+*Last updated: June 15, 2026*
 
-This week: Q1 FY2027 results confirm Workday's AI-first momentum — strong revenue growth, raised margin guidance, and new agentic tools for finance teams signal a confident platform push under returning CEO Aneel Bhusri.
+This week: Workday's agentic platform strategy deepens — Sana arrives inside Google Gemini Enterprise for finance workflows, while DevCon's new MCP developer tools give partners governed access to financial data, marking a clear shift from ERP to AI infrastructure.
 
-- 💰 **Q1 FY2027: $2.54B Revenue, Margin Guidance Lifted** — Total revenues up 13.5% YoY; Workday raised full-year non-GAAP operating margin guidance to 30.5%. New Workday Financial Management customers include State of Delaware and Smiths Group.
-- ✈️ **Travel Agent Now in Early Access** — New AI agent handles end-to-end trip planning, policy-compliant booking, and automatic expense report compilation, cutting manual finance reconciliation work for ops teams.
-- 🛂 **Agent Passport: Continuous AI Security for Finance Data** — Every AI agent touching financial data is tested against OWASP LLM Top 10, NIST AI RMF, and MITRE ATLAS before production and monitored continuously after; Cisco joins as launch partner.
-- ☁️ **Workday Data Cloud + AWS Zero-Copy Integration** — Finance and HR data flows bi-directionally between Workday and AWS services without custom pipelines, data duplication, or rebuilt business logic.
-- 🏦 **Specsavers Selects Workday FM for 12-Country Rollout** — The global eyewear retailer chose Workday Financial Management to modernize finance operations across 12 countries as it transitions to an omni-channel model.
+- 🤝 **Sana + Gemini Enterprise: Finance AI in Your Daily Workflow** — Workday's Sana Self-Service Agent is now in early access inside Google Gemini Enterprise, surfacing expense guidance, payroll inputs, and timesheet approvals directly in Google Workspace. Phased rollout to all data centers by June 30.
+- 🔧 **Developer Agent + Agent-Ready Tools via MCP** — At DevCon 2026 (June 2), Workday launched tools to build Workday finance apps in plain language using Claude Code, Cursor, or Codex. Agent-Ready Tools add MCP-based guardrails for AI agent access to financial data with built-in business logic and reduced hallucination risk.
+- ✈️ **Travel Agent: Policy-Compliant Booking + Auto Expense Reporting** — New AI agent handles end-to-end trip planning, policy-compliant booking, and automatic expense compilation in one conversational experience; now in early access.
+- 🛂 **Agent Passport: Verified Security for Every Finance AI Agent** — Every AI agent touching Workday financial data is continuously tested against OWASP LLM Top 10, NIST AI RMF, and MITRE ATLAS; Cisco joins as launch partner.
+- 💰 **Q1 FY2027: $2.54B Revenue, Non-GAAP Margin Guidance Raised to 30.5%** — Total revenues up 13.5% YoY; new FM customers include State of Delaware and Smiths Group. Workday delivered 1.7B AI actions across its platform in FY2026.
 
-> CEO **Aneel Bhusri** on Q1 FY2027 results: **"We had a great Q1, and it makes one thing clear: Workday is ready for this AI moment. Our core business is strong, our AI strategy is working, and we're moving with the speed and focus required to lead."**
+> Workday CTO **Gabe Monroy** at DevCon 2026: **"Platforms win when they make the hard thing disappear for the developer."**
 
 ---
 
