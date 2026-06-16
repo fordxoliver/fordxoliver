@@ -38,17 +38,17 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: June 15, 2026*
+*Last updated: June 16, 2026*
 
-This week: Workday's agentic platform strategy deepens — Sana arrives inside Google Gemini Enterprise for finance workflows, while DevCon's new MCP developer tools give partners governed access to financial data, marking a clear shift from ERP to AI infrastructure.
+This week: Sana goes GA inside Microsoft 365 Copilot for finance self-service, Workday's "lights-out finance" Financial Test Suite advances toward H2 launch, and today's annual stockholder meeting closes the curtain on FY2026 governance — all while Workday Rising's early bird deadline hits tonight.
 
-- 🤝 **Sana + Gemini Enterprise: Finance AI in Your Daily Workflow** — Workday's Sana Self-Service Agent is now in early access inside Google Gemini Enterprise, surfacing expense guidance, payroll inputs, and timesheet approvals directly in Google Workspace. Phased rollout to all data centers by June 30.
-- 🔧 **Developer Agent + Agent-Ready Tools via MCP** — At DevCon 2026 (June 2), Workday launched tools to build Workday finance apps in plain language using Claude Code, Cursor, or Codex. Agent-Ready Tools add MCP-based guardrails for AI agent access to financial data with built-in business logic and reduced hallucination risk.
-- ✈️ **Travel Agent: Policy-Compliant Booking + Auto Expense Reporting** — New AI agent handles end-to-end trip planning, policy-compliant booking, and automatic expense compilation in one conversational experience; now in early access.
-- 🛂 **Agent Passport: Verified Security for Every Finance AI Agent** — Every AI agent touching Workday financial data is continuously tested against OWASP LLM Top 10, NIST AI RMF, and MITRE ATLAS; Cisco joins as launch partner.
-- 💰 **Q1 FY2027: $2.54B Revenue, Non-GAAP Margin Guidance Raised to 30.5%** — Total revenues up 13.5% YoY; new FM customers include State of Delaware and Smiths Group. Workday delivered 1.7B AI actions across its platform in FY2026.
+- 🤝 **Sana Self-Service Agent GA in Microsoft 365 Copilot** — As of May 13, finance teams can submit expenses, approve documents, and surface payroll data directly inside Teams, Outlook, and Edge — with Workday's full governance guardrails intact. No app-switching required; multilingual support planned for Q4 2026.
+- 🔍 **Financial Test Suite: AI-Powered "Lights-Out Finance"** — In limited early access, Workday's new agentic tool continuously probes financial transactions in the background to flag duplicate invoices, potential fraud, and errors before they hit the books. General availability expected H2 2026.
+- 🗓️ **2026 Annual Stockholder Meeting (Today)** — Held virtually on June 16 at 9 a.m. PT, covering FY2026 governance votes and FY2027 strategic direction from the Workday board and executive team.
+- 🎪 **Workday Rising 2026 — Early Bird Closes Tonight** — The annual customer conference heads to Las Vegas, October 12–15. Early bird registration pricing expires June 16 at 11:59 p.m. PT.
+- 📊 **Q1 FY2027: $2.54B Revenue, 11,500+ Customers Globally** — Subscription revenue up 14.3% YoY; non-GAAP operating margin guidance raised to 30.5%; 1.7B AI actions delivered across the platform in FY2026.
 
-> Workday CTO **Gabe Monroy** at DevCon 2026: **"Platforms win when they make the hard thing disappear for the developer."**
+> CEO **Aneel Bhusri** is advancing a vision of **"lights-out finance"** — where AI agents run financial checks 24/7 in the background, replacing periodic human audits with continuous anomaly detection and fraud prevention across global operations.
 
 ---
 
