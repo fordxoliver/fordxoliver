@@ -38,17 +38,17 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: June 16, 2026*
+*Last updated: June 17, 2026*
 
-This week: Sana goes GA inside Microsoft 365 Copilot for finance self-service, Workday's "lights-out finance" Financial Test Suite advances toward H2 launch, and today's annual stockholder meeting closes the curtain on FY2026 governance — all while Workday Rising's early bird deadline hits tonight.
+This week: Workday's annual stockholder meeting wrapped FY2026 governance, DevCon's new agent developer tools enter early access with MCP support, and a Google Cloud partnership embeds Workday finance agents directly into Gemini Enterprise.
 
-- 🤝 **Sana Self-Service Agent GA in Microsoft 365 Copilot** — As of May 13, finance teams can submit expenses, approve documents, and surface payroll data directly inside Teams, Outlook, and Edge — with Workday's full governance guardrails intact. No app-switching required; multilingual support planned for Q4 2026.
-- 🔍 **Financial Test Suite: AI-Powered "Lights-Out Finance"** — In limited early access, Workday's new agentic tool continuously probes financial transactions in the background to flag duplicate invoices, potential fraud, and errors before they hit the books. General availability expected H2 2026.
-- 🗓️ **2026 Annual Stockholder Meeting (Today)** — Held virtually on June 16 at 9 a.m. PT, covering FY2026 governance votes and FY2027 strategic direction from the Workday board and executive team.
-- 🎪 **Workday Rising 2026 — Early Bird Closes Tonight** — The annual customer conference heads to Las Vegas, October 12–15. Early bird registration pricing expires June 16 at 11:59 p.m. PT.
-- 📊 **Q1 FY2027: $2.54B Revenue, 11,500+ Customers Globally** — Subscription revenue up 14.3% YoY; non-GAAP operating margin guidance raised to 30.5%; 1.7B AI actions delivered across the platform in FY2026.
+- 🗓️ **Annual Stockholder Meeting Completed (June 16)** — Workday held its virtual annual meeting, completing FY2026 governance votes and affirming FY2027 strategic priorities — including continued investment in agentic AI across finance and HR.
+- 🔧 **Developer Agent & Agent Passport Now in Early Access** — Launched at Workday DevCon (June 2), these tools let developers build AI agents in plain language, expose HR/finance data via MCP guardrails (Agent-Ready Tools), and certify agents for enterprise deployment (Agent Passport). GA targeted for H2 2026.
+- 🤝 **Finance Agents Land in Google Gemini Enterprise** — Workday and Google Cloud expanded their partnership to bring HR and finance AI agents into Gemini Enterprise, enabling expense guidance, payroll inputs, and timesheet approvals inside Google's AI workspace.
+- 🏪 **Specsavers Selects Workday Financial Management** — The global optical retail chain chose Workday to modernize its worldwide finance operations and support its shift to an omni-channel operating model.
+- 📊 **Q1 FY2027 Recap: $2.54B Revenue, Guidance Raised** — Total revenue up 13.5% YoY; subscription revenue up 14.3%; non-GAAP operating margin guidance lifted to 30.5% as AI adoption accelerates across 11,500+ global customers.
 
-> CEO **Aneel Bhusri** is advancing a vision of **"lights-out finance"** — where AI agents run financial checks 24/7 in the background, replacing periodic human audits with continuous anomaly detection and fraud prevention across global operations.
+> At **Workday DevCon**, leadership positioned **Agent Passport** — a digital compliance-verification layer for AI agents — as foundational trust infrastructure for enterprise deployments. The move signals Workday's intent to become the **governing platform for agentic finance and HR workflows**, ensuring every AI action is auditable and compliant before it runs.
 
 ---
 
