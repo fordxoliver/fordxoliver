@@ -38,17 +38,17 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: June 17, 2026*
+*Last updated: June 18, 2026*
 
-This week: Workday's annual stockholder meeting wrapped FY2026 governance, DevCon's new agent developer tools enter early access with MCP support, and a Google Cloud partnership embeds Workday finance agents directly into Gemini Enterprise.
+This week: WDAY stock slid on AI-disruption fears while Workday kept shipping — a fraud-detection finance agent heads to GA in H2, and the Sana assistant is now live inside Microsoft 365 Copilot.
 
-- 🗓️ **Annual Stockholder Meeting Completed (June 16)** — Workday held its virtual annual meeting, completing FY2026 governance votes and affirming FY2027 strategic priorities — including continued investment in agentic AI across finance and HR.
-- 🔧 **Developer Agent & Agent Passport Now in Early Access** — Launched at Workday DevCon (June 2), these tools let developers build AI agents in plain language, expose HR/finance data via MCP guardrails (Agent-Ready Tools), and certify agents for enterprise deployment (Agent Passport). GA targeted for H2 2026.
-- 🤝 **Finance Agents Land in Google Gemini Enterprise** — Workday and Google Cloud expanded their partnership to bring HR and finance AI agents into Gemini Enterprise, enabling expense guidance, payroll inputs, and timesheet approvals inside Google's AI workspace.
-- 🏪 **Specsavers Selects Workday Financial Management** — The global optical retail chain chose Workday to modernize its worldwide finance operations and support its shift to an omni-channel operating model.
-- 📊 **Q1 FY2027 Recap: $2.54B Revenue, Guidance Raised** — Total revenue up 13.5% YoY; subscription revenue up 14.3%; non-GAAP operating margin guidance lifted to 30.5% as AI adoption accelerates across 11,500+ global customers.
+- 📉 **WDAY Shares Fall 5% on AI Disruption Fears** — Workday stock dropped 5% on June 11 and is down ~39% YTD as investors weigh AI disruption risk to traditional ERP platforms, even as Workday accelerates its own agentic product roadmap.
+- 🔍 **Financial Test Suite Agent Targets Fraud & Errors** — Workday's agentic Financial Test Suite — which continuously probes transactions and controls, flags anomalies, and can block duplicate payments before they post — is expected to reach GA in H2 2026.
+- 🤝 **Sana Finance Agent Now Live in Microsoft 365 Copilot** — Workday's Sana Self-Service Agent is now available inside Microsoft 365 Copilot, letting employees answer finance and HR questions and complete everyday tasks without leaving their Microsoft workflow.
+- 🪪 **Agent Passport Advancing Toward H2 Early Access** — Workday's AI agent trust-verification framework (announced at DevCon, June 2) is progressing toward early access, certifying third-party agents against OWASP/NIST standards before they touch sensitive finance or payroll data.
+- ☁️ **Workday Data Cloud Opens to AWS Developers** — A new AWS integration gives developers direct access to Workday's governed financial and HR data layer, enabling richer agentic app development across enterprise workflows.
 
-> At **Workday DevCon**, leadership positioned **Agent Passport** — a digital compliance-verification layer for AI agents — as foundational trust infrastructure for enterprise deployments. The move signals Workday's intent to become the **governing platform for agentic finance and HR workflows**, ensuring every AI action is auditable and compliant before it runs.
+> CFO Dive coverage of Workday's **Financial Test Suite** signals a broader industry shift: AI agents in finance are moving from *advisory* to *autonomous*, intercepting errors and potential fraud **before they reach the books** — not after. Workday leadership sees continuous, real-time controls replacing periodic audits as the new standard for enterprise finance.
 
 ---
 
