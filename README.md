@@ -38,17 +38,17 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: June 18, 2026*
+*Last updated: June 19, 2026*
 
-This week: WDAY stock slid on AI-disruption fears while Workday kept shipping — a fraud-detection finance agent heads to GA in H2, and the Sana assistant is now live inside Microsoft 365 Copilot.
+This week: Workday expands its EMEA partner network for agentic finance AI, early-access metrics show dramatic time savings from its new Finance AI agents, and Q1 FY27 results confirm the platform now serves 7,000+ core Financial Management customers.
 
-- 📉 **WDAY Shares Fall 5% on AI Disruption Fears** — Workday stock dropped 5% on June 11 and is down ~39% YTD as investors weigh AI disruption risk to traditional ERP platforms, even as Workday accelerates its own agentic product roadmap.
-- 🔍 **Financial Test Suite Agent Targets Fraud & Errors** — Workday's agentic Financial Test Suite — which continuously probes transactions and controls, flags anomalies, and can block duplicate payments before they post — is expected to reach GA in H2 2026.
-- 🤝 **Sana Finance Agent Now Live in Microsoft 365 Copilot** — Workday's Sana Self-Service Agent is now available inside Microsoft 365 Copilot, letting employees answer finance and HR questions and complete everyday tasks without leaving their Microsoft workflow.
-- 🪪 **Agent Passport Advancing Toward H2 Early Access** — Workday's AI agent trust-verification framework (announced at DevCon, June 2) is progressing toward early access, certifying third-party agents against OWASP/NIST standards before they touch sensitive finance or payroll data.
-- ☁️ **Workday Data Cloud Opens to AWS Developers** — A new AWS integration gives developers direct access to Workday's governed financial and HR data layer, enabling richer agentic app development across enterprise workflows.
+- 🌍 **New VAR Ecosystem Broadens Workday's EMEA Reach** — On June 12, Workday launched a new value-added reseller network extending Financial Management and agentic AI access through trusted regional partners across EMEA, lowering deployment barriers for mid-market organizations.
+- 🔍 **Financial Audit Agent Saves Up to 900 Hours/Year** — Early-access customers report Workday's Financial Audit Agent — which uses natural language to pull sample data and automate audit evidence collection — is cutting nearly 900 hours of manual audit prep annually.
+- 📊 **Planning Agent Cuts Finance Analysis Time by 30%** — Now in early access, Workday's Planning Agent automates variance analysis and conversational data exploration; teams report saving ~100 hours/month in financial planning cycles.
+- 📝 **Revenue Contract Agent Enters Early Access** — Workday's Revenue Contract Agent — which identifies risks and opportunities in revenue contracts and automates downstream accounting activities — is now available to early-access customers ahead of broader rollout.
+- 📈 **Workday Crosses 7,000 Core Financial Management Customers** — Q1 FY27 results (May 21) confirmed 7,000+ core Financial Management customers globally, with subscription revenues up 14.3% YoY to $2.354B and 1.7 billion AI actions processed across the platform in FY2026.
 
-> CFO Dive coverage of Workday's **Financial Test Suite** signals a broader industry shift: AI agents in finance are moving from *advisory* to *autonomous*, intercepting errors and potential fraud **before they reach the books** — not after. Workday leadership sees continuous, real-time controls replacing periodic audits as the new standard for enterprise finance.
+> Workday's Q1 FY27 results mark a strategic inflection point: with **1.7 billion AI actions** logged across the platform in FY2026, leadership is framing the next chapter as moving from *automating tasks* to *orchestrating outcomes* — with finance agents taking on continuous controls, audit evidence, and revenue recognition end-to-end, not just surfacing insights.
 
 ---
 
