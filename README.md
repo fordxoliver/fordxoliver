@@ -38,17 +38,17 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: June 19, 2026*
+*Last updated: June 20, 2026*
 
-This week: Workday expands its EMEA partner network for agentic finance AI, early-access metrics show dramatic time savings from its new Finance AI agents, and Q1 FY27 results confirm the platform now serves 7,000+ core Financial Management customers.
+This week: Workday advances its "lights-out finance" vision with a forthcoming AI-powered Financial Test Suite for fraud and anomaly detection, expands the finance AI ecosystem with new developer tools and MCP guardrails, and brings its Agent System of Record to general availability.
 
-- 🌍 **New VAR Ecosystem Broadens Workday's EMEA Reach** — On June 12, Workday launched a new value-added reseller network extending Financial Management and agentic AI access through trusted regional partners across EMEA, lowering deployment barriers for mid-market organizations.
-- 🔍 **Financial Audit Agent Saves Up to 900 Hours/Year** — Early-access customers report Workday's Financial Audit Agent — which uses natural language to pull sample data and automate audit evidence collection — is cutting nearly 900 hours of manual audit prep annually.
-- 📊 **Planning Agent Cuts Finance Analysis Time by 30%** — Now in early access, Workday's Planning Agent automates variance analysis and conversational data exploration; teams report saving ~100 hours/month in financial planning cycles.
-- 📝 **Revenue Contract Agent Enters Early Access** — Workday's Revenue Contract Agent — which identifies risks and opportunities in revenue contracts and automates downstream accounting activities — is now available to early-access customers ahead of broader rollout.
-- 📈 **Workday Crosses 7,000 Core Financial Management Customers** — Q1 FY27 results (May 21) confirmed 7,000+ core Financial Management customers globally, with subscription revenues up 14.3% YoY to $2.354B and 1.7 billion AI actions processed across the platform in FY2026.
+- 🔐 **Financial Test Suite Readies for Broad Rollout** — Workday's agentic Financial Test Suite continuously scans transaction data in the background to catch fraud, duplicate payments, and accounting errors before they reach the books; currently in limited early access with GA expected in H2 2026.
+- 🏗️ **New Developer Tools Open the Finance Agent Ecosystem** — Launched June 2, Workday's Developer Agent, Agent-Ready Tools (with MCP guardrails for controlled data access), and Agent Passport allow developers to build, connect, and verify custom AI agents against Workday finance and HR data.
+- 💡 **"Lights-Out Finance" Emerges as Explicit Product Strategy** — Workday is framing the Financial Test Suite as a concrete step toward "lights-out finance" — autonomous financial operations running continuously, with AI agents monitoring controls and routing only true exceptions to human reviewers.
+- 🛡️ **Agent System of Record Reaches General Availability** — Workday's Agent System of Record, which gives finance and IT teams centralized visibility and governance over all deployed AI agents across HR, finance, and IT, is now generally available.
+- 📈 **Agentic AI Gains Show Up in Q1 FY27 Results** — Workday's Q1 FY27 numbers — 7,000+ Financial Management customers, subscription revenue up 14.3% YoY to $2.354B, 1.7B AI actions logged in FY2026 — show the agentic platform is now a competitive differentiator in enterprise ERP evaluations.
 
-> Workday's Q1 FY27 results mark a strategic inflection point: with **1.7 billion AI actions** logged across the platform in FY2026, leadership is framing the next chapter as moving from *automating tasks* to *orchestrating outcomes* — with finance agents taking on continuous controls, audit evidence, and revenue recognition end-to-end, not just surfacing insights.
+> Workday's "lights-out finance" ambition — where **AI agents run financial controls continuously**, catch anomalies in real time, and surface only true exceptions to humans — is no longer a roadmap item but an active product strategy. The Financial Test Suite and Agent System of Record are its first proof points, with leadership signaling the next wave of agents will take on end-to-end ownership of finance processes, not just surface insights.
 
 ---
 
