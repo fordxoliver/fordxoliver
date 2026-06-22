@@ -38,17 +38,17 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: June 21, 2026*
+*Last updated: June 22, 2026*
 
-This week: Aneel Bhusri officially returns as Workday CEO at the June 16 annual stockholder meeting, doubling down on AI as the company's defining strategy, while Workday deepens its enterprise ecosystem with a new EMEA VAR network, tighter AWS cloud integration, and Sana now broadly available inside Microsoft 365 Copilot.
+This week: Workday advances its "lights-out finance" vision with the Financial Test Suite entering early access for real-time fraud and anomaly detection, while Q1 FY27 earnings confirm strong Financial Management momentum and new agentic finance agents expand automated accounting workflows.
 
-- 👔 **Bhusri Returns as CEO, Sets AI-First Mandate** — At the June 16 virtual annual stockholder meeting, co-founder Aneel Bhusri formally resumed the CEO role, with Carl Eschenbach stepping down; Bhusri immediately set the tone: "AI is a bigger transformation than SaaS," citing Q1 FY27 results as proof Workday's agentic platform strategy is working.
-- 🤝 **EMEA VAR Ecosystem Opens Agentic AI to Regional Partners** — Announced June 12, Workday launched a new Value Added Reseller ecosystem across EMEA to extend access to its agentic AI capabilities and Workday GO offerings through trusted regional channel partners, accelerating deployment for mid-size organizations.
-- ☁️ **Workday Data Cloud Integrates with AWS** — Workday announced deeper integration between Workday Data Cloud and Amazon Web Services, enabling finance and HR teams to run richer cross-platform analytics and streamline data pipelines across the enterprise.
-- 📊 **Analysts Remain Bullish Amid WDAY Market Pressure** — Despite significant YTD stock headwinds, 42 Wall Street analysts hold a consensus "Moderate Buy" on WDAY — pointing to 14%+ subscription revenue growth, 7,000+ Financial Management customers, and the agentic AI platform transition as underappreciated catalysts.
-- 🖥️ **Sana Self-Service Agent Now GA in Microsoft 365 Copilot** — Workday's Sana agent for HR and Finance is now generally available inside Microsoft 365 Copilot, letting employees check expense status, request time off, and look up company policies in natural language — completing Workday actions without ever leaving the Microsoft environment.
+- 🔍 **Financial Test Suite Hits Early Access** — Workday's agentic AI tool for continuous fraud, error, and anomaly detection is now live with a limited customer set, with GA expected in H2 2026; the agent monitors transactions in real time, flags duplicate invoices, and stops erroneous payments before they exit the organization.
+- 💡 **"Lights-Out Finance" Vision Advances** — The Financial Test Suite anchors Workday's push toward autonomous financial controls — replacing sample-based month-end audits with continuous background monitoring and AI-driven intervention at the point of transaction.
+- 📈 **Q1 FY27 Earnings: 14.3% Subscription Revenue Growth** — Workday reported $2.354B in subscription revenues (+14.3% YoY) for the quarter ended April 30, 2026, with total revenues of $2.542B (+13.5%); the company now counts 7,000+ core Financial Management customers globally.
+- 🤖 **Finance AI Agents Expand Automated Accounting** — The Revenue Contract Agent (Early Access) automates risk identification and downstream accounting; the Financial Audit Agent collects audit evidence via natural language; and AI-Powered Reconciliation automates end-to-end transaction reconciliation by up to 70%.
+- 🏆 **Gartner Leader Recognition Continues** — Workday was named a Leader in the 2026 Gartner® Magic Quadrant™ for Talent Acquisition Suites (May 2026), extending a streak that includes four consecutive years as a Leader in Financial Planning Software.
 
-> **Workday opens a new leadership era under returning CEO Aneel Bhusri**, who at the June 16 annual meeting positioned the company's agentic AI platform — spanning finance, HR, and IT — as the definitive response to enterprise demands for automation at scale. With $4.35B on the balance sheet and a newly expanded partner ecosystem, Bhusri's mandate is clear: transform Workday from a system of record into **the enterprise platform for managing people, money, and agents**.
+> **Workday's "lights-out finance" vision is becoming real infrastructure, not just a roadmap promise.** With the Financial Test Suite in early access and autonomous agents now handling audit evidence, revenue contracts, and transaction reconciliation, CFOs at Workday's 7,000+ Financial Management customer sites are beginning to shift from periodic reviews to continuous, AI-driven financial controls — a fundamental change in how enterprise finance operates.
 
 ---
 
