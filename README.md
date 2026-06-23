@@ -38,17 +38,15 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: June 22, 2026*
+*Last updated: June 23, 2026*
 
-This week: Workday advances its "lights-out finance" vision with the Financial Test Suite entering early access for real-time fraud and anomaly detection, while Q1 FY27 earnings confirm strong Financial Management momentum and new agentic finance agents expand automated accounting workflows.
+- 🏛️ **Annual Stockholders Meeting Approves Board & Auditor** — At the June 16 Annual Meeting (97.58% quorum), shareholders elected four Class II directors through 2029 and ratified Ernst & Young as independent auditor for the fiscal year ending January 31, 2027.
+- 🔐 **Agent Passport Brings Verified Trust to Finance AI Agents** — Workday's new Agent Passport stamps AI agents with credentials from security and compliance vendors before they access financial workflows; Developer Agent and Agent-Ready Tools enter early access via Workday Extend Professional, with GA projected H2 2026.
+- 🤖 **Sana Finance Agent Now in Microsoft 365 Copilot & Google Gemini** — The Sana Self-Service Agent for HR and Finance is live inside M365 Copilot and Gemini Enterprise, letting employees approve invoices, manage expenses, and query financial data in natural language without leaving their primary work environment.
+- ✈️ **Travel Agent Automates End-to-End Expense Workflows** — A new Workday Travel Agent handles trip planning, booking, and expense filing in one conversational interface, reducing manual touchpoints across the entire procure-to-pay cycle.
+- 📊 **AI Agent Traction Accelerates: 4,000+ Customers, ACV Up 200%** — Q1 FY27 results show Workday's agentic finance play moving from roadmap to revenue, with AI agent ACV growing 200% quarter-over-quarter and operating margins expanding to 30.5%.
 
-- 🔍 **Financial Test Suite Hits Early Access** — Workday's agentic AI tool for continuous fraud, error, and anomaly detection is now live with a limited customer set, with GA expected in H2 2026; the agent monitors transactions in real time, flags duplicate invoices, and stops erroneous payments before they exit the organization.
-- 💡 **"Lights-Out Finance" Vision Advances** — The Financial Test Suite anchors Workday's push toward autonomous financial controls — replacing sample-based month-end audits with continuous background monitoring and AI-driven intervention at the point of transaction.
-- 📈 **Q1 FY27 Earnings: 14.3% Subscription Revenue Growth** — Workday reported $2.354B in subscription revenues (+14.3% YoY) for the quarter ended April 30, 2026, with total revenues of $2.542B (+13.5%); the company now counts 7,000+ core Financial Management customers globally.
-- 🤖 **Finance AI Agents Expand Automated Accounting** — The Revenue Contract Agent (Early Access) automates risk identification and downstream accounting; the Financial Audit Agent collects audit evidence via natural language; and AI-Powered Reconciliation automates end-to-end transaction reconciliation by up to 70%.
-- 🏆 **Gartner Leader Recognition Continues** — Workday was named a Leader in the 2026 Gartner® Magic Quadrant™ for Talent Acquisition Suites (May 2026), extending a streak that includes four consecutive years as a Leader in Financial Planning Software.
-
-> **Workday's "lights-out finance" vision is becoming real infrastructure, not just a roadmap promise.** With the Financial Test Suite in early access and autonomous agents now handling audit evidence, revenue contracts, and transaction reconciliation, CFOs at Workday's 7,000+ Financial Management customer sites are beginning to shift from periodic reviews to continuous, AI-driven financial controls — a fundamental change in how enterprise finance operates.
+> **At its June 16 Annual Meeting, Workday shareholders elected Wayne A.I. Frederick, Mark J. Hawkins, Rhonda J. Morris, and George J. Still, Jr. as Class II directors through 2029.** The meeting underscored investor confidence in Workday's governance amid its accelerating AI agent pivot — with 97.58% of eligible votes represented and all key resolutions, including EY's reappointment and the equity plan, approved by wide margins.
 
 ---
 
