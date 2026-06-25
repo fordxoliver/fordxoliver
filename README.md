@@ -38,15 +38,15 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: June 24, 2026*
+*Last updated: June 25, 2026*
 
-- 📉 **WDAY Stock Underperforms as Analysts Maintain Buy Ratings** — Shares fell 4.02% on June 18, bringing YTD losses to 43.3%; despite the slide, 42 Wall Street analysts hold a "Moderate Buy" consensus with a mean price target of $177.97, implying ~46% upside from current levels.
-- ⚖️ **AI Bias Lawsuit Targets Workday Hiring & Screening Tools** — Workday faces a significant legal challenge over alleged bias in its AI-powered recruitment tools, introducing regulatory scrutiny that could shape governance standards across its broader HR and finance platform.
-- 🕵️ **Workday Developing AI Tool for Finance Fraud & Error Detection** — A forthcoming AI-powered capability targeting fraud and error detection in financial management workflows is in development, aiming to embed proactive controls directly into the Workday Finance platform.
-- 🛡️ **Agent Passport Now in Early Access — Validates Finance AI Agents Against OWASP & NIST** — Launched at DevCon on June 2, Agent Passport verifies AI agents against OWASP LLM Top 10, NIST AI RMF, and MITRE ATLAS before they access financial data; early access is open now, with GA projected H2 2026.
-- 👨‍💻 **Developer Agent Assembles Finance Agents from Plain-Language Prompts** — Through Workday Extend Professional, teams can describe an agent in natural language — e.g., "alert finance when a department trends over budget" — and Developer Agent automatically selects tools, connects data, and pulls documentation.
+- 🤖 **Sana Self-Service Agent Lands in Microsoft 365 Copilot** — Employees and managers can now handle finance and HR tasks — checking expenses, approving timesheets, managing time-off — in natural language without leaving Microsoft 365, embedding Workday's financial workflows directly into daily productivity tools.
+- ☁️ **AWS Data Cloud Integration Enables Zero-Copy Finance Analytics** — Workday's new Data Cloud Integration with AWS delivers bidirectional, zero-copy access between AWS data and AI services and Workday's governed HR and Finance data layer, unlocking real-time analytics without data duplication or migration.
+- 🛠️ **Workday 2026R1 Release Upgrades Core Financial Management** — The 2026R1 platform update brings targeted improvements across accounting, procurement, expenses, and financial controls, extending automation and auditability across core finance workflows.
+- 💰 **Q1 FY2027 Revenue Reaches $2.54B, Up 13.5% Year-Over-Year** — Workday reported subscription revenues of $2.354B (up 14.3%) and total revenues of $2.542B for Q1 FY2027, reflecting sustained enterprise demand for cloud-based financial management and HCM.
+- ✈️ **Travel Agent and Sana for ITSM Bring Agentic Finance Automation** — Workday launched a new Travel Agent — handling end-to-end trip planning, booking, and expense management — and Sana for IT Service Management, both built natively on Workday's security and governance framework.
 
-> **Workday's stock has fallen 43.3% year-to-date as the company simultaneously accelerates its AI agent platform and confronts a legal challenge over bias in its hiring tools.** Despite the headwinds, 42 Wall Street analysts maintain a "Moderate Buy" consensus — with a $177.97 average price target implying ~46% upside — signaling that markets are pricing in near-term execution risk rather than abandoning confidence in Workday's long-term platform trajectory.
+> **Aneel Bhusri, Workday's co-founder, returned as CEO in February 2026**, taking the helm as the company accelerates its transformation from ERP system of record to a full AI-agent platform. The leadership change signals a deliberate strategic reset — doubling down on agentic AI for finance and HR at a moment when enterprise buyers are demanding more than assistants and expect AI that can autonomously drive outcomes.
 
 ---
 
