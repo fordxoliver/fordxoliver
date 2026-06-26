@@ -38,15 +38,15 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: June 25, 2026*
+*Last updated: June 26, 2026*
 
-- 🤖 **Sana Self-Service Agent Lands in Microsoft 365 Copilot** — Employees and managers can now handle finance and HR tasks — checking expenses, approving timesheets, managing time-off — in natural language without leaving Microsoft 365, embedding Workday's financial workflows directly into daily productivity tools.
-- ☁️ **AWS Data Cloud Integration Enables Zero-Copy Finance Analytics** — Workday's new Data Cloud Integration with AWS delivers bidirectional, zero-copy access between AWS data and AI services and Workday's governed HR and Finance data layer, unlocking real-time analytics without data duplication or migration.
-- 🛠️ **Workday 2026R1 Release Upgrades Core Financial Management** — The 2026R1 platform update brings targeted improvements across accounting, procurement, expenses, and financial controls, extending automation and auditability across core finance workflows.
-- 💰 **Q1 FY2027 Revenue Reaches $2.54B, Up 13.5% Year-Over-Year** — Workday reported subscription revenues of $2.354B (up 14.3%) and total revenues of $2.542B for Q1 FY2027, reflecting sustained enterprise demand for cloud-based financial management and HCM.
-- ✈️ **Travel Agent and Sana for ITSM Bring Agentic Finance Automation** — Workday launched a new Travel Agent — handling end-to-end trip planning, booking, and expense management — and Sana for IT Service Management, both built natively on Workday's security and governance framework.
+- 🔐 **Agent Passport Launches to Verify Every Finance AI Agent** — Workday's new Agent Passport governance tool tests and continuously monitors every AI agent — Workday-built or third-party — before and after production deployment, with attestations mapped to OWASP LLM Top 10, NIST AI RMF, and MITRE ATLAS. Cisco joins as the first independent attestation partner.
+- 🛠️ **Developer Agent Brings Natural Language to Finance Automation** — At DevCon 2026 (June 2), Workday unveiled Developer Agent, enabling teams to build and deploy finance agents in plain language from tools like Claude Code; Agent-Ready Tools add MCP-based guardrails for controlled access to finance and HR data.
+- ☁️ **Sana Embeds into Google Gemini Enterprise for Finance Workflows** — Workday and Google Cloud expanded their strategic partnership (May 28) to integrate Sana Self-Service Agent into Gemini Enterprise, letting employees handle expense approvals, payroll inputs, and timesheet submissions without leaving Google's AI platform.
+- 💰 **Q1 FY2027 Revenue Reaches $2.54B, Up 13.5% Year-Over-Year** — Workday reported subscription revenues of $2.354B (up 14.3%) for Q1 FY2027, reflecting sustained enterprise demand for cloud-based financial management across more than 11,500 global customers.
+- ⚖️ **AI Hiring Tool Faces Lawsuit Over Disability Discrimination Allegations** — A lawsuit filed June 23 alleges Workday's AI-powered recruiting system screened out disabled job applicants, raising broader questions about AI governance and compliance that touch financial and HR automation alike.
 
-> **Aneel Bhusri, Workday's co-founder, returned as CEO in February 2026**, taking the helm as the company accelerates its transformation from ERP system of record to a full AI-agent platform. The leadership change signals a deliberate strategic reset — doubling down on agentic AI for finance and HR at a moment when enterprise buyers are demanding more than assistants and expect AI that can autonomously drive outcomes.
+> **Workday's Agent Passport**, launched at DevCon 2026, signals a pivotal strategic move: as AI agents proliferate across finance and HR workflows, Workday is staking its enterprise position on trust and auditability — requiring every agent to earn a verifiable "digital passport" tested against OWASP, NIST, and MITRE standards before it can touch financial data. With Cisco as its first attestation partner, Workday is building the governance infrastructure that large enterprises will demand as agentic AI moves from pilot to production.
 
 ---
 
