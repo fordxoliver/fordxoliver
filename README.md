@@ -38,15 +38,15 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: June 26, 2026*
+*Last updated: June 27, 2026*
 
-- 🔐 **Agent Passport Launches to Verify Every Finance AI Agent** — Workday's new Agent Passport governance tool tests and continuously monitors every AI agent — Workday-built or third-party — before and after production deployment, with attestations mapped to OWASP LLM Top 10, NIST AI RMF, and MITRE ATLAS. Cisco joins as the first independent attestation partner.
-- 🛠️ **Developer Agent Brings Natural Language to Finance Automation** — At DevCon 2026 (June 2), Workday unveiled Developer Agent, enabling teams to build and deploy finance agents in plain language from tools like Claude Code; Agent-Ready Tools add MCP-based guardrails for controlled access to finance and HR data.
-- ☁️ **Sana Embeds into Google Gemini Enterprise for Finance Workflows** — Workday and Google Cloud expanded their strategic partnership (May 28) to integrate Sana Self-Service Agent into Gemini Enterprise, letting employees handle expense approvals, payroll inputs, and timesheet submissions without leaving Google's AI platform.
-- 💰 **Q1 FY2027 Revenue Reaches $2.54B, Up 13.5% Year-Over-Year** — Workday reported subscription revenues of $2.354B (up 14.3%) for Q1 FY2027, reflecting sustained enterprise demand for cloud-based financial management across more than 11,500 global customers.
-- ⚖️ **AI Hiring Tool Faces Lawsuit Over Disability Discrimination Allegations** — A lawsuit filed June 23 alleges Workday's AI-powered recruiting system screened out disabled job applicants, raising broader questions about AI governance and compliance that touch financial and HR automation alike.
+- 🤖 **Adaptive Decision Intelligence Cuts FP&A Planning from Days to Minutes** — Unveiled at the Gartner Finance Symposium (May 27), Workday's new AI capability in Adaptive Planning lets finance teams ask natural-language questions, run Monte Carlo simulations, and commit approved scenarios directly into the governed plan with full audit trails — no spreadsheet wrangling required. Now in early adopter access.
+- 🔐 **Agent Passport Now Verifying All Finance AI Agents** — Workday's Agent Passport governance framework tests and continuously monitors every AI agent — Workday-built or third-party — before and after production deployment, with attestations mapped to OWASP LLM Top 10, NIST AI RMF, and MITRE ATLAS. Cisco joined as the first independent attestation partner at DevCon 2026 (June 2).
+- 📱 **Sana Self-Service Agent Arrives Inside Microsoft 365 Copilot** — Employees can now submit expenses, request time off, check payslips, and look up company policies in natural language without leaving Microsoft 365; all actions route through Workday's existing approvals and business rules (generally available as of May 13).
+- 📈 **WDAY Shares Surge 6.1% on Analyst Upgrade to Buy** — Monness, Crespi, Hardt upgraded Workday to Buy with a $150 price target, citing the company's accelerating AI agent momentum and its 11,500+ global customer base as key catalysts for sustained revenue growth.
+- ⚖️ **AI Hiring Tool Faces Lawsuit Over Disability Discrimination** — A lawsuit filed June 23 alleges Workday's AI-powered recruiting system screened out disabled job applicants, raising broader questions about AI governance and compliance across financial and HR automation.
 
-> **Workday's Agent Passport**, launched at DevCon 2026, signals a pivotal strategic move: as AI agents proliferate across finance and HR workflows, Workday is staking its enterprise position on trust and auditability — requiring every agent to earn a verifiable "digital passport" tested against OWASP, NIST, and MITRE standards before it can touch financial data. With Cisco as its first attestation partner, Workday is building the governance infrastructure that large enterprises will demand as agentic AI moves from pilot to production.
+> **Workday's Adaptive Decision Intelligence**, unveiled at the Gartner Finance Symposium, signals a fundamental shift in financial planning: CFOs and FP&A leaders can now pose natural-language questions to their plans, run Monte Carlo scenario projections side-by-side, and commit approved decisions directly into the governed plan — all before the meeting ends. Paired with Agent Passport's trust layer and Sana's presence in Microsoft 365 and Google Gemini, Workday is assembling a full-stack AI finance platform built for the agentic era.
 
 ---
 
