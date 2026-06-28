@@ -38,15 +38,15 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: June 27, 2026*
+*Last updated: June 28, 2026*
 
-- 🤖 **Adaptive Decision Intelligence Cuts FP&A Planning from Days to Minutes** — Unveiled at the Gartner Finance Symposium (May 27), Workday's new AI capability in Adaptive Planning lets finance teams ask natural-language questions, run Monte Carlo simulations, and commit approved scenarios directly into the governed plan with full audit trails — no spreadsheet wrangling required. Now in early adopter access.
-- 🔐 **Agent Passport Now Verifying All Finance AI Agents** — Workday's Agent Passport governance framework tests and continuously monitors every AI agent — Workday-built or third-party — before and after production deployment, with attestations mapped to OWASP LLM Top 10, NIST AI RMF, and MITRE ATLAS. Cisco joined as the first independent attestation partner at DevCon 2026 (June 2).
-- 📱 **Sana Self-Service Agent Arrives Inside Microsoft 365 Copilot** — Employees can now submit expenses, request time off, check payslips, and look up company policies in natural language without leaving Microsoft 365; all actions route through Workday's existing approvals and business rules (generally available as of May 13).
-- 📈 **WDAY Shares Surge 6.1% on Analyst Upgrade to Buy** — Monness, Crespi, Hardt upgraded Workday to Buy with a $150 price target, citing the company's accelerating AI agent momentum and its 11,500+ global customer base as key catalysts for sustained revenue growth.
-- ⚖️ **AI Hiring Tool Faces Lawsuit Over Disability Discrimination** — A lawsuit filed June 23 alleges Workday's AI-powered recruiting system screened out disabled job applicants, raising broader questions about AI governance and compliance across financial and HR automation.
+- ⚖️ **Federal Court Rules AI Bias Class Action Can Proceed Against Workday** — On June 22, U.S. District Judge Rita Lin ruled that Workday must face a class action alleging its AI hiring tools discriminated against disabled applicants, holding that California's anti-discrimination laws apply even when screening out-of-state candidates. It is the first case to broadly challenge algorithmic hiring software.
+- 📉 **WDAY Shares Drop 9.2% on Combined Governance Blows** — The court ruling combined with shareholder rejections of new ESG disclosure proposals sent Workday's stock down 9.2%, signaling that investors are pricing in AI compliance risk as a material concern for enterprise platforms.
+- 🗳️ **Shareholders Reject Workforce Transparency Proposals at Annual Meeting** — At the June 16 annual meeting, investors voted down proposals for class-based vote reporting and demographic employee-retention disclosures, pushing back on expanded governance reporting requirements.
+- ✈️ **Travel Agent Now in Early Adoption for End-to-End Expense Management** — Workday's conversational Travel Agent handles trip planning, booking, and expense filing in one flow, routing all transactions through existing financial controls and approval chains — no manual receipt uploads required.
+- 🔗 **Zero-Copy AWS Data Integration Opens Live Finance Data to AI Workloads** — A new bi-directional, zero-copy integration between Workday Data Cloud and AWS Data and AI Services lets finance teams run analytics and ML models directly against live Workday financial data without moving or duplicating it.
 
-> **Workday's Adaptive Decision Intelligence**, unveiled at the Gartner Finance Symposium, signals a fundamental shift in financial planning: CFOs and FP&A leaders can now pose natural-language questions to their plans, run Monte Carlo scenario projections side-by-side, and commit approved decisions directly into the governed plan — all before the meeting ends. Paired with Agent Passport's trust layer and Sana's presence in Microsoft 365 and Google Gemini, Workday is assembling a full-stack AI finance platform built for the agentic era.
+> **The AI bias class action advancing through federal court** is the most consequential legal development in enterprise AI this year — the first suit to broadly challenge the algorithmic decision-making behind AI screening tools. A ruling against Workday could reset standards for how finance and HR automation vendors test, audit, and disclose AI outputs, with ripple effects across the entire ERP industry.
 
 ---
 
