@@ -38,15 +38,15 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: June 27, 2026*
+*Last updated: June 29, 2026*
 
-- 🤖 **Adaptive Decision Intelligence Cuts FP&A Planning from Days to Minutes** — Unveiled at the Gartner Finance Symposium (May 27), Workday's new AI capability in Adaptive Planning lets finance teams ask natural-language questions, run Monte Carlo simulations, and commit approved scenarios directly into the governed plan with full audit trails — no spreadsheet wrangling required. Now in early adopter access.
-- 🔐 **Agent Passport Now Verifying All Finance AI Agents** — Workday's Agent Passport governance framework tests and continuously monitors every AI agent — Workday-built or third-party — before and after production deployment, with attestations mapped to OWASP LLM Top 10, NIST AI RMF, and MITRE ATLAS. Cisco joined as the first independent attestation partner at DevCon 2026 (June 2).
+- 💰 **Agentic AI Revenue Nears $500M as Adoption Doubles** — Workday's Q1 FY2027 earnings (May 21) revealed that annualized revenue from agentic AI solutions is approaching $500 million, with over 4,000 clients now using at least one Workday-built agent — more than double the prior quarter. New Annual Contract Value from agentic AI grew more than 200% year-over-year.
+- ☁️ **Workday Data Cloud Now Integrates with AWS for Zero-Copy Finance Data Access** — Announced at DevCon (June 2), Workday Data Cloud connects bi-directionally with Amazon Web Services, giving developers governed, zero-copy access to Workday's HR and finance data directly from Amazon Bedrock and other AWS AI services — no custom pipelines or data duplication required.
+- 🌍 **VAR Ecosystem Launch Extends Workday's EMEA Delivery Reach** — On June 12, Workday launched a new Value-Added Reseller (VAR) Ecosystem to broaden access to Workday services and agentic AI capabilities through trusted regional partners across Europe, the Middle East, and Africa.
 - 📱 **Sana Self-Service Agent Arrives Inside Microsoft 365 Copilot** — Employees can now submit expenses, request time off, check payslips, and look up company policies in natural language without leaving Microsoft 365; all actions route through Workday's existing approvals and business rules (generally available as of May 13).
-- 📈 **WDAY Shares Surge 6.1% on Analyst Upgrade to Buy** — Monness, Crespi, Hardt upgraded Workday to Buy with a $150 price target, citing the company's accelerating AI agent momentum and its 11,500+ global customer base as key catalysts for sustained revenue growth.
-- ⚖️ **AI Hiring Tool Faces Lawsuit Over Disability Discrimination** — A lawsuit filed June 23 alleges Workday's AI-powered recruiting system screened out disabled job applicants, raising broader questions about AI governance and compliance across financial and HR automation.
+- ⚖️ **AI Hiring Lawsuit Intensifies Governance Pressure Across HR and Finance** — A lawsuit filed June 23 alleges Workday's AI-powered recruiting system screened out disabled job applicants, raising broader compliance and AI governance questions that finance and HR leaders using automated Workday workflows will need to monitor closely.
 
-> **Workday's Adaptive Decision Intelligence**, unveiled at the Gartner Finance Symposium, signals a fundamental shift in financial planning: CFOs and FP&A leaders can now pose natural-language questions to their plans, run Monte Carlo scenario projections side-by-side, and commit approved decisions directly into the governed plan — all before the meeting ends. Paired with Agent Passport's trust layer and Sana's presence in Microsoft 365 and Google Gemini, Workday is assembling a full-stack AI finance platform built for the agentic era.
+> **Workday's Q1 FY2027 results mark a turning point for enterprise AI monetization** — with annualized agentic AI revenue approaching $500 million and client adoption more than doubling quarter-over-quarter to 4,000+ organizations, the company is converting its AI platform investments into measurable recurring revenue at speed. The new AWS Data Cloud integration and EMEA VAR Ecosystem signal that Workday is equally focused on the infrastructure and partner reach needed to scale governed AI finance capabilities across the global enterprise.
 
 ---
 
