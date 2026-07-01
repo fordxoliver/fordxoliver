@@ -38,15 +38,14 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: June 30, 2026*
+*Last updated: July 1, 2026*
 
-- 🤖 **Three New Finance AI Agents Now in Early Access** — Unveiled at DevCon (June 2), Workday's Financial Audit Agent, Planning Agent, and Revenue Contract Agent are available through Workday Extend Professional, giving finance teams natural-language access to audit sample data, automated variance insights, and AI-driven revenue contract risk identification — with general availability targeted for H2 2026.
-- 🛡️ **Agent Passport Brings Signed Security Attestations to Finance Workflows** — Built with Cisco AI Defense, Agent Passport requires every AI agent — Workday-built or third-party — to pass testing against OWASP LLM Top 10, NIST AI RMF, and MITRE ATLAS before it can operate on payroll or financial data, giving finance leaders an auditable compliance record for every agent in their stack.
-- 📈 **WDAY Surges 9.2% After Analyst Upgrades to Buy** — Monness Crespi upgraded Workday to Buy on June 25 citing an "enticing" valuation; shares rallied to $124.21, reversing recent declines. Thirty-two analysts now carry a consensus Buy rating with an average price target of $202.50 — roughly 80% above current levels.
-- ⚖️ **Federal Judge Expands Scope of AI Hiring Discrimination Lawsuit** — A federal judge ruled this week that California's anti-discrimination protections may extend to out-of-state job applicants in the ongoing Workday AI recruiting lawsuit (filed June 23), broadening compliance exposure for any organization using Workday's AI-powered talent and hiring workflows.
-- 📉 **Co-Founder David Duffield Files Intent to Sell 71K Shares** — Workday's co-founder lodged an Intent to Sell Form for 71,000 shares on June 17, representing notable insider activity to track alongside the leadership transition and the company's aggressive pivot toward agentic AI monetization.
+- 🕵️ **Financial Test Suite Pushes Toward "Lights-Out Finance"** — Workday's agentic AI tool for continuous fraud and anomaly detection — flagging duplicate invoices and halting duplicate payments before they process — is expanding beyond early-access customers, with general availability targeted for H2 2026 as controls shift from periodic audits to real-time monitoring.
+- 🎓 **Clemson University Goes Live on Workday Finance (July 1)** — Clemson's new HR and finance system launched today for all university faculty, staff, and student workers, marking one of the year's largest higher-ed Financial Management go-lives.
+- 🏛️ **Canadian Public Sector Footprint Grows** — Workday added new government and healthcare customers in Canada — including the City of Kelowna, City of Markham, Norfolk General Hospital, Oak Valley Health, and Peterborough Regional Health Centre — as public-sector AI modernization accelerates.
+- 📊 **WDAY Cools After Last Week's Rally** — Shares closed June 30 at $122.42, giving back a bit of the prior week's 9.2% analyst-upgrade surge; Wall Street's consensus price targets still range roughly $195–$280, reflecting continued confidence in the agentic AI roadmap.
 
-> **CEO Aneel Bhusri is doubling down on agentic AI as Workday's defining bet** — "AI is a bigger transformation than SaaS — and it will define the next generation of market leaders," Bhusri said upon returning as CEO in February 2026. With annualized agentic AI revenue approaching $500M, adoption more than doubling quarter-over-quarter to 4,000+ enterprise clients, and new finance-specific agents now in early access, Bhusri and co-presidents Gerrit Kazmaier and Rob Enslin are steering Workday toward a future where every finance and HR workflow is agent-augmented.
+> **CEO Aneel Bhusri is framing "lights-out finance" as the next leap beyond agentic AI** — with tools like the Financial Test Suite designed to run continuous checks and controls in the background rather than through periodic human review, Bhusri is positioning Workday's finance agents to move from assisting close-cycle tasks today toward autonomously preventing errors and fraud in real time as adoption scales through the second half of 2026.
 
 ---
 
