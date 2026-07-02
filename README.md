@@ -38,14 +38,15 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: July 1, 2026*
+*Last updated: July 2, 2026*
 
-- 🕵️ **Financial Test Suite Pushes Toward "Lights-Out Finance"** — Workday's agentic AI tool for continuous fraud and anomaly detection — flagging duplicate invoices and halting duplicate payments before they process — is expanding beyond early-access customers, with general availability targeted for H2 2026 as controls shift from periodic audits to real-time monitoring.
-- 🎓 **Clemson University Goes Live on Workday Finance (July 1)** — Clemson's new HR and finance system launched today for all university faculty, staff, and student workers, marking one of the year's largest higher-ed Financial Management go-lives.
-- 🏛️ **Canadian Public Sector Footprint Grows** — Workday added new government and healthcare customers in Canada — including the City of Kelowna, City of Markham, Norfolk General Hospital, Oak Valley Health, and Peterborough Regional Health Centre — as public-sector AI modernization accelerates.
-- 📊 **WDAY Cools After Last Week's Rally** — Shares closed June 30 at $122.42, giving back a bit of the prior week's 9.2% analyst-upgrade surge; Wall Street's consensus price targets still range roughly $195–$280, reflecting continued confidence in the agentic AI roadmap.
+- 🌍 **Zalaris Joins the Workday Partner Program** — Announced June 18, the European HR and payroll provider (serving 2M+ employees monthly) builds on a decade of joint customer work, extending compliant, multi-country payroll delivery for Workday Financial Management and HCM customers across EMEA.
+- ⚖️ **Kainos-Powered Pay Transparency Analyzer Hits Early Adoption Milestone** — Workday and delivery partner Kainos marked growing customer uptake (June 12) of the AI-driven tool that consolidates compensation and demographic data to help finance and HR teams meet the EU Pay Transparency Directive ahead of its 2026 deadline.
+- ☁️ **Sana Finance Agent Expands Into Google Gemini Enterprise** — Following May's expanded Workday–Google Cloud partnership, the Sana Self-Service Agent is now reaching more employees inside Gemini Enterprise, letting them handle expense approvals, payroll inputs, and spend-policy questions without leaving Google's AI workspace.
+- 📈 **WDAY Holds Buy Consensus as Analysts Reaffirm ~$202 Target** — As of July 2, 32+ Wall Street analysts maintain a consensus "Buy" rating on Workday, with an average price target near $202.50 implying roughly 38% upside — continued confidence in the company's agentic AI finance roadmap.
+- 🧮 **KPMG's Ignite Financial Close Companion Targets Month-End Pain Points** — Built in cooperation with Google and Workday, the AI assistant helps legal-entity controllers and accounting analysts accelerate reconciliations and close tasks, the latest partner-built agent layered on top of Workday Financial Management.
 
-> **CEO Aneel Bhusri is framing "lights-out finance" as the next leap beyond agentic AI** — with tools like the Financial Test Suite designed to run continuous checks and controls in the background rather than through periodic human review, Bhusri is positioning Workday's finance agents to move from assisting close-cycle tasks today toward autonomously preventing errors and fraud in real time as adoption scales through the second half of 2026.
+> **Workday's partner ecosystem is doing double duty as its go-to-market and its governance strategy.** Fresh entrants like Zalaris and deepening work with Kainos, Google Cloud, and KPMG show Workday extending Financial Management's reach through trusted implementers rather than building every capability in-house — a model that lets CFOs adopt agentic finance tools (close automation, pay-equity compliance, embedded self-service) at the pace their organizations can absorb, while Wall Street's steady Buy consensus signals the strategy is landing with investors too.
 
 ---
 
