@@ -38,15 +38,15 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: July 2, 2026*
+*Last updated: July 3, 2026*
 
-- 🌍 **Zalaris Joins the Workday Partner Program** — Announced June 18, the European HR and payroll provider (serving 2M+ employees monthly) builds on a decade of joint customer work, extending compliant, multi-country payroll delivery for Workday Financial Management and HCM customers across EMEA.
-- ⚖️ **Kainos-Powered Pay Transparency Analyzer Hits Early Adoption Milestone** — Workday and delivery partner Kainos marked growing customer uptake (June 12) of the AI-driven tool that consolidates compensation and demographic data to help finance and HR teams meet the EU Pay Transparency Directive ahead of its 2026 deadline.
-- ☁️ **Sana Finance Agent Expands Into Google Gemini Enterprise** — Following May's expanded Workday–Google Cloud partnership, the Sana Self-Service Agent is now reaching more employees inside Gemini Enterprise, letting them handle expense approvals, payroll inputs, and spend-policy questions without leaving Google's AI workspace.
-- 📈 **WDAY Holds Buy Consensus as Analysts Reaffirm ~$202 Target** — As of July 2, 32+ Wall Street analysts maintain a consensus "Buy" rating on Workday, with an average price target near $202.50 implying roughly 38% upside — continued confidence in the company's agentic AI finance roadmap.
-- 🧮 **KPMG's Ignite Financial Close Companion Targets Month-End Pain Points** — Built in cooperation with Google and Workday, the AI assistant helps legal-entity controllers and accounting analysts accelerate reconciliations and close tasks, the latest partner-built agent layered on top of Workday Financial Management.
+- 📈 **WDAY Rallies on Monness Upgrade to Buy** — Monness, Crespi, Hardt lifted Workday to Buy from Neutral (~$150 target) in late June, citing a depressed valuation and "progress ramping agentic AI" after WDAY had been one of the worst performers in its coverage universe; shares extended the move into July, up roughly 6% on July 1 and another 4% on July 2.
+- 🕵️ **"Financial Test Suite" Fraud-Detection Agent Nears Broad Rollout** — Piloted with early customers since last fall, Workday's agentic AI tool for catching duplicate invoices, errors, and anomalous transactions is on track for general availability in the second half of 2026 as part of the company's "lights-out finance" push for CFOs.
+- ⚖️ **Named Customers Validate Kainos Pay Transparency Analyzer** — With the EU Pay Transparency Directive's transposition deadline now passed, Workday cited David Lloyd Clubs, Fugro, and Kongsberg as customers using the Kainos-built analyzer to turn compensation and demographic data in Financial Management and HCM into a competitive-edge tool rather than a compliance scramble.
+- 🧑‍💻 **New Developer Tools to Build and Verify Finance AI Agents** — Workday shipped tooling that lets partners and customers build, connect, and verify custom AI agents across HR, Finance, and IT, extending the Illuminate agent ecosystem beyond Workday's own pre-built agents.
+- 🌍 **EMEA VAR Ecosystem Keeps Expanding** — Regional value-added resellers across EMEA continue onboarding to extend Workday's agentic AI and Financial Management capabilities to mid-market customers who need local implementation partners.
 
-> **Workday's partner ecosystem is doing double duty as its go-to-market and its governance strategy.** Fresh entrants like Zalaris and deepening work with Kainos, Google Cloud, and KPMG show Workday extending Financial Management's reach through trusted implementers rather than building every capability in-house — a model that lets CFOs adopt agentic finance tools (close automation, pay-equity compliance, embedded self-service) at the pace their organizations can absorb, while Wall Street's steady Buy consensus signals the strategy is landing with investors too.
+> **A CEO comeback story is turning into an AI comeback story.** Since co-founder Aneel Bhusri returned as CEO in February to reverse a stock slide that made WDAY one of 2026's worst-performing large-cap software names, Workday's turnaround pitch has leaned almost entirely on agentic AI for Financial Management — fraud-detection agents, new developer tooling, and compliance automation. Late June's analyst upgrade, explicitly citing progress on agentic AI, suggests Wall Street is starting to buy into that bet.
 
 ---
 
