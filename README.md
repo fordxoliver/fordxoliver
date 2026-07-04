@@ -38,15 +38,14 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: July 3, 2026*
+*Last updated: July 4, 2026*
 
-- 📈 **WDAY Rallies on Monness Upgrade to Buy** — Monness, Crespi, Hardt lifted Workday to Buy from Neutral (~$150 target) in late June, citing a depressed valuation and "progress ramping agentic AI" after WDAY had been one of the worst performers in its coverage universe; shares extended the move into July, up roughly 6% on July 1 and another 4% on July 2.
-- 🕵️ **"Financial Test Suite" Fraud-Detection Agent Nears Broad Rollout** — Piloted with early customers since last fall, Workday's agentic AI tool for catching duplicate invoices, errors, and anomalous transactions is on track for general availability in the second half of 2026 as part of the company's "lights-out finance" push for CFOs.
-- ⚖️ **Named Customers Validate Kainos Pay Transparency Analyzer** — With the EU Pay Transparency Directive's transposition deadline now passed, Workday cited David Lloyd Clubs, Fugro, and Kongsberg as customers using the Kainos-built analyzer to turn compensation and demographic data in Financial Management and HCM into a competitive-edge tool rather than a compliance scramble.
-- 🧑‍💻 **New Developer Tools to Build and Verify Finance AI Agents** — Workday shipped tooling that lets partners and customers build, connect, and verify custom AI agents across HR, Finance, and IT, extending the Illuminate agent ecosystem beyond Workday's own pre-built agents.
-- 🌍 **EMEA VAR Ecosystem Keeps Expanding** — Regional value-added resellers across EMEA continue onboarding to extend Workday's agentic AI and Financial Management capabilities to mid-market customers who need local implementation partners.
+- 🧮 **Adaptive Decision Intelligence Brings AI-Driven Scenario Planning to FP&A** — Unveiled at the Gartner Finance Symposium (May 27) and now rolling out to early-adopter customers, the new Workday Adaptive Planning capability lets finance and operations teams ask natural-language questions, run scenario and Monte Carlo simulations, and commit approved decisions directly into the governed plan — collapsing spreadsheet-driven forecasting into one AI experience.
+- ⚖️ **Judge Narrows but Keeps Alive AI Hiring Bias Claims Against Workday** — Ruling June 22 in the Mobley class action, Judge Rita Lin let claims under California's FEHA and the federal ADA proceed — including a disability-bias claim tied to medical-leave and cancer-recovery screening — while dismissing a race-based disparate-impact claim, keeping compliance pressure on finance and HR teams that rely on Workday's automated workflows.
+- 📈 **WDAY Extends Rally, Trading Near $132–$135** — Shares built on June's Monness Crespi upgrade to Buy, pushing market cap back above $33 billion as investors continue to reward progress on the company's agentic AI roadmap for Financial Management.
+- 🗓️ **Fiscal 2027 Q2 Earnings Set for August 20, Quiet Period Starts July 15** — Workday confirmed its next earnings date, giving CFOs and analysts a checkpoint on whether the agentic AI revenue momentum highlighted in Q1 (nearing $500M annualized) is carrying into the back half of fiscal 2027.
 
-> **A CEO comeback story is turning into an AI comeback story.** Since co-founder Aneel Bhusri returned as CEO in February to reverse a stock slide that made WDAY one of 2026's worst-performing large-cap software names, Workday's turnaround pitch has leaned almost entirely on agentic AI for Financial Management — fraud-detection agents, new developer tooling, and compliance automation. Late June's analyst upgrade, explicitly citing progress on agentic AI, suggests Wall Street is starting to buy into that bet.
+> **Wall Street keeps rewarding the AI pivot, but governance risk isn't going away.** WDAY's rally past $130 extends a run built almost entirely on Aneel Bhusri's agentic AI bet for Financial Management and HR — yet this week's ruling keeping FEHA and ADA claims alive in Mobley v. Workday is a reminder that as Workday pushes agents deeper into hiring, payroll, and finance workflows, the same automation fueling investor enthusiasm is also the subject of the industry's most closely watched AI-discrimination lawsuit.
 
 ---
 
