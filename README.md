@@ -38,14 +38,15 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: July 4, 2026*
+*Last updated: July 5, 2026*
 
-- 🧮 **Adaptive Decision Intelligence Brings AI-Driven Scenario Planning to FP&A** — Unveiled at the Gartner Finance Symposium (May 27) and now rolling out to early-adopter customers, the new Workday Adaptive Planning capability lets finance and operations teams ask natural-language questions, run scenario and Monte Carlo simulations, and commit approved decisions directly into the governed plan — collapsing spreadsheet-driven forecasting into one AI experience.
-- ⚖️ **Judge Narrows but Keeps Alive AI Hiring Bias Claims Against Workday** — Ruling June 22 in the Mobley class action, Judge Rita Lin let claims under California's FEHA and the federal ADA proceed — including a disability-bias claim tied to medical-leave and cancer-recovery screening — while dismissing a race-based disparate-impact claim, keeping compliance pressure on finance and HR teams that rely on Workday's automated workflows.
-- 📈 **WDAY Extends Rally, Trading Near $132–$135** — Shares built on June's Monness Crespi upgrade to Buy, pushing market cap back above $33 billion as investors continue to reward progress on the company's agentic AI roadmap for Financial Management.
-- 🗓️ **Fiscal 2027 Q2 Earnings Set for August 20, Quiet Period Starts July 15** — Workday confirmed its next earnings date, giving CFOs and analysts a checkpoint on whether the agentic AI revenue momentum highlighted in Q1 (nearing $500M annualized) is carrying into the back half of fiscal 2027.
+- 🤝 **Workday Names HR Path a VAR for UK & Ireland** — Announced July 3, HR Path becomes an authorized value-added reseller selling and implementing Workday Financial Management and HCM directly to small and mid-sized organizations in Ireland and Scotland, giving finance teams "one trusted route" to modernization, per Workday UKI country manager Daniel Pell.
+- 📈 **WDAY Closes at $135.40, Extends Its Rally** — Shares rose 3.9% on July 2, with 17 of 30 covering analysts at Buy and average price targets well above $170, as Wall Street keeps rewarding progress on Workday's agentic AI roadmap for Financial Management.
+- ⚖️ **Mobley v. Workday Bias Case Keeps Reverberating on California Nexus Ruling** — Legal analysts spent the week dissecting Judge Rita Lin's June 22 order, which found Workday's FEHA exposure attaches because its algorithmic screening tools are designed and operated from its California headquarters — a precedent finance and HR leaders are watching as they lean further into agentic hiring and workforce tools.
+- 🧾 **Illuminate Finance Agents Continue Rolling Out Through 2026** — The Cost & Profitability and Financial Close agents unveiled at Workday Rising are reaching more customers this year, automating allocation-rule setup and close activities as finance teams scale agentic AI adoption inside Financial Management.
+- 🗓️ **Fiscal 2027 Q2 Earnings Set for August 20, Quiet Period Starts July 15** — Workday confirmed its next earnings date, giving CFOs and analysts a checkpoint on whether the agentic AI revenue momentum highlighted in Q1 is carrying into the back half of fiscal 2027.
 
-> **Wall Street keeps rewarding the AI pivot, but governance risk isn't going away.** WDAY's rally past $130 extends a run built almost entirely on Aneel Bhusri's agentic AI bet for Financial Management and HR — yet this week's ruling keeping FEHA and ADA claims alive in Mobley v. Workday is a reminder that as Workday pushes agents deeper into hiring, payroll, and finance workflows, the same automation fueling investor enthusiasm is also the subject of the industry's most closely watched AI-discrimination lawsuit.
+> **Wall Street keeps rewarding Workday's agentic AI pivot, but the compliance bill keeps growing too.** WDAY's climb to $135 extends a run built largely on Aneel Bhusri's bet that AI agents will re-anchor Financial Management and HR — yet the continued fallout from Judge Lin's California nexus ruling in Mobley v. Workday is a reminder that as agents move deeper into hiring, payroll, and finance workflows, regulatory and litigation risk is rising in lockstep with the growth story.
 
 ---
 
