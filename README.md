@@ -38,15 +38,15 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: July 5, 2026*
+*Last updated: July 6, 2026*
 
-- 🤝 **Workday Names HR Path a VAR for UK & Ireland** — Announced July 3, HR Path becomes an authorized value-added reseller selling and implementing Workday Financial Management and HCM directly to small and mid-sized organizations in Ireland and Scotland, giving finance teams "one trusted route" to modernization, per Workday UKI country manager Daniel Pell.
-- 📈 **WDAY Closes at $135.40, Extends Its Rally** — Shares rose 3.9% on July 2, with 17 of 30 covering analysts at Buy and average price targets well above $170, as Wall Street keeps rewarding progress on Workday's agentic AI roadmap for Financial Management.
-- ⚖️ **Mobley v. Workday Bias Case Keeps Reverberating on California Nexus Ruling** — Legal analysts spent the week dissecting Judge Rita Lin's June 22 order, which found Workday's FEHA exposure attaches because its algorithmic screening tools are designed and operated from its California headquarters — a precedent finance and HR leaders are watching as they lean further into agentic hiring and workforce tools.
-- 🧾 **Illuminate Finance Agents Continue Rolling Out Through 2026** — The Cost & Profitability and Financial Close agents unveiled at Workday Rising are reaching more customers this year, automating allocation-rule setup and close activities as finance teams scale agentic AI adoption inside Financial Management.
-- 🗓️ **Fiscal 2027 Q2 Earnings Set for August 20, Quiet Period Starts July 15** — Workday confirmed its next earnings date, giving CFOs and analysts a checkpoint on whether the agentic AI revenue momentum highlighted in Q1 is carrying into the back half of fiscal 2027.
+- 🌍 **Bernd Leukert Joins Workday's EMEA Advisory Board** — Announced July 1, the former Deutsche Bank AG Management Board member for Technology, Data & Innovation brings 30+ years of financial-services and enterprise-software leadership to help EMEA customers navigate AI-driven finance and workforce transformation.
+- 📈 **WDAY Surges 4.73% to $136.43** — Shares extended their rally on strong buying interest and technical momentum above the 20- and 50-day moving averages, even as the stock trades below its 200-day average and a 10%-owner trust (David A. Duffield) sold 107,500 Class A shares for roughly $13.1 million.
+- 🤝 **Workday Names HR Path a VAR for UK & Ireland** — Announced July 3, HR Path becomes an authorized value-added reseller selling and implementing Workday Financial Management and HCM directly to small and mid-sized organizations in Ireland and Scotland.
+- ⚖️ **Mobley v. Workday Bias Case Keeps Reverberating on California Nexus Ruling** — Coverage from HR Dive and Bloomberg Law continued dissecting the California nexus ruling that keeps Workday's FEHA exposure alive because its algorithmic screening tools are designed and operated from its California headquarters — a precedent finance and HR leaders are watching as they lean further into agentic hiring and workforce tools.
+- 🗓️ **Fiscal 2027 Q2 Earnings Set for August 20, Quiet Period Starts July 15** — Workday's next earnings date gives CFOs and analysts a checkpoint on whether the agentic AI revenue momentum highlighted in Q1 is carrying into the back half of fiscal 2027.
 
-> **Wall Street keeps rewarding Workday's agentic AI pivot, but the compliance bill keeps growing too.** WDAY's climb to $135 extends a run built largely on Aneel Bhusri's bet that AI agents will re-anchor Financial Management and HR — yet the continued fallout from Judge Lin's California nexus ruling in Mobley v. Workday is a reminder that as agents move deeper into hiring, payroll, and finance workflows, regulatory and litigation risk is rising in lockstep with the growth story.
+> **A veteran of Deutsche Bank's technology leadership is now advising Workday's EMEA push, right as the stock rallies on renewed buying interest and an insider trust cashes out $13 million in shares.** Bernd Leukert's arrival on the EMEA Advisory Board signals Workday is doubling down on deep financial-regulation expertise as it sells agentic Financial Management further into Europe — even as the unresolved Mobley bias litigation keeps reminding finance and HR leaders that regulatory risk is rising alongside the AI growth story.
 
 ---
 
