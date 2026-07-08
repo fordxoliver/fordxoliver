@@ -38,15 +38,15 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: July 7, 2026*
+*Last updated: July 8, 2026*
 
 - 🌍 **Bernd Leukert Joins Workday's EMEA Advisory Board** — Announced July 1, the former Deutsche Bank AG Management Board member for Technology, Data & Innovation brings 30+ years of financial-services and enterprise-software leadership to help EMEA customers navigate AI-driven finance and workforce transformation.
-- 📈 **WDAY Extends Rally to $137.99, +1.91%** — Shares climbed further this week, trading in a $129.20–$138.40 range and closing in on multi-month highs, as buying momentum builds even though the stock remains below its 200-day moving average.
+- 📈 **WDAY Holds Near Multi-Month Highs at $137.99** — Shares remain in a $129.20–$138.40 range this week, up roughly 9% on strong demand for its AI-infused software, even as some analysts flag the stock as still undervalued relative to its growth narrative.
 - 🤝 **Workday Names HR Path a VAR for UK & Ireland** — Announced July 3, HR Path becomes an authorized value-added reseller selling and implementing Workday Financial Management and HCM directly to small and mid-sized organizations in Ireland and Scotland.
 - ⚖️ **Mobley v. Workday Bias Case Keeps Reverberating on California Nexus Ruling** — Coverage from HR Dive and Bloomberg Law continued dissecting the California nexus ruling that keeps Workday's FEHA exposure alive because its algorithmic screening tools are designed and operated from its California headquarters — a precedent finance and HR leaders are watching as they lean further into agentic hiring and workforce tools.
-- 🗓️ **Fiscal 2027 Q2 Earnings Set for August 20, Quiet Period Starts July 15** — Workday's next earnings date gives CFOs and analysts a checkpoint on whether the agentic AI revenue momentum highlighted in Q1 is carrying into the back half of fiscal 2027.
+- 🗓️ **Fiscal 2027 Q2 Earnings Set for August 20, Quiet Period Starts July 15** — Workday's next earnings date gives CFOs and analysts a checkpoint on whether the agentic AI revenue momentum highlighted in Q1 — best new ACV growth in five years and AI-related ACV up over 200% year-over-year — is carrying into the back half of fiscal 2027.
 
-> **A veteran of Deutsche Bank's technology leadership is now advising Workday's EMEA push, right as the stock climbs toward multi-month highs.** Bernd Leukert's arrival on the EMEA Advisory Board signals Workday is doubling down on deep financial-regulation expertise as it sells agentic Financial Management further into Europe — even as the unresolved Mobley bias litigation keeps reminding finance and HR leaders that regulatory risk is rising alongside the AI growth story.
+> **A veteran of Deutsche Bank's technology leadership is now advising Workday's EMEA push, right as the stock holds near multi-month highs.** Bernd Leukert's arrival on the EMEA Advisory Board signals Workday is doubling down on deep financial-regulation expertise as it sells agentic Financial Management further into Europe — even as the unresolved Mobley bias litigation keeps reminding finance and HR leaders that regulatory risk is rising alongside the AI growth story.
 
 ---
 
