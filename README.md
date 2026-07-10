@@ -38,15 +38,15 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: July 9, 2026*
+*Last updated: July 10, 2026*
 
-- 🗓️ **Quiet Period for Fiscal 2027 Q2 Earnings Begins July 15** — With results due August 20, Workday heads into its blackout window facing a key test: can the agentic AI momentum from Q1 — best new ACV growth in five years and AI-related ACV up over 200% year-over-year — extend into the back half of fiscal 2027?
-- 🤝 **Workday Names HR Path a VAR for UK & Ireland** — Announced July 3, HR Path becomes an authorized value-added reseller selling and implementing Workday Financial Management and HCM directly to small and mid-sized organizations in Ireland and Scotland, deepening Workday's hybrid go-to-market push in EMEA.
-- ⚖️ **Mobley v. Workday FEHA Claims Move Toward Discovery** — Following Judge Rita Lin's June 22 denial of Workday's motion to dismiss, reporting this week notes the collective now includes an estimated 14,000 opt-ins with no trial date yet set — a growing compliance watch-item for finance and HR leaders relying on Workday's AI-powered screening tools.
-- 📈 **WDAY Shares Stay Volatile Despite AI Growth Story** — Stock remains down roughly 33% year-to-date even after recent sessions near $138, as investors weigh strong agentic AI demand against broader tech-sector swings ahead of the next earnings print.
-- 🌍 **Bernd Leukert's EMEA Advisory Board Seat Still Resonating** — His July 1 appointment continues to draw coverage as Workday leans on his Deutsche Bank financial-services pedigree to push Financial Management deeper into European regulated markets.
+- 🗓️ **Fiscal 2027 Q2 Quiet Period Starts July 15** — With earnings due August 20, Workday enters its blackout window facing the same question as last week: can the agentic AI momentum from Q1 — best new ACV growth in five years and AI-related ACV up over 200% year-over-year — carry into the back half of fiscal 2027?
+- 🔐 **Financial Test & Audit Agents Head Toward Early Access** — Built on the Agent Passport framework unveiled at DevCon, Workday's Financial Test Agent and Financial Audit Agent — which auto-detect anomalies, speed evidence collection, and validate controls in real time — are rolling into early access this half, giving finance teams governed, auditable AI directly inside Financial Management.
+- 🤝 **HR Path Named VAR for Workday in UK & Ireland** — The July 3 authorization lets HR Path sell and implement Workday Financial Management and HCM directly to small and mid-sized organizations in Ireland and Scotland, extending Workday's hybrid go-to-market push in EMEA.
+- ⚖️ **Mobley v. Workday FEHA Case Moves Into Discovery** — With Judge Rita Lin's motion-to-dismiss denial now behind it, the collective sits at an estimated 14,000 opt-ins and no trial date yet — still a live compliance watch-item for finance and HR leaders relying on Workday's AI-powered screening tools.
+- 📈 **Insider Filing Adds to a Volatile WDAY Tape** — CFO Zane Rowe's July 7 sale of 6,000 shares under a 10b5-1 plan (Form 144 filed July 9) lands as shares hover near $138, still down roughly 33% year-to-date heading into the earnings blackout.
 
-> **Workday enters its earnings quiet period next week with two stories running in parallel.** On one side, agentic AI adoption (4,000+ customers on AI agents, ACV up 200%+ YoY) and fresh EMEA leadership and channel bets signal real commercial momentum. On the other, the Mobley FEHA litigation is now sliding into discovery with thousands of opt-ins, a reminder to finance and HR leaders that the regulatory tail on AI-powered HR tools is lengthening even as the growth narrative accelerates.
+> **Workday heads into its earnings quiet period with the AI story shifting from announcements to delivery.** Financial Management-specific agents (Test, Audit) are moving from keynote demos toward early-access rollout, and EMEA channel expansion continues via HR Path — real signs of commercial follow-through. But the Mobley FEHA litigation sliding into discovery, alongside routine insider selling against a still-depressed stock, is a reminder that governance and market confidence haven't yet caught up to the AI growth narrative.
 
 ---
 
