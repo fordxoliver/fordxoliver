@@ -38,15 +38,14 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: July 12, 2026*
+*Last updated: July 13, 2026*
 
-- 📉 **Shares Gap Down Heading Into Blackout** — WDAY slid from a July 8 close of $137.88 to a $131.40 open, extending a rough stretch right before the Fiscal 2027 Q2 quiet period starts July 15; earnings land August 20, with guidance still pointing to ~$2.455B subscription revenue (13% growth) and $2.70 EPS.
-- 🔐 **Financial Test & Audit Agents Head Toward Early Access** — Built on the Agent Passport framework unveiled at DevCon, Workday's Financial Test Agent and Financial Audit Agent — which auto-detect anomalies, speed evidence collection, and validate controls in real time — are rolling into early access this half, giving finance teams governed, auditable AI directly inside Financial Management.
-- 🤝 **HR Path Named VAR for Workday in UK & Ireland** — The July 3 authorization lets HR Path sell and implement Workday Financial Management and HCM directly to small and mid-sized organizations in Ireland and Scotland, extending Workday's hybrid go-to-market push in EMEA.
-- ⚖️ **Mobley v. Workday FEHA Case Moves Into Discovery** — With Judge Rita Lin's motion-to-dismiss denial now behind it, the collective sits at an estimated 14,000 opt-ins and no trial date yet — still a live compliance watch-item for finance and HR leaders relying on Workday's AI-powered screening tools.
-- 📈 **Insider Selling Widens Across Leadership** — CFO Zane Rowe sold 6,000 shares on July 7 (~$862K), President Robert Enslin sold 5,374 shares on July 5 at $134.90, and founder David Duffield's trust sold 107,500 shares on July 6 — all pre-scheduled 10b5-1 sales, but a broadening pattern just as shares slip further into blackout.
+- 📉 **Shares Slip as Iran Tensions Rattle Software Names** — WDAY fell roughly 2.9% in pre-market trading July 13 as renewed U.S.-Iran tensions pushed oil prices and bond yields higher, compressing multiples on richly-valued enterprise software stocks just days before the July 15 quiet period begins ahead of August 20 earnings.
+- 📊 **FY26 Close: 11,500+ Customers, 1.7B AI Actions Delivered** — Workday's fiscal 2026 wrap showed more than 7,000 core Financial Management and HCM customers among 11,500+ total worldwide, with 1.7 billion AI actions processed across the platform — the scale base Workday is now building its FY27 agentic push on.
+- 💰 **FY27 Guidance Leans Hard Into Agentic AI** — Management guided to $9.925B–$9.950B in FY27 subscription revenue (12–13% growth) and ~30% non-GAAP operating margin, explicitly prioritizing continued investment in the agentic AI roadmap — including Financial Management agents like Test and Audit — over faster near-term margin expansion.
+- 📈 **Analysts Split From Insiders** — Cantor Fitzgerald reiterated Overweight ($160 PT) and Oppenheimer reiterated Outperform ($165 PT) this week even as insider selling widened to roughly $141.6M over the past three months with no reported buying — a growing gap between Street confidence and insider positioning worth watching.
 
-> **Workday heads into its earnings quiet period with the stock under pressure even as the AI story shifts from announcements to delivery.** Financial Management-specific agents (Test, Audit) are moving from keynote demos toward early-access rollout, and EMEA channel expansion continues via HR Path — real signs of commercial follow-through. But the gap-down move, founder-trust and executive selling widening just ahead of blackout, and the Mobley FEHA litigation sliding into discovery are reminders that governance and market confidence haven't yet caught up to the AI growth narrative.
+> **Workday's FY27 story is now explicitly an agentic-AI bet.** Guidance keeps subscription growth in the low-teens while margin expansion takes a back seat to funding Financial Management-specific agents at scale — a trade-off management is defending even as the stock absorbs macro shocks (Iran-driven multiple compression) and a widening insider-selling pattern heading into blackout. Finance leaders should watch whether the 7,000+ core Financial Management customer base sees tangible agent rollouts before the August 20 earnings call, or whether the AI narrative keeps outrunning delivery.
 
 ---
 
