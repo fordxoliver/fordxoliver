@@ -38,14 +38,15 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: July 13, 2026*
+*Last updated: July 14, 2026*
 
-- 📉 **Shares Slip as Iran Tensions Rattle Software Names** — WDAY fell roughly 2.9% in pre-market trading July 13 as renewed U.S.-Iran tensions pushed oil prices and bond yields higher, compressing multiples on richly-valued enterprise software stocks just days before the July 15 quiet period begins ahead of August 20 earnings.
-- 📊 **FY26 Close: 11,500+ Customers, 1.7B AI Actions Delivered** — Workday's fiscal 2026 wrap showed more than 7,000 core Financial Management and HCM customers among 11,500+ total worldwide, with 1.7 billion AI actions processed across the platform — the scale base Workday is now building its FY27 agentic push on.
-- 💰 **FY27 Guidance Leans Hard Into Agentic AI** — Management guided to $9.925B–$9.950B in FY27 subscription revenue (12–13% growth) and ~30% non-GAAP operating margin, explicitly prioritizing continued investment in the agentic AI roadmap — including Financial Management agents like Test and Audit — over faster near-term margin expansion.
-- 📈 **Analysts Split From Insiders** — Cantor Fitzgerald reiterated Overweight ($160 PT) and Oppenheimer reiterated Outperform ($165 PT) this week even as insider selling widened to roughly $141.6M over the past three months with no reported buying — a growing gap between Street confidence and insider positioning worth watching.
+- 📉 **Shares Stay Pressured as Iran Tensions Compress Multiples** — WDAY remained under pressure into the July 15 quiet period, with geopolitical risk from renewed U.S.-Iran tensions continuing to weigh on richly-valued enterprise software names ahead of the August 20 earnings call.
+- 💰 **Insider Selling Widens Again** — CFO Zane Rowe sold 6,000 shares on July 7 and the David A. Duffield Trust offloaded 107,500 shares (~$14.5M) on July 6, both under pre-arranged 10b5-1 plans — the latest in a steady drumbeat of insider sales with no reported buying over the past three months.
+- ⚖️ **Court Keeps AI Bias Suit Alive** — A federal judge denied Workday's bid to toss disability-discrimination claims in the long-running *Mobley v. Workday* case, allowing the FEHA collective action over its AI-powered applicant-screening tools to proceed — a live legal overhang as Workday pushes deeper into agentic HR and Financial Management tools.
+- 📊 **FY27 Guidance Still Leans Into Agentic AI** — Management's FY27 guidance of $9.925B–$9.950B in subscription revenue (12–13% growth) and ~30% non-GAAP operating margin continues to prioritize funding the agentic roadmap — including Financial Management agents like Test, Audit, and Planning — over faster margin gains.
+- 📈 **Analysts Stay Divided** — Monness Crespi & Hardt's recent upgrade to Buy ($150 PT, citing depressed valuation and cash flow) sits alongside standing Overweight/Outperform calls from Cantor Fitzgerald and Oppenheimer, even as the stock remains down sharply for the year.
 
-> **Workday's FY27 story is now explicitly an agentic-AI bet.** Guidance keeps subscription growth in the low-teens while margin expansion takes a back seat to funding Financial Management-specific agents at scale — a trade-off management is defending even as the stock absorbs macro shocks (Iran-driven multiple compression) and a widening insider-selling pattern heading into blackout. Finance leaders should watch whether the 7,000+ core Financial Management customer base sees tangible agent rollouts before the August 20 earnings call, or whether the AI narrative keeps outrunning delivery.
+> **The agentic-AI bet now carries a legal shadow.** With a federal court keeping disability-discrimination claims alive against Workday's AI screening tools, finance and HR leaders adopting Illuminate agents should watch how the *Mobley* litigation develops alongside the FY27 rollout of Financial Management agents — compliance risk is becoming as material to the agentic narrative as delivery execution, all while insider selling continues without offsetting buys.
 
 ---
 
