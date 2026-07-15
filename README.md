@@ -38,15 +38,15 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: July 14, 2026*
+*Last updated: July 15, 2026*
 
-- 📉 **Shares Stay Pressured as Iran Tensions Compress Multiples** — WDAY remained under pressure into the July 15 quiet period, with geopolitical risk from renewed U.S.-Iran tensions continuing to weigh on richly-valued enterprise software names ahead of the August 20 earnings call.
-- 💰 **Insider Selling Widens Again** — CFO Zane Rowe sold 6,000 shares on July 7 and the David A. Duffield Trust offloaded 107,500 shares (~$14.5M) on July 6, both under pre-arranged 10b5-1 plans — the latest in a steady drumbeat of insider sales with no reported buying over the past three months.
-- ⚖️ **Court Keeps AI Bias Suit Alive** — A federal judge denied Workday's bid to toss disability-discrimination claims in the long-running *Mobley v. Workday* case, allowing the FEHA collective action over its AI-powered applicant-screening tools to proceed — a live legal overhang as Workday pushes deeper into agentic HR and Financial Management tools.
-- 📊 **FY27 Guidance Still Leans Into Agentic AI** — Management's FY27 guidance of $9.925B–$9.950B in subscription revenue (12–13% growth) and ~30% non-GAAP operating margin continues to prioritize funding the agentic roadmap — including Financial Management agents like Test, Audit, and Planning — over faster margin gains.
-- 📈 **Analysts Stay Divided** — Monness Crespi & Hardt's recent upgrade to Buy ($150 PT, citing depressed valuation and cash flow) sits alongside standing Overweight/Outperform calls from Cantor Fitzgerald and Oppenheimer, even as the stock remains down sharply for the year.
+- 📉 **IBM Warning Drags Enterprise Software Names Lower** — WDAY slid toward $139.81 by July 14 after IBM's preliminary Q2 update flagged AI spend squeezing software budgets, fueling a rotation out of legacy SaaS names like Workday and ServiceNow and into AI infrastructure plays, with Iran-related geopolitical risk capping any broader relief rally.
+- 💰 **Insider Selling Widens Again** — CFO Zane Rowe sold 6,000 shares on July 7 and the David A. Duffield Trust offloaded 107,500 shares (~$14.7M) on July 9, both under pre-arranged 10b5-1 plans — the latest in a steady drumbeat of insider sales with no reported buying over the past three months.
+- ⚖️ **Bias Lawsuit Moves Into Discovery** — The *Mobley v. Workday* AI hiring-discrimination case is now in discovery after a federal judge kept FEHA and ADA claims alive over Workday's applicant-screening tools, with reports of roughly 14,000 individuals opted into the collective — a live legal overhang as Workday pushes deeper into agentic HR and Financial Management tools.
+- 📊 **FY27 Guidance Still Leans Into Agentic AI** — Management's FY27 guidance of $9.925B–$9.950B in subscription revenue (12–13% growth) and ~30% non-GAAP operating margin continues to prioritize funding the agentic roadmap — including Financial Management agents like Test, Audit, Planning, and Revenue Contract — over faster margin gains.
+- 📈 **Analysts Stay Divided** — Monness Crespi & Hardt's recent upgrade to Buy ($150 PT, citing depressed valuation and cash flow) sits well below the broader Street consensus target of ~$173.56, even as the stock remains down sharply for the year.
 
-> **The agentic-AI bet now carries a legal shadow.** With a federal court keeping disability-discrimination claims alive against Workday's AI screening tools, finance and HR leaders adopting Illuminate agents should watch how the *Mobley* litigation develops alongside the FY27 rollout of Financial Management agents — compliance risk is becoming as material to the agentic narrative as delivery execution, all while insider selling continues without offsetting buys.
+> **A sector-wide budget squeeze now compounds the legal overhang.** IBM's warning that AI spend is crowding out traditional software budgets hit Workday shares alongside peers, arriving just as the *Mobley* bias suit heads into discovery — finance and HR leaders adopting Illuminate agents are watching both threads as Workday funds its FY27 Financial Management agent rollout, all while insider selling continues without offsetting buys.
 
 ---
 
