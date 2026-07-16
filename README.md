@@ -38,15 +38,15 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: July 15, 2026*
+*Last updated: July 16, 2026*
 
-- 📉 **IBM Warning Drags Enterprise Software Names Lower** — WDAY slid toward $139.81 by July 14 after IBM's preliminary Q2 update flagged AI spend squeezing software budgets, fueling a rotation out of legacy SaaS names like Workday and ServiceNow and into AI infrastructure plays, with Iran-related geopolitical risk capping any broader relief rally.
-- 💰 **Insider Selling Widens Again** — CFO Zane Rowe sold 6,000 shares on July 7 and the David A. Duffield Trust offloaded 107,500 shares (~$14.7M) on July 9, both under pre-arranged 10b5-1 plans — the latest in a steady drumbeat of insider sales with no reported buying over the past three months.
-- ⚖️ **Bias Lawsuit Moves Into Discovery** — The *Mobley v. Workday* AI hiring-discrimination case is now in discovery after a federal judge kept FEHA and ADA claims alive over Workday's applicant-screening tools, with reports of roughly 14,000 individuals opted into the collective — a live legal overhang as Workday pushes deeper into agentic HR and Financial Management tools.
-- 📊 **FY27 Guidance Still Leans Into Agentic AI** — Management's FY27 guidance of $9.925B–$9.950B in subscription revenue (12–13% growth) and ~30% non-GAAP operating margin continues to prioritize funding the agentic roadmap — including Financial Management agents like Test, Audit, Planning, and Revenue Contract — over faster margin gains.
-- 📈 **Analysts Stay Divided** — Monness Crespi & Hardt's recent upgrade to Buy ($150 PT, citing depressed valuation and cash flow) sits well below the broader Street consensus target of ~$173.56, even as the stock remains down sharply for the year.
+- 🌏 **New APAC Leadership Named** — Workday appointed John Lombard — a 30-year enterprise tech veteran and former NTT Data APAC CEO — as President, Asia Pacific, tasking him with go-to-market strategy and regional expansion (including Financial Management adoption) across Australia, Singapore, and other key APAC markets.
+- ⚖️ **Age-Bias Claims Survive Alongside FEHA/ADA Counts** — In the closely watched *Mobley v. Workday* case, Judge Rita Lin rejected Workday's argument that the ADEA doesn't cover job applicants, keeping age-discrimination claims alive; she also denied plaintiffs' bid to compel Workday's internal bias-testing data on privilege grounds but ordered production of EEO-1 and OFCCP filings as discovery continues.
+- 📉 **Software-Sector Rotation Keeps Shares Choppy** — WDAY traded in a $132–$147 range this week, settling near $142.85, as IBM's AI-spend warning continues to pressure legacy enterprise software names, even as Monness Crespi & Hardt's Buy upgrade ($150 PT) argues the selloff has gone too far.
+- 💰 **Insider Selling Still Running Hot** — CFO Zane Rowe (6,000 shares, July 7) and the David A. Duffield Trust (107,500 shares, ~$14.7M, July 9) both sold under pre-arranged 10b5-1 plans, extending a multi-month streak of insider sales with no offsetting buys.
+- 🤖 **Agentic Financials Remain the Growth Pitch** — FY27 guidance ($9.925B–$9.950B subscription revenue, ~30% non-GAAP operating margin) keeps funding the Illuminate Finance lineup — Financial Test, Audit, Close, and Cost & Profitability agents — as Workday's answer to AI-driven software-budget pressure.
 
-> **A sector-wide budget squeeze now compounds the legal overhang.** IBM's warning that AI spend is crowding out traditional software budgets hit Workday shares alongside peers, arriving just as the *Mobley* bias suit heads into discovery — finance and HR leaders adopting Illuminate agents are watching both threads as Workday funds its FY27 Financial Management agent rollout, all while insider selling continues without offsetting buys.
+> **New regional leadership lands the same week legal exposure widens.** John Lombard's APAC appointment arrives just as a federal judge kept age-discrimination claims alive in *Mobley v. Workday* — a reminder that Workday's push to sell agentic Financial Management and HR tools abroad continues under active scrutiny of its AI hiring products at home.
 
 ---
 
