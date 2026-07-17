@@ -38,15 +38,15 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: July 16, 2026*
+*Last updated: July 17, 2026*
 
-- 🌏 **New APAC Leadership Named** — Workday appointed John Lombard — a 30-year enterprise tech veteran and former NTT Data APAC CEO — as President, Asia Pacific, tasking him with go-to-market strategy and regional expansion (including Financial Management adoption) across Australia, Singapore, and other key APAC markets.
-- ⚖️ **Age-Bias Claims Survive Alongside FEHA/ADA Counts** — In the closely watched *Mobley v. Workday* case, Judge Rita Lin rejected Workday's argument that the ADEA doesn't cover job applicants, keeping age-discrimination claims alive; she also denied plaintiffs' bid to compel Workday's internal bias-testing data on privilege grounds but ordered production of EEO-1 and OFCCP filings as discovery continues.
-- 📉 **Software-Sector Rotation Keeps Shares Choppy** — WDAY traded in a $132–$147 range this week, settling near $142.85, as IBM's AI-spend warning continues to pressure legacy enterprise software names, even as Monness Crespi & Hardt's Buy upgrade ($150 PT) argues the selloff has gone too far.
-- 💰 **Insider Selling Still Running Hot** — CFO Zane Rowe (6,000 shares, July 7) and the David A. Duffield Trust (107,500 shares, ~$14.7M, July 9) both sold under pre-arranged 10b5-1 plans, extending a multi-month streak of insider sales with no offsetting buys.
-- 🤖 **Agentic Financials Remain the Growth Pitch** — FY27 guidance ($9.925B–$9.950B subscription revenue, ~30% non-GAAP operating margin) keeps funding the Illuminate Finance lineup — Financial Test, Audit, Close, and Cost & Profitability agents — as Workday's answer to AI-driven software-budget pressure.
+- 📉 **Shares Slide Toward 52-Week Lows** — WDAY fell further this week to roughly $113–$120, extending the post-IBM-warning slump as fears that AI spend is cannibalizing traditional SaaS budgets continue to weigh on legacy enterprise software names.
+- 💰 **Insider Selling Streak Widens** — Chief Accounting Officer Mark Garfield sold 918 shares (~$131K, July 10), joining President Robert Enslin (5,374 shares, July 5), CFO Zane Rowe (6,000 shares, July 7), and the David A. Duffield Trust ($14.7M, July 9) — roughly $141.6M in pre-arranged 10b5-1 sales over three months with no offsetting buys.
+- ⚖️ **Mobley v. Workday Discovery Grinds On** — Magistrate Judge Beeler denied plaintiffs' bid to compel Workday's internal bias-testing data on attorney-client privilege grounds, while Judge Lin's prior order keeps FEHA/ADA age-discrimination claims alive on the theory that Workday acts as an "agent" for employers using its AI screening tools.
+- 📊 **Analysts Split on Whether the Selloff Is Overdone** — Monness Crespi & Hardt's Buy rating ($150 PT) argues Workday's margins, cash flow, and agentic AI progress look attractive after a ~45% 2026 drop, but Street consensus (~$173.56) and the stock's slide below its 200-day moving average show the market isn't fully convinced yet.
+- 🤖 **Agentic Finance Still the Growth Pitch** — Workday keeps leaning on its Illuminate Finance lineup (Cost & Profitability, Financial Close, Financial Test agents) and the expanded Google Cloud partnership embedding Workday's Sana Self-Service Agent into Gemini Enterprise, positioning Financial Management as AI-native even as the stock struggles.
 
-> **New regional leadership lands the same week legal exposure widens.** John Lombard's APAC appointment arrives just as a federal judge kept age-discrimination claims alive in *Mobley v. Workday* — a reminder that Workday's push to sell agentic Financial Management and HR tools abroad continues under active scrutiny of its AI hiring products at home.
+> **The stock's slide is outrunning the AI narrative.** Even as Workday doubles down on agentic Financial Management agents and cloud partnerships to justify its growth story, WDAY has slumped toward 52-week lows amid heavy insider selling and unresolved discrimination litigation — a gap between the pitch and what the market is currently willing to pay for it.
 
 ---
 
