@@ -38,15 +38,15 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: July 17, 2026*
+*Last updated: July 18, 2026*
 
-- 📉 **Shares Slide Toward 52-Week Lows** — WDAY fell further this week to roughly $113–$120, extending the post-IBM-warning slump as fears that AI spend is cannibalizing traditional SaaS budgets continue to weigh on legacy enterprise software names.
-- 💰 **Insider Selling Streak Widens** — Chief Accounting Officer Mark Garfield sold 918 shares (~$131K, July 10), joining President Robert Enslin (5,374 shares, July 5), CFO Zane Rowe (6,000 shares, July 7), and the David A. Duffield Trust ($14.7M, July 9) — roughly $141.6M in pre-arranged 10b5-1 sales over three months with no offsetting buys.
-- ⚖️ **Mobley v. Workday Discovery Grinds On** — Magistrate Judge Beeler denied plaintiffs' bid to compel Workday's internal bias-testing data on attorney-client privilege grounds, while Judge Lin's prior order keeps FEHA/ADA age-discrimination claims alive on the theory that Workday acts as an "agent" for employers using its AI screening tools.
-- 📊 **Analysts Split on Whether the Selloff Is Overdone** — Monness Crespi & Hardt's Buy rating ($150 PT) argues Workday's margins, cash flow, and agentic AI progress look attractive after a ~45% 2026 drop, but Street consensus (~$173.56) and the stock's slide below its 200-day moving average show the market isn't fully convinced yet.
-- 🤖 **Agentic Finance Still the Growth Pitch** — Workday keeps leaning on its Illuminate Finance lineup (Cost & Profitability, Financial Close, Financial Test agents) and the expanded Google Cloud partnership embedding Workday's Sana Self-Service Agent into Gemini Enterprise, positioning Financial Management as AI-native even as the stock struggles.
+- 📈 **Shares Rebound Off 52-Week Lows** — WDAY closed July 18 at $145.43 (+2.54% on the day), climbing out of the $113–$120 range it touched in late June/early July and back toward the mid-$140s, though still well off its 52-week high of $249.85.
+- 📊 **Analyst Upgrade Looks Prescient** — Monness Crespi & Hardt's Buy call ($150 PT), issued after Workday's ~45% 2026 drawdown, is now within reach as the stock rallies on raised FY2027 guidance — 30.5% adjusted operating margin (up from 30%) and a 12-month subscription backlog of $8.81B (+15.5% YoY).
+- 🤖 **Agentic AI Revenue Nears $500M** — New ACV from Illuminate's agentic AI products grew over 200% YoY, with 4,000+ customers now running at least one AI agent and the recruiting agent alone supporting 14M hiring processes (+44% YoY), reinforcing the AI-native pitch for Financial Management's Close, Cost & Profitability agents.
+- ⚖️ **Mobley v. Workday Bias Claims Live On** — Judge Rita Lin's June 22 ruling keeps most FEHA/ADA AI-hiring-discrimination claims alive against Workday, while discovery fights over the company's internal bias-testing data continue under attorney-client privilege objections.
+- 💰 **Insider Selling Persists Despite the Rally** — The David A. Duffield Trust ($14.7M, 107,500 shares, July 9), President Robert Enslin, CFO Zane Rowe, President Gerrit Kazmaier, and CAO Mark Garfield all sold shares in early July under pre-arranged 10b5-1 plans, with no offsetting insider buys.
 
-> **The stock's slide is outrunning the AI narrative.** Even as Workday doubles down on agentic Financial Management agents and cloud partnerships to justify its growth story, WDAY has slumped toward 52-week lows amid heavy insider selling and unresolved discrimination litigation — a gap between the pitch and what the market is currently willing to pay for it.
+> **The narrative has flipped from a week ago.** Where WDAY was cast as sliding toward 52-week lows on fears AI spend is cannibalizing SaaS budgets, strong Q1 FY2027 results, raised margin guidance, and ~$500M in agentic AI ARR have driven a rebound into the mid-$140s — even as insider selling and the Mobley bias-discrimination litigation remain unresolved overhangs on the stock.
 
 ---
 
