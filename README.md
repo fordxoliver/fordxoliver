@@ -38,15 +38,14 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: July 18, 2026*
+*Last updated: July 19, 2026*
 
-- 📈 **Shares Rebound Off 52-Week Lows** — WDAY closed July 18 at $145.43 (+2.54% on the day), climbing out of the $113–$120 range it touched in late June/early July and back toward the mid-$140s, though still well off its 52-week high of $249.85.
-- 📊 **Analyst Upgrade Looks Prescient** — Monness Crespi & Hardt's Buy call ($150 PT), issued after Workday's ~45% 2026 drawdown, is now within reach as the stock rallies on raised FY2027 guidance — 30.5% adjusted operating margin (up from 30%) and a 12-month subscription backlog of $8.81B (+15.5% YoY).
-- 🤖 **Agentic AI Revenue Nears $500M** — New ACV from Illuminate's agentic AI products grew over 200% YoY, with 4,000+ customers now running at least one AI agent and the recruiting agent alone supporting 14M hiring processes (+44% YoY), reinforcing the AI-native pitch for Financial Management's Close, Cost & Profitability agents.
-- ⚖️ **Mobley v. Workday Bias Claims Live On** — Judge Rita Lin's June 22 ruling keeps most FEHA/ADA AI-hiring-discrimination claims alive against Workday, while discovery fights over the company's internal bias-testing data continue under attorney-client privilege objections.
-- 💰 **Insider Selling Persists Despite the Rally** — The David A. Duffield Trust ($14.7M, 107,500 shares, July 9), President Robert Enslin, CFO Zane Rowe, President Gerrit Kazmaier, and CAO Mark Garfield all sold shares in early July under pre-arranged 10b5-1 plans, with no offsetting insider buys.
+- 📊 **Analysts Split Over the AI-Spending Debate** — Piper Sandler's Brent Bracelin downgraded WDAY to Underweight on July 10 (price target cut to $235 from $255), warning that "eroding CIO appetite" for application software amid the AI infrastructure buildout threatens Workday's growth pitch — a sharp contrast to Monness Crespi & Hardt's earlier Buy call, leaving the stock's rebound into the mid-$140s resting on a divided Street.
+- 📅 **Q2 FY2027 Earnings Date Locked In** — Workday confirmed it will report fiscal 2027 second-quarter results on August 20, 2026, against guidance of roughly $2.64B total revenue, ~$2.46B subscription revenue (+13% YoY), and a ~30% non-GAAP operating margin — the next real test of Financial Management and HCM demand under this month's analyst back-and-forth.
+- 💰 **Insider Selling Streak Continues** — Chief Accounting Officer Mark Garfield (918 shares, ~$131K, July 10) and the David A. Duffield Trust (107,500 shares, ~$14.7M, July 9) extended a months-long run of pre-arranged 10b5-1 sales, with still no offsetting insider buys reported.
+- ⚖️ **Mobley v. Workday Overhang Persists** — No new ruling landed this week, but Judge Rita Lin's June 22 order keeping most FEHA/ADA AI-hiring-bias claims alive continues to shadow Workday's push to sell agentic Financial Management and HR tools as discovery fights over its internal bias-testing data continue.
 
-> **The narrative has flipped from a week ago.** Where WDAY was cast as sliding toward 52-week lows on fears AI spend is cannibalizing SaaS budgets, strong Q1 FY2027 results, raised margin guidance, and ~$500M in agentic AI ARR have driven a rebound into the mid-$140s — even as insider selling and the Mobley bias-discrimination litigation remain unresolved overhangs on the stock.
+> **The AI-spending debate is now splitting Wall Street, not just the stock price.** Piper Sandler's July 10 downgrade argues CIOs are diverting application budgets toward AI infrastructure at Workday's expense, even as shares hold in the mid-$140s — setting up the August 20 Q2 FY2027 earnings call as a real test of whether Financial Management demand is actually softening or just facing a noisier stock story.
 
 ---
 
