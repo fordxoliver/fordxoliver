@@ -38,14 +38,15 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: July 19, 2026*
+*Last updated: July 20, 2026*
 
-- 📊 **Analysts Split Over the AI-Spending Debate** — Piper Sandler's Brent Bracelin downgraded WDAY to Underweight on July 10 (price target cut to $235 from $255), warning that "eroding CIO appetite" for application software amid the AI infrastructure buildout threatens Workday's growth pitch — a sharp contrast to Monness Crespi & Hardt's earlier Buy call, leaving the stock's rebound into the mid-$140s resting on a divided Street.
-- 📅 **Q2 FY2027 Earnings Date Locked In** — Workday confirmed it will report fiscal 2027 second-quarter results on August 20, 2026, against guidance of roughly $2.64B total revenue, ~$2.46B subscription revenue (+13% YoY), and a ~30% non-GAAP operating margin — the next real test of Financial Management and HCM demand under this month's analyst back-and-forth.
-- 💰 **Insider Selling Streak Continues** — Chief Accounting Officer Mark Garfield (918 shares, ~$131K, July 10) and the David A. Duffield Trust (107,500 shares, ~$14.7M, July 9) extended a months-long run of pre-arranged 10b5-1 sales, with still no offsetting insider buys reported.
-- ⚖️ **Mobley v. Workday Overhang Persists** — No new ruling landed this week, but Judge Rita Lin's June 22 order keeping most FEHA/ADA AI-hiring-bias claims alive continues to shadow Workday's push to sell agentic Financial Management and HR tools as discovery fights over its internal bias-testing data continue.
+- 📉 **IBM Warning Triggers Software Sector Selloff** — Workday shares dropped roughly 9-10% on July 14 after IBM's shock Q2 earnings warning — its worst trading day in nearly four decades — spooked enterprise software investors broadly; CEO Arvind Krishna cited clients diverting budgets toward hardware over software, dragging WDAY down in sympathy alongside Adobe, HubSpot, and Datadog despite no results of its own that day.
+- 📉 **CLSA Initiates Coverage at Underperform** — Analyst Bhavtosh Vajpayee started Workday at Underperform with a $92 price target on July 20, arguing the stock is "optically inexpensive" on non-GAAP earnings but expensive on GAAP terms, citing slowing growth, a rising appetite for acquisitions, and an unclear moat as reasons the AI strategy hasn't yet cohered.
+- 📅 **Q2 FY2027 Earnings Date Locked In** — Workday confirmed it will report fiscal 2027 second-quarter results on August 20, 2026, against guidance of roughly $2.64B total revenue and a ~30% non-GAAP operating margin — the next real test of Financial Management and HCM demand after a rough stretch for the stock.
+- 💰 **Insider Selling Streak Continues** — The David A. Duffield Trust sold another 107,500 shares (~$14.5M, July 6) and Chief Accounting Officer Mark Garfield sold 918 shares (~$131K, July 10), both under pre-arranged 10b5-1 plans, extending a months-long run with no offsetting insider buys reported.
+- ⚖️ **Mobley v. Workday Overhang Persists** — No new ruling landed this week, but Judge Rita Lin's June 22 order keeping most FEHA/ADA AI-hiring-bias claims alive continues to shadow Workday's push to sell agentic Financial Management and HR tools as discovery fights continue.
 
-> **The AI-spending debate is now splitting Wall Street, not just the stock price.** Piper Sandler's July 10 downgrade argues CIOs are diverting application budgets toward AI infrastructure at Workday's expense, even as shares hold in the mid-$140s — setting up the August 20 Q2 FY2027 earnings call as a real test of whether Financial Management demand is actually softening or just facing a noisier stock story.
+> **Workday named John Lombard President of Asia Pacific on July 14** — a 30-year technology and advisory veteran (most recently APAC CEO at NTT Data, with prior stints at SAP and KPMG Australia) tasked with driving regional go-to-market strategy just as APAC organizations lean harder on AI to optimize financial performance — a leadership bet landing the same week the stock took its sharpest hit since the IBM-driven software selloff.
 
 ---
 
