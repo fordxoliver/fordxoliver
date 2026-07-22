@@ -38,15 +38,15 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: July 21, 2026*
+*Last updated: July 22, 2026*
 
+- 📉 **Morgan Stanley Downgrades to Underweight** — On July 21, analyst Adam Wood cut Workday to Underweight and slashed the price target to $145 from $185, part of a broader re-rating that also downgraded Adobe; the firm credits Workday's competitive moat but doubts its AI initiatives will drive meaningful near-term revenue acceleration, sending shares down more than 4% on the day.
+- 📉 **CLSA Piles On With Underperform Initiation** — A day earlier, on July 20, analyst Bhavtosh Vajpayee started coverage at Underperform with a $92 price target, arguing the stock is "optically inexpensive" on non-GAAP earnings but expensive on GAAP terms — the second bearish Wall Street call in as many days.
 - 🧾 **"Lights-Out Finance" AI Tool Nears Broader Rollout** — Workday is prepping a wider release of Financial Test Suite, an agentic AI tool that continuously scans transactions for fraud, duplicate payments, and other anomalies and can intervene before financial close; first unveiled last fall and now in the hands of early customers, it's slated for general availability in the second half of 2026 as part of co-founder and CEO Aneel Bhusri's "lights-out finance" vision.
-- 📉 **IBM Warning Triggers Software Sector Selloff** — Workday shares dropped roughly 9-10% on July 14 after IBM's shock Q2 earnings warning — its worst trading day in nearly four decades — spooked enterprise software investors broadly, dragging WDAY down in sympathy alongside Adobe, HubSpot, and Datadog despite no results of its own that day.
-- 📉 **CLSA Initiates Coverage at Underperform** — Analyst Bhavtosh Vajpayee started Workday at Underperform with a $92 price target on July 20, arguing the stock is "optically inexpensive" on non-GAAP earnings but expensive on GAAP terms, citing slowing growth, a rising appetite for acquisitions, and an unclear moat as reasons the AI strategy hasn't yet cohered.
 - 📅 **Q2 FY2027 Earnings Date Locked In** — Workday confirmed it will report fiscal 2027 second-quarter results on August 20, 2026, against guidance of roughly $2.64B total revenue and a ~30% non-GAAP operating margin — the next real test of Financial Management and HCM demand after a rough stretch for the stock.
-- 💰 **Insider Selling Streak Continues** — The David A. Duffield Trust and Chief Accounting Officer Mark Garfield both sold shares in early July (~$14.5M and ~$131K respectively) under pre-arranged 10b5-1 plans, extending a months-long run with no offsetting insider buys reported.
+- 💰 **Insider Selling Streak Continues** — Trailing-90-day insider sales have topped $113M, with the David A. Duffield Trust and Chief Accounting Officer Mark Garfield both selling in early July (~$14.5M and ~$131K respectively) under pre-arranged 10b5-1 plans and no offsetting insider buys reported.
 
-> **Workday named John Lombard President of Asia Pacific on July 14** — a 30-year technology and advisory veteran (most recently APAC CEO at NTT Data, with prior stints at SAP and KPMG Australia) tasked with driving regional go-to-market strategy just as APAC organizations lean harder on AI to optimize financial performance — a leadership bet landing the same week the stock took its sharpest hit since the IBM-driven software selloff.
+> **Workday named John Lombard President of Asia Pacific on July 14** — a 30-year technology and advisory veteran (most recently APAC CEO at NTT Data, with prior stints at SAP and KPMG Australia) tasked with driving regional go-to-market strategy just as APAC organizations lean harder on AI to optimize financial performance — a leadership bet now playing out against back-to-back bearish analyst calls from CLSA and Morgan Stanley in the week since.
 
 ---
 
