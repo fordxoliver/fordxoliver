@@ -38,15 +38,15 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: July 22, 2026*
+*Last updated: July 23, 2026*
 
 - 📉 **Morgan Stanley Downgrades to Underweight** — On July 21, analyst Adam Wood cut Workday to Underweight and slashed the price target to $145 from $185, part of a broader re-rating that also downgraded Adobe; the firm credits Workday's competitive moat but doubts its AI initiatives will drive meaningful near-term revenue acceleration, sending shares down more than 4% on the day.
-- 📉 **CLSA Piles On With Underperform Initiation** — A day earlier, on July 20, analyst Bhavtosh Vajpayee started coverage at Underperform with a $92 price target, arguing the stock is "optically inexpensive" on non-GAAP earnings but expensive on GAAP terms — the second bearish Wall Street call in as many days.
-- 🧾 **"Lights-Out Finance" AI Tool Nears Broader Rollout** — Workday is prepping a wider release of Financial Test Suite, an agentic AI tool that continuously scans transactions for fraud, duplicate payments, and other anomalies and can intervene before financial close; first unveiled last fall and now in the hands of early customers, it's slated for general availability in the second half of 2026 as part of co-founder and CEO Aneel Bhusri's "lights-out finance" vision.
+- 📉 **CLSA Piles On With Underperform Initiation** — A day earlier, on July 20, analyst Bhavtosh Vajpayee started coverage at Underperform with a $92 price target, arguing the stock is "optically inexpensive" on non-GAAP earnings but expensive on GAAP terms — the second bearish Wall Street call in as many days, compounding into a further slide toward the $132 range by July 22.
+- 🎪 **Workday Rising 2026 Set for October** — Workday announced its flagship Rising conference will run October 12–15 in Las Vegas, billed as the stage where "Agentic HR and Agentic Finance Take Center Stage," signaling the company's push to frame Financial Management around autonomous, agent-driven workflows.
+- 🎓 **Workday Learning, Powered by Sana, Goes GA** — On July 22, Workday launched the general-availability version of its AI-native learning experience combining Workday Learning and Sana Learn, delivering personalized AI tutoring, interactive course creation, and automated learning operations across the platform.
 - 📅 **Q2 FY2027 Earnings Date Locked In** — Workday confirmed it will report fiscal 2027 second-quarter results on August 20, 2026, against guidance of roughly $2.64B total revenue and a ~30% non-GAAP operating margin — the next real test of Financial Management and HCM demand after a rough stretch for the stock.
-- 💰 **Insider Selling Streak Continues** — Trailing-90-day insider sales have topped $113M, with the David A. Duffield Trust and Chief Accounting Officer Mark Garfield both selling in early July (~$14.5M and ~$131K respectively) under pre-arranged 10b5-1 plans and no offsetting insider buys reported.
 
-> **Workday named John Lombard President of Asia Pacific on July 14** — a 30-year technology and advisory veteran (most recently APAC CEO at NTT Data, with prior stints at SAP and KPMG Australia) tasked with driving regional go-to-market strategy just as APAC organizations lean harder on AI to optimize financial performance — a leadership bet now playing out against back-to-back bearish analyst calls from CLSA and Morgan Stanley in the week since.
+> **Back-to-back bearish analyst calls reshape the narrative** — CLSA's July 20 Underperform initiation and Morgan Stanley's July 21 downgrade to Underweight arrived just a week after Workday named John Lombard President of Asia Pacific (July 14), leaving the company's regional growth ambitions and AI-driven "agentic finance" pitch to do the talking against a notably more skeptical Wall Street.
 
 ---
 
