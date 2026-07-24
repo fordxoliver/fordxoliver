@@ -38,15 +38,15 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: July 23, 2026*
+*Last updated: July 24, 2026*
 
-- 📉 **Morgan Stanley Downgrades to Underweight** — On July 21, analyst Adam Wood cut Workday to Underweight and slashed the price target to $145 from $185, part of a broader re-rating that also downgraded Adobe; the firm credits Workday's competitive moat but doubts its AI initiatives will drive meaningful near-term revenue acceleration, sending shares down more than 4% on the day.
-- 📉 **CLSA Piles On With Underperform Initiation** — A day earlier, on July 20, analyst Bhavtosh Vajpayee started coverage at Underperform with a $92 price target, arguing the stock is "optically inexpensive" on non-GAAP earnings but expensive on GAAP terms — the second bearish Wall Street call in as many days, compounding into a further slide toward the $132 range by July 22.
-- 🎪 **Workday Rising 2026 Set for October** — Workday announced its flagship Rising conference will run October 12–15 in Las Vegas, billed as the stage where "Agentic HR and Agentic Finance Take Center Stage," signaling the company's push to frame Financial Management around autonomous, agent-driven workflows.
+- 🔐 **Adaptive Planning Lands FedRAMP Moderate Authorization** — On July 23, Workday Government announced that Workday Adaptive Planning achieved FedRAMP Authorization at the Moderate Impact Level, clearing it to handle sensitive federal data and letting agencies model hiring freezes, budget cuts, and reorgs with connected workforce-and-financial planning; broader availability to Workday Government customers is expected in early 2027.
+- 📉 **Morgan Stanley Downgrades to Underweight** — On July 21, analyst Adam Wood cut Workday to Underweight and slashed the price target to $145 from $185, arguing growth deceleration in the core business is more persistent than the market has priced in, with shares sliding more than 4% on the day.
+- 📉 **CLSA Piles On With Underperform Initiation** — A day earlier, on July 20, analyst Bhavtosh Vajpayee started coverage at Underperform with a $92 price target, calling the stock "optically inexpensive" on non-GAAP earnings but expensive on GAAP terms — the second bearish Wall Street call in as many days.
 - 🎓 **Workday Learning, Powered by Sana, Goes GA** — On July 22, Workday launched the general-availability version of its AI-native learning experience combining Workday Learning and Sana Learn, delivering personalized AI tutoring, interactive course creation, and automated learning operations across the platform.
 - 📅 **Q2 FY2027 Earnings Date Locked In** — Workday confirmed it will report fiscal 2027 second-quarter results on August 20, 2026, against guidance of roughly $2.64B total revenue and a ~30% non-GAAP operating margin — the next real test of Financial Management and HCM demand after a rough stretch for the stock.
 
-> **Back-to-back bearish analyst calls reshape the narrative** — CLSA's July 20 Underperform initiation and Morgan Stanley's July 21 downgrade to Underweight arrived just a week after Workday named John Lombard President of Asia Pacific (July 14), leaving the company's regional growth ambitions and AI-driven "agentic finance" pitch to do the talking against a notably more skeptical Wall Street.
+> **Federal push arrives amid Wall Street skepticism** — Just two days after CLSA and Morgan Stanley delivered back-to-back bearish calls on slowing core growth, Workday Government's July 23 FedRAMP Moderate win for Adaptive Planning signals a strategic bet that public-sector finance and workforce modernization can help offset the deceleration analysts are pricing into the core Financial Management and HCM business.
 
 ---
 
