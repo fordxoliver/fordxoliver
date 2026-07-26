@@ -38,7 +38,7 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: July 25, 2026*
+*Last updated: July 26, 2026*
 
 - 🔐 **Adaptive Planning Lands FedRAMP Moderate Authorization** — On July 23, Workday Government announced that Workday Adaptive Planning achieved FedRAMP Authorization at the Moderate Impact Level, clearing it to handle sensitive federal data and letting agencies model hiring freezes, budget cuts, and reorgs with connected workforce-and-financial planning; broader availability to Workday Government customers is expected in early 2027.
 - 📉 **Wall Street Turns Bearish — Two Downgrades in Two Days** — Morgan Stanley cut Workday to Underweight on July 21 (price target to $145 from $185), citing growth deceleration in the core business, a day after CLSA initiated coverage at Underperform on July 20 with a $92 target, calling shares "optically inexpensive" on non-GAAP earnings but pricey on GAAP terms.
