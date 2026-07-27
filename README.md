@@ -38,10 +38,10 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: July 26, 2026*
+*Last updated: July 27, 2026*
 
 - 🔐 **Adaptive Planning Lands FedRAMP Moderate Authorization** — On July 23, Workday Government announced that Workday Adaptive Planning achieved FedRAMP Authorization at the Moderate Impact Level, clearing it to handle sensitive federal data and letting agencies model hiring freezes, budget cuts, and reorgs with connected workforce-and-financial planning; broader availability to Workday Government customers is expected in early 2027.
-- 📉 **Wall Street Turns Bearish — Two Downgrades in Two Days** — Morgan Stanley cut Workday to Underweight on July 21 (price target to $145 from $185), citing growth deceleration in the core business, a day after CLSA initiated coverage at Underperform on July 20 with a $92 target, calling shares "optically inexpensive" on non-GAAP earnings but pricey on GAAP terms.
+- 📊 **Wall Street Splits on Workday — Downgrades Meet a Contrarian Buy Call** — Morgan Stanley cut Workday to Underweight on July 21 (price target to $145 from $185) and CLSA initiated coverage at Underperform on July 20 ($92 target), both citing decelerating core growth, but Monness, Crespi, Hardt bucked the trend with an upgrade to Buy ($150 target) after the stock's roughly 45% 2026 slide, arguing margins, cash flow, and agentic AI progress now look attractive at current prices.
 - 🎓 **Workday Learning, Powered by Sana, Goes GA** — On July 22, Workday launched the general-availability version of its AI-native learning experience combining Workday Learning and Sana Learn, delivering personalized AI tutoring, interactive course creation, and automated learning operations across the platform.
 - 📅 **Q2 FY2027 Earnings Date Locked In** — Workday confirmed it will report fiscal 2027 second-quarter results on August 20, 2026, against guidance of roughly $2.64B total revenue and a ~30% non-GAAP operating margin — the next real test of Financial Management and HCM demand after a rough stretch for the stock.
 
