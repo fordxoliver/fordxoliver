@@ -38,12 +38,12 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: July 30, 2026*
+*Last updated: July 31, 2026*
 
-- 📈 **Second Straight Rally Day — Shares Close Near $168** — WDAY gained another 5.2% on July 29 to close around $168.01, extending the bounce off its ~45% 2026 drawdown low, as a fresh Buy rating and $150 target from Monness, Crespi & Hardt cited improving margins, cash flow, and agentic AI traction — even as Morgan Stanley's earlier Underweight downgrade keeps analyst sentiment on Financial Management and HCM growth split.
+- 📉 **Rally Fizzles — Shares Slide Back to ~$158 in Sector-Wide Selloff** — After briefly rallying to $168, WDAY reversed hard on July 30, falling roughly 5.9% to close near $158.11 (and tumbling as much as 10.3% at one point earlier in the week) as a broad software-sector selloff and lingering fallout from Morgan Stanley's Underweight downgrade re-ignited doubts about core Financial Management and HCM growth.
+- 🕵️ **"Financial Test Suite" Fraud-Detection AI Nears Wider Rollout** — Workday is preparing a broader release of its agentic Financial Test Suite, which automatically flags anomalies like duplicate invoices and can act to stop duplicate payments — part of CEO Aneel Bhusri's "lights-out finance" vision of continuous, agent-run financial controls, with general availability targeted for the second half of 2026.
 - 💳 **EarnIn Partners on Enhanced Direct Deposit Switching** — On July 28, EarnIn announced an integration with Workday's Enhanced Direct Deposit Switching experience, using new APIs to eliminate manual routing/account-number entry and streamline payroll deposit changes for workers across Workday's 11,500+ customer organizations — a financial-equity-focused add to the Financial Management payroll stack.
 - 🔐 **Adaptive Planning Lands FedRAMP Moderate Authorization** — On July 23, Workday Government announced Workday Adaptive Planning achieved FedRAMP Authorization at the Moderate Impact Level, clearing it for sensitive federal data and letting agencies model hiring freezes, budget cuts, and reorgs with connected workforce-and-financial planning; broader Workday Government availability is expected in early 2027.
-- 📅 **Q2 FY2027 Earnings Date Locked In** — Workday confirmed it will report fiscal 2027 second-quarter results on August 20, 2026, against guidance of roughly $2.64B total revenue and a ~30% non-GAAP operating margin, with analysts expecting EPS of $1.26 (up ~26% year-over-year) — the next real test of Financial Management and HCM demand after a volatile, now-rebounding month for the stock.
 
 > **Rising 2026 set for October 12–15 in Las Vegas** — Announced July 21, Co-founder, CEO, and Chair Aneel Bhusri, President of Product and Technology Gerrit Kazmaier, and Chief AI Officer Joel Hellermark will headline the main stage to lay out Workday's agentic HR and Finance roadmap for an expected 30,000+ attendees — a strategic show of confidence bookending a turbulent, now-rebounding month for the stock.
 
