@@ -38,13 +38,12 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: August 3, 2026*
+*Last updated: August 4, 2026*
 
-- 💳 **EarnIn Direct Deposit Integration Rolls Toward October Launch** — Workday's July 28 partnership with EarnIn embeds Enhanced Direct Deposit Switching into Financial Management/Payroll, using new APIs to remove manual routing/account-number entry; the feature goes live for Workday payroll customers on October 1, 2026, reaching organizations across Workday's 11,500+ customer base.
-- 🏛️ **Adaptive Planning Clears FedRAMP Moderate Bar** — Workday Adaptive Planning achieved FedRAMP Moderate Authorization on July 23, giving federal agencies a compliant path to connect workforce and financial planning data; government availability is targeted for early 2027.
-- 🕵️ **"Financial Test Suite" Fraud-Detection AI Nears Wider Rollout** — Workday's agentic Financial Test Suite, which automatically flags anomalies like duplicate invoices and can act to stop duplicate payments, remains on track for general availability in the second half of 2026, advancing CEO Aneel Bhusri's "lights-out finance" vision of continuous, agent-run financial controls.
-- 📅 **Fiscal 2027 Second Quarter Results Set for August 20** — Workday confirmed it will report Q2 FY2027 financial results after market close on August 20, 2026, the next major data point on Financial Management and subscription growth since May's Q1 beat.
-- 📈 **Shares Hold Near $160 Ahead of Earnings** — WDAY closed at $160.34 on July 31 (+1.4%), stabilizing after a broad software-sector selloff, while the ~31-analyst consensus sits at Buy with a ~$191 price target heading into the August 20 print.
+- 📅 **Q2 FY2027 Earnings Date Pushed Back to August 27** — Workday announced on August 3 that it will report fiscal 2027 second-quarter results after market close on August 27, 2026 — a week later than the previously expected August 20 date — resetting the next major checkpoint for Financial Management and subscription-revenue growth.
+- 📈 **Shares Climb Back Toward $165** — WDAY closed near $165.00 on August 3 (intraday range $161.64–$169.67), extending its rebound from the summer software-sector selloff as the ~30-analyst consensus holds at Buy heading into the now-later earnings print.
+- 💳 **EarnIn Direct Deposit Integration Still on Track for October 1** — The Enhanced Direct Deposit Switching feature from Workday's July 28 EarnIn partnership, which removes manual routing/account-number entry from Financial Management/Payroll, remains on schedule to go live October 1, 2026, reaching organizations across Workday's 11,500+ customer base.
+- 🕵️ **"Financial Test Suite" Fraud-Detection AI Holds Its H2 2026 GA Timeline** — Workday's agentic Financial Test Suite, which automatically flags anomalies like duplicate invoices and can act to stop duplicate payments, remains on track for general availability in the second half of 2026, advancing CEO Aneel Bhusri's "lights-out finance" vision of continuous, agent-run financial controls.
 
 > **Rising 2026 set for October 12–15 in Las Vegas** — Co-founder, CEO, and Chair Aneel Bhusri, President of Product and Technology Gerrit Kazmaier, and Chief AI Officer Joel Hellermark will headline the main stage to lay out Workday's agentic HR and Finance roadmap for an expected 30,000+ attendees, a strategic show of confidence as Financial Management leans further into agentic controls.
 
