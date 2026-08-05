@@ -38,12 +38,13 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: August 4, 2026*
+*Last updated: August 5, 2026*
 
-- 📅 **Q2 FY2027 Earnings Date Pushed Back to August 27** — Workday announced on August 3 that it will report fiscal 2027 second-quarter results after market close on August 27, 2026 — a week later than the previously expected August 20 date — resetting the next major checkpoint for Financial Management and subscription-revenue growth.
-- 📈 **Shares Climb Back Toward $165** — WDAY closed near $165.00 on August 3 (intraday range $161.64–$169.67), extending its rebound from the summer software-sector selloff as the ~30-analyst consensus holds at Buy heading into the now-later earnings print.
+- 📅 **Q2 FY2027 Earnings Date Set for August 27** — Workday confirmed on August 3 that it will report fiscal 2027 second-quarter results after market close on August 27, 2026, resetting the next major checkpoint for Financial Management and subscription-revenue growth.
+- 📈 **Shares Rally to $171 on Software-Sector Bounce** — WDAY closed at $171.28 on August 4, up 2.4% as easing geopolitical tensions fueled a broader software-sector rally, with the ~38-analyst consensus still at Buy heading into the later earnings print.
 - 💳 **EarnIn Direct Deposit Integration Still on Track for October 1** — The Enhanced Direct Deposit Switching feature from Workday's July 28 EarnIn partnership, which removes manual routing/account-number entry from Financial Management/Payroll, remains on schedule to go live October 1, 2026, reaching organizations across Workday's 11,500+ customer base.
 - 🕵️ **"Financial Test Suite" Fraud-Detection AI Holds Its H2 2026 GA Timeline** — Workday's agentic Financial Test Suite, which automatically flags anomalies like duplicate invoices and can act to stop duplicate payments, remains on track for general availability in the second half of 2026, advancing CEO Aneel Bhusri's "lights-out finance" vision of continuous, agent-run financial controls.
+- 🧮 **Currency Conversion Precision Doubles in Latest Release** — Workday Financial Management now supports currency conversion rates to 12 decimal places (up from 6), cutting down on manual rounding corrections for multi-entity organizations running high-volume global transactions.
 
 > **Rising 2026 set for October 12–15 in Las Vegas** — Co-founder, CEO, and Chair Aneel Bhusri, President of Product and Technology Gerrit Kazmaier, and Chief AI Officer Joel Hellermark will headline the main stage to lay out Workday's agentic HR and Finance roadmap for an expected 30,000+ attendees, a strategic show of confidence as Financial Management leans further into agentic controls.
 
