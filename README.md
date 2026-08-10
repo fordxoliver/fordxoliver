@@ -38,13 +38,13 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: August 9, 2026*
+*Last updated: August 10, 2026*
 
 - 📅 **Q2 FY2027 Earnings Date Set for August 27** — Workday confirmed on August 3 that it will report fiscal 2027 second-quarter results after market close on August 27, 2026, the next major checkpoint for Financial Management and subscription-revenue growth.
 - 🧠 **Adaptive Decision Intelligence Heads Toward Wider Rollout** — The natural-language planning capability for Adaptive Planning, unveiled at the Gartner Finance Symposium, lets finance and ops teams ask "why," model scenarios, and commit decisions straight into plans; it's running through an early-adopter program with broader availability expected later this year.
 - 🏛️ **Adaptive Planning Clears FedRAMP Moderate Bar for Federal Budgeting** — Workday Adaptive Planning achieved FedRAMP Moderate Authorization, giving federal agencies a compliant foundation to unify workforce and financial planning; Workday Government targets availability for customers in early 2027.
 - 💳 **EarnIn Direct Deposit Integration Still on Track for October 1** — The Enhanced Direct Deposit Switching feature from Workday's July 28 EarnIn partnership, which removes manual routing/account-number entry from Financial Management/Payroll, remains on schedule to go live October 1, 2026, reaching organizations across Workday's 11,500+ customer base.
-- 🕵️ **"Financial Test Suite" Fraud-Detection AI Holds Its H2 2026 GA Timeline** — Workday's agentic Financial Test Suite, which automatically flags anomalies like duplicate invoices and can act to stop duplicate payments, remains on track for general availability in the second half of 2026, advancing CEO Aneel Bhusri's "lights-out finance" vision of continuous, agent-run financial controls.
+- 🕵️ **"Financial Test Suite" Fraud-Detection AI Holds Its H2 2026 GA Timeline** — Workday's agentic Financial Test Suite, in limited release since unveiling in fall 2025, continues probing financial data in real time to flag anomalies like duplicate invoices and stop them before payments post, on track for general availability in the second half of 2026 as part of CEO Aneel Bhusri's "lights-out finance" vision.
 
 > **Rising 2026 set for October 12–15 in Las Vegas** — Co-founder, CEO, and Chair Aneel Bhusri, President of Product and Technology Gerrit Kazmaier, and Chief AI Officer Joel Hellermark will headline the main stage to lay out Workday's agentic HR and Finance roadmap for an expected 30,000+ attendees, a strategic show of confidence as Financial Management leans further into agentic controls.
 
