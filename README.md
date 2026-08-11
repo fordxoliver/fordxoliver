@@ -38,7 +38,7 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: August 10, 2026*
+*Last updated: August 11, 2026*
 
 - 📅 **Q2 FY2027 Earnings Date Set for August 27** — Workday confirmed on August 3 that it will report fiscal 2027 second-quarter results after market close on August 27, 2026, the next major checkpoint for Financial Management and subscription-revenue growth.
 - 🧠 **Adaptive Decision Intelligence Heads Toward Wider Rollout** — The natural-language planning capability for Adaptive Planning, unveiled at the Gartner Finance Symposium, lets finance and ops teams ask "why," model scenarios, and commit decisions straight into plans; it's running through an early-adopter program with broader availability expected later this year.
