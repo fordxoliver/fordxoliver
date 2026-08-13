@@ -38,9 +38,9 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: August 12, 2026*
+*Last updated: August 13, 2026*
 
-- 📈 **Shares Climb Ahead of Aug 27 Earnings, but Analysts Stay Split** — WDAY rose to roughly $184 this week even as several analysts trimmed price targets on AI-competition worries; consensus still points to fiscal Q2 FY2027 EPS around $1.26 (up ~26% YoY) when Financial Management's subscription growth gets its next checkpoint.
+- 📈 **Two Weeks to Aug 27 Earnings, Sentiment Stays Cautiously Bullish** — With WDAY trading in the mid-$180s, Wall Street's Buy-leaning consensus holds even as some analysts flag AI-competition risk; fiscal Q2 FY2027 EPS near $1.26 (up ~26% YoY) will be the next real read on Financial Management's subscription growth.
 - 🧠 **Adaptive Decision Intelligence Heads Toward Wider Rollout** — The natural-language planning capability for Adaptive Planning, unveiled at the Gartner Finance Symposium, lets finance and ops teams ask "why," model scenarios, and commit decisions straight into plans; it's running through an early-adopter program with broader availability expected later this year.
 - 🏛️ **Adaptive Planning Clears FedRAMP Moderate Bar for Federal Budgeting** — Workday Adaptive Planning achieved FedRAMP Moderate Authorization, giving federal agencies a compliant foundation to unify workforce and financial planning; Workday Government targets availability for customers in early 2027.
 - 💳 **EarnIn Direct Deposit Integration Still on Track for October 1** — The Enhanced Direct Deposit Switching feature from Workday's July 28 EarnIn partnership, which removes manual routing/account-number entry from Financial Management/Payroll, remains on schedule to go live October 1, 2026, reaching organizations across Workday's 11,500+ customer base.
