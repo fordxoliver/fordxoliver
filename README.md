@@ -38,14 +38,15 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: August 14, 2026*
+*Last updated: August 15, 2026*
 
-- 📊 **Street Splits on Valuation as Buyout Buzz Reshapes the Narrative** — Wells Fargo hiked its target to $215 (Overweight) and Monness Crespi & Hardt lifted its to $202 (Buy), while Morgan Stanley cut WDAY to Underweight ($145) on stretched valuation, leaving Financial Management's growth story overshadowed by deal speculation.
-- 🎓 **Workday Learning, Powered by Sana, Reaches Global Availability** — The AI-native learning platform is now live across Workday's HCM suite, part of the broader push to embed generative AI experiences alongside Financial Management and planning tools.
+- 💰 **Shares Hold Their Surge as Buyout Math Points Toward $54B** — WDAY closed at $206.45 (~$51.1B market cap) after its post-Reuters spike, with analysts now sizing a potential Silver Lake take-private deal well above the pre-report $43B valuation, keeping deal speculation front and center over Financial Management's underlying growth story.
+- 📊 **Street Splits on Valuation as Buyout Buzz Reshapes the Narrative** — Wells Fargo hiked its target to $215 (Overweight) and Monness Crespi & Hardt lifted its to $202 (Buy), while Morgan Stanley cut WDAY to Underweight ($145) on stretched valuation.
+- 🧭 **Analysts Frame the Bid as a "SaaSpocalypse" Signpost** — Commentators note private equity has largely sat out large software buyouts this year over AI-driven growth uncertainty, making Workday's talks with Silver Lake a test case for renewed PE appetite in enterprise software.
 - 🏛️ **Adaptive Planning's FedRAMP Moderate Win Keeps Federal Rollout on Track** — Fresh off clearing FedRAMP Moderate Authorization, Workday Adaptive Planning is on pace to reach Workday Government customers in early 2027, unifying federal workforce and budget planning.
 - 📅 **Fiscal Q2 FY2027 Results Locked for August 27** — Workday confirmed it will report earnings after market close, with subscription revenue growth in Financial Management the key metric investors will weigh against the current deal chatter.
 
-> **Silver Lake in Talks for What Could Be One of the Largest Software Buyouts Ever** — Reuters reported August 13 that private equity firm Silver Lake has held talks in recent months to acquire Workday, sending shares surging as much as 21% intraday and triggering a volatility halt; the company, co-founded by Aneel Bhusri and David Duffield, carried a market value near $43 billion before the report, and no deal is yet guaranteed.
+> **Silver Lake in Talks for What Could Be One of the Largest Software Buyouts Ever** — Reuters first reported August 13 that private equity firm Silver Lake has held talks in recent months to acquire Workday; shares have held their gains since, with the company — co-founded by Aneel Bhusri and David Duffield — now valued well above its pre-report ~$43 billion market cap, and no deal yet guaranteed.
 
 ---
 
