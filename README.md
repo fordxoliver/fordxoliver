@@ -38,15 +38,14 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: August 20, 2026*
+*Last updated: August 21, 2026*
 
-- 📈 **BofA and Barclays Turn Bullish Ahead of Q2 Earnings** — Bank of America hiked its WDAY target to $205 from $140 (still Neutral) and Barclays reiterated Overweight at $200, citing software multiple expansion and easing AI-disruption fears; shares climbed roughly 4.5% on August 19.
-- 🧠 **Workday Launches Dedicated AI Research Division** — The new "Workday AI Research" unit targets agent memory, orchestration, and reliability challenges, feeding directly into the next wave of agentic Financial Management tools.
-- 📅 **Rising 2026 Confirmed for October 12–15 in Las Vegas** — Workday's flagship conference will put Agentic Finance front and center alongside Agentic HR, previewing where Financial Management's AI roadmap is headed next.
-- 🏛️ **Adaptive Planning's FedRAMP Moderate Win Keeps Federal Rollout on Track** — Fresh off clearing FedRAMP Moderate Authorization, Workday Adaptive Planning is on pace to reach Workday Government customers in early 2027, unifying federal workforce and budget planning.
-- 📊 **Fiscal Q2 FY2027 Results Land August 27** — Workday will report earnings after market close, with subscription revenue growth in Financial Management the key metric investors weigh against ongoing deal speculation.
+- 📈 **TD Cowen Delivers the Boldest Target Hike Yet** — TD Cowen raised its WDAY price target to $220 from $155 on August 20, extending the wave of bullish resets from BofA and Barclays as Wall Street reprices Financial Management's software multiple.
+- 🔍 **Analysts Argue the AI-Disruption Selloff "Overshot"** — A Futurum Group analysis tied to the Silver Lake talks makes the case that fears of AI displacing traditional ERP ran well ahead of Workday's actual Financial Management fundamentals.
+- 📅 **One Week to Fiscal Q2 FY2027 Earnings** — Workday reports after market close on August 27, with subscription revenue growth in Financial Management the key number investors will weigh against the still-unresolved buyout chatter.
+- 🤖 **Illuminate Finance Agents Keep Expanding** — The Cost & Profitability and Financial Close agents from Workday Illuminate continue rolling out, automating allocation setup and close reconciliation ahead of October's Rising conference.
 
-> **Silver Lake Buyout Talks Still Unresolved a Week Later** — Since Reuters' August 13 report that Silver Lake has held talks to acquire Workday, neither side has confirmed a deal. A wave of analyst downgrades (Deutsche Bank, BTIG) mid-week gave way to fresh target hikes from BofA and Barclays by August 19 — a sign the market still can't agree on how much of the ~$43 billion take-private premium is justified heading into next week's earnings.
+> **Silver Lake Buyout Talks Still Unresolved Two Weeks In** — Since Reuters' August 13 report that Silver Lake has held talks to acquire Workday, neither side has confirmed a deal. Analyst sentiment has only grown more bullish since — TD Cowen's jump to $220 this week suggests the Street still sees room to run whether or not the ~$43 billion take-private materializes, with next week's earnings now the next catalyst.
 
 ---
 
