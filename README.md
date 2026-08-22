@@ -38,14 +38,14 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: August 21, 2026*
+*Last updated: August 22, 2026*
 
-- 📈 **TD Cowen Delivers the Boldest Target Hike Yet** — TD Cowen raised its WDAY price target to $220 from $155 on August 20, extending the wave of bullish resets from BofA and Barclays as Wall Street reprices Financial Management's software multiple.
-- 🔍 **Analysts Argue the AI-Disruption Selloff "Overshot"** — A Futurum Group analysis tied to the Silver Lake talks makes the case that fears of AI displacing traditional ERP ran well ahead of Workday's actual Financial Management fundamentals.
-- 📅 **One Week to Fiscal Q2 FY2027 Earnings** — Workday reports after market close on August 27, with subscription revenue growth in Financial Management the key number investors will weigh against the still-unresolved buyout chatter.
+- 📈 **TD Cowen's $220 Price Target Still the Street's Boldest Call** — TD Cowen's August 20 hike from $155 to $220 remains the high-water mark among sell-side resets, as Financial Management's growth trajectory keeps drawing bullish revisions from BofA and Barclays.
+- 🔍 **"AI-Disruption Overshot" Thesis Keeps Gaining Traction** — Futurum Group's analysis linking the Silver Lake talks to an overdone selloff continues to circulate, arguing fears of AI displacing traditional ERP ran well ahead of Workday's actual Financial Management fundamentals.
+- 📅 **5 Days to Fiscal Q2 FY2027 Earnings** — Workday reports after market close on August 27, with analysts eyeing roughly $2.34B in revenue and subscription growth in Financial Management as the number that could move the buyout narrative.
 - 🤖 **Illuminate Finance Agents Keep Expanding** — The Cost & Profitability and Financial Close agents from Workday Illuminate continue rolling out, automating allocation setup and close reconciliation ahead of October's Rising conference.
 
-> **Silver Lake Buyout Talks Still Unresolved Two Weeks In** — Since Reuters' August 13 report that Silver Lake has held talks to acquire Workday, neither side has confirmed a deal. Analyst sentiment has only grown more bullish since — TD Cowen's jump to $220 this week suggests the Street still sees room to run whether or not the ~$43 billion take-private materializes, with next week's earnings now the next catalyst.
+> **Silver Lake Buyout Talks Enter Their Second Week Unresolved** — More than a week after Reuters' August 13 report that Silver Lake has held talks to acquire Workday for roughly $43 billion, neither side has confirmed a deal. Analyst price-target hikes have kept coming since, with next week's earnings now shaping up as the next real catalyst.
 
 ---
 
