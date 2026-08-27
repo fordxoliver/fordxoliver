@@ -38,14 +38,14 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: August 26, 2026*
+*Last updated: August 27, 2026*
 
-- 📅 **1 Day to Fiscal Q2 FY2027 Earnings** — Workday reports after market close tomorrow, August 27, with analysts modeling roughly $2.63B in revenue and $2.62 adjusted EPS; Financial Management subscription growth remains the figure most likely to sway the buyout narrative either way.
-- 📈 **Analysts Race to Raise Targets on Takeout Speculation** — Jefferies, Canaccord, and Oppenheimer all lifted price targets to $225 (from $205, $200, and $165 respectively) on August 23, citing potential Silver Lake take-private upside alongside strength in Financial Management contract value.
+- 📅 **Fiscal Q2 FY2027 Earnings Land Today** — Workday reports after market close, with analysts modeling roughly $2.63B in revenue and $2.62 adjusted EPS; Financial Management subscription growth remains the figure most likely to sway the buyout narrative either way.
+- 📈 **Analyst Price Targets Keep Climbing Into the Print** — Jefferies, Canaccord, and Oppenheimer lifted targets to $225 (from $205, $200, and $165) on August 23, citing potential Silver Lake take-private upside alongside strength in Financial Management contract value.
 - 🔍 **"AI-Disruption Overshot" Thesis Keeps Gaining Traction** — Futurum Group's analysis linking the Silver Lake talks to an overdone selloff continues to circulate, arguing fears of AI displacing traditional ERP ran well ahead of Workday's actual Financial Management fundamentals.
 - 🤖 **Illuminate Finance Agents Keep Expanding** — The Cost & Profitability, Financial Close, and Financial Audit agents from Workday Illuminate continue rolling toward their 2026 availability, automating allocation setup, close reconciliation, and audit evidence collection ahead of October's Rising conference.
 
-> **Silver Lake Buyout Talks Stretch Past Two Weeks Unresolved** — Thirteen days after Reuters' August 13 report that Silver Lake has held talks to acquire Workday for roughly $43 billion (a deal that briefly pushed its market value near $51 billion on the news), neither side has confirmed anything. Tomorrow's earnings are now the clearest near-term catalyst for where the talks go next.
+> **Silver Lake Buyout Talks Stretch Past Two Weeks Unresolved** — Fourteen days after Reuters' August 13 report that Silver Lake has held talks to acquire Workday for roughly $43 billion (a deal that briefly pushed its market value near $51 billion on the news), neither side has confirmed anything. Today's earnings are now the clearest near-term catalyst for where the talks go next.
 
 ---
 
