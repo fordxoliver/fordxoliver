@@ -38,14 +38,14 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: August 27, 2026*
+*Last updated: August 28, 2026*
 
-- 📅 **Fiscal Q2 FY2027 Earnings Land Today** — Workday reports after market close, with analysts modeling roughly $2.63B in revenue and $2.62 adjusted EPS; Financial Management subscription growth remains the figure most likely to sway the buyout narrative either way.
-- 📈 **Analyst Price Targets Keep Climbing Into the Print** — Jefferies, Canaccord, and Oppenheimer lifted targets to $225 (from $205, $200, and $165) on August 23, citing potential Silver Lake take-private upside alongside strength in Financial Management contract value.
-- 🔍 **"AI-Disruption Overshot" Thesis Keeps Gaining Traction** — Futurum Group's analysis linking the Silver Lake talks to an overdone selloff continues to circulate, arguing fears of AI displacing traditional ERP ran well ahead of Workday's actual Financial Management fundamentals.
-- 🤖 **Illuminate Finance Agents Keep Expanding** — The Cost & Profitability, Financial Close, and Financial Audit agents from Workday Illuminate continue rolling toward their 2026 availability, automating allocation setup, close reconciliation, and audit evidence collection ahead of October's Rising conference.
+- 📊 **Q2 FY2027 Results Beat Across the Board** — Total revenue hit $2.649B (+12.8% YoY) with subscription revenue up 13.9% to $2.471B; non-GAAP operating margin expanded to 31.1% and diluted EPS jumped to $2.57 from $0.84 a year ago, with Financial Management contract strength cited as a key driver.
+- 🤖 **AI Bookings Cross Real Scale** — AI products drove over 25% of new ACV this quarter, with organic-agent ARR reaching roughly $600M (up ~200% YoY) and more than 5,500 customers now running at least one Workday agent — Illuminate's Financial Close and Audit agents are core to that mix.
+- 📈 **Analysts Split on the Print** — Jefferies trimmed its target to $220 (from $225, Hold), while DA Davidson lifted its target sharply to $190 (from $135, Neutral), reflecting diverging views on how much of the rally is earnings-driven versus buyout speculation.
+- 📅 **Subscription Backlog Keeps Building** — Total subscription revenue backlog reached $27.403B, up 8.0% year-over-year, reinforcing the durability of Financial Management renewal and expansion activity heading into the back half of FY2027.
 
-> **Silver Lake Buyout Talks Stretch Past Two Weeks Unresolved** — Fourteen days after Reuters' August 13 report that Silver Lake has held talks to acquire Workday for roughly $43 billion (a deal that briefly pushed its market value near $51 billion on the news), neither side has confirmed anything. Today's earnings are now the clearest near-term catalyst for where the talks go next.
+> **Silver Lake Talks Still Unconfirmed Two Weeks After Earnings Catalyst** — With Q2 results now in hand, neither Workday nor Silver Lake has confirmed the reported ~$43B take-private talks first surfaced August 13; strong subscription and AI growth this quarter arguably raises the bar for any offer, while giving both sides fresh numbers to negotiate from.
 
 ---
 
