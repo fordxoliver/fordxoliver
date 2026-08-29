@@ -38,14 +38,15 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: August 28, 2026*
+*Last updated: August 29, 2026*
 
-- 📊 **Q2 FY2027 Results Beat Across the Board** — Total revenue hit $2.649B (+12.8% YoY) with subscription revenue up 13.9% to $2.471B; non-GAAP operating margin expanded to 31.1% and diluted EPS jumped to $2.57 from $0.84 a year ago, with Financial Management contract strength cited as a key driver.
-- 🤖 **AI Bookings Cross Real Scale** — AI products drove over 25% of new ACV this quarter, with organic-agent ARR reaching roughly $600M (up ~200% YoY) and more than 5,500 customers now running at least one Workday agent — Illuminate's Financial Close and Audit agents are core to that mix.
-- 📈 **Analysts Split on the Print** — Jefferies trimmed its target to $220 (from $225, Hold), while DA Davidson lifted its target sharply to $190 (from $135, Neutral), reflecting diverging views on how much of the rally is earnings-driven versus buyout speculation.
-- 📅 **Subscription Backlog Keeps Building** — Total subscription revenue backlog reached $27.403B, up 8.0% year-over-year, reinforcing the durability of Financial Management renewal and expansion activity heading into the back half of FY2027.
+- 📊 **Q2 FY2027 Earnings Beat, Stock Pops** — Workday reported revenue of $2.65B (+12.8% YoY) and non-GAAP EPS of $2.75 (vs. $2.61 estimate), with subscription revenue up 13.9% to $2.471B; shares rose as much as 5.8% on the print.
+- 💰 **New $4B Buyback Announced** — Alongside earnings, Workday authorized an additional $4 billion in share repurchases, a signal the board views the stock as undervalued even amid ongoing buyout speculation.
+- ⚠️ **Guidance Cools the Growth Outlook** — Q3 cRPO growth was guided to 11–12% (below the Street's ~14% expectation) and FY2028 subscription growth is projected at roughly 11%, down from Q2's 14% pace, tempering enthusiasm despite the beat.
+- 📉 **Analysts Split Further on Targets** — KeyBanc raised its target to $215 (from $158) and Needham to $230 (from $180), while Cantor Fitzgerald cut its target to $205 (from $220) citing the guidance miss — underscoring a widening range of views on Financial Management's growth trajectory.
+- 🤖 **AI Adoption in Finance Keeps Climbing** — AI products drove over 25% of new ACV this quarter, with more than 5,500 customers now running at least one Workday agent, including the Illuminate Financial Close and Audit agents central to Financial Management.
 
-> **Silver Lake Talks Still Unconfirmed Two Weeks After Earnings Catalyst** — With Q2 results now in hand, neither Workday nor Silver Lake has confirmed the reported ~$43B take-private talks first surfaced August 13; strong subscription and AI growth this quarter arguably raises the bar for any offer, while giving both sides fresh numbers to negotiate from.
+> **Workday Stays Silent on Silver Lake Talks Through Earnings** — Despite the ~$43B take-private speculation that surfaced August 13, management made no mention of the reported talks on the Q2 earnings call, leaving investors to weigh strong subscription growth and the new buyback against still-unconfirmed buyout interest.
 
 ---
 
