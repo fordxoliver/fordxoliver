@@ -38,15 +38,15 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: August 29, 2026*
+*Last updated: August 30, 2026*
 
-- 📊 **Q2 FY2027 Earnings Beat, Stock Pops** — Workday reported revenue of $2.65B (+12.8% YoY) and non-GAAP EPS of $2.75 (vs. $2.61 estimate), with subscription revenue up 13.9% to $2.471B; shares rose as much as 5.8% on the print.
+- 📊 **Q2 FY2027 Beat Overshadowed by Backlog Miss** — Workday's Aug 27 report showed revenue of $2.65B (+12.8% YoY) and non-GAAP EPS of $2.75 (vs. $2.61 estimate), but subscription revenue backlog grew just 8% to $27.4B versus the Street's ~$28.6B estimate, tempering the headline beat.
 - 💰 **New $4B Buyback Announced** — Alongside earnings, Workday authorized an additional $4 billion in share repurchases, a signal the board views the stock as undervalued even amid ongoing buyout speculation.
 - ⚠️ **Guidance Cools the Growth Outlook** — Q3 cRPO growth was guided to 11–12% (below the Street's ~14% expectation) and FY2028 subscription growth is projected at roughly 11%, down from Q2's 14% pace, tempering enthusiasm despite the beat.
-- 📉 **Analysts Split Further on Targets** — KeyBanc raised its target to $215 (from $158) and Needham to $230 (from $180), while Cantor Fitzgerald cut its target to $205 (from $220) citing the guidance miss — underscoring a widening range of views on Financial Management's growth trajectory.
+- 📈 **Analysts Recalibrate Post-Earnings** — This week Canaccord Genuity (to $225, Buy) and Barclays (to $224, Overweight) raised targets, Monness Crespi & Hardt lifted its target to $218 (Buy), while TD Cowen cut to $210 (Hold) — a widening split on Financial Management's growth trajectory after the backlog miss.
 - 🤖 **AI Adoption in Finance Keeps Climbing** — AI products drove over 25% of new ACV this quarter, with more than 5,500 customers now running at least one Workday agent, including the Illuminate Financial Close and Audit agents central to Financial Management.
 
-> **Workday Stays Silent on Silver Lake Talks Through Earnings** — Despite the ~$43B take-private speculation that surfaced August 13, management made no mention of the reported talks on the Q2 earnings call, leaving investors to weigh strong subscription growth and the new buyback against still-unconfirmed buyout interest.
+> **Silver Lake Talks Remain Unresolved** — Despite the ~$43B take-private speculation that surfaced August 13, Workday still has not confirmed or denied the reported talks, leaving investors to weigh strong subscription growth and the new buyback against still-unconfirmed buyout interest a week after earnings.
 
 ---
 
