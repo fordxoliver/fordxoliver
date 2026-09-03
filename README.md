@@ -38,15 +38,15 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: September 2, 2026*
+*Last updated: September 3, 2026*
 
 - 📅 **Countdown to Financial Analyst Day** — Investors are gearing up for Workday's Oct. 13 Financial Analyst Day in Las Vegas, held during Workday Rising (Oct. 12–15), where finance leadership will detail its next-chapter strategy and product roadmap.
 - 🛠️ **WD2026R2 Release Just Weeks Away** — Workday's second bi-annual feature release lands Sept. 19, bringing the next wave of Financial Management and Illuminate agent updates ahead of the busy fall release season.
-- 🧪 **Financial Test Suite Nears General Availability** — Workday is preparing a broader rollout of its agentic "Financial Test Suite," an AI tool that flags fraud, duplicate invoices, and transaction anomalies in real time, with GA expected in the second half of 2026.
+- 💰 **$4B Buyback Authorized Amid Takeover Talk** — Workday's board approved a new $4 billion share repurchase program alongside Q2 FY2027 earnings, a move analysts (including Jim Cramer) read as management pushing back against the ongoing Silver Lake take-private speculation.
 - 🤖 **Agentic AI Revenue Nears $600M** — ARR from Workday's agentic AI offerings, including the Financial Close and Audit agents central to Financial Management, is approaching $600M and up more than 200% YoY, with 5,500+ customers now running Illuminate agents.
-- 📈 **Shares Hold Near $202** — WDAY trades around $201.82 (market cap ~$48.6B), with a Street consensus "Buy" rating and an average price target near $200 as analysts weigh strong Q2 FY2027 subscription growth against tempered guidance.
+- 📈 **Shares Hover Near $198** — WDAY trades around $198, with a Street consensus "Buy" rating as analysts weigh strong Q2 FY2027 subscription growth and the new buyback against tempered forward guidance.
 
-> **Silver Lake Buyout Talks Still Unconfirmed** — Nearly three weeks after the ~$43B take-private report first broke, Workday has yet to confirm or deny the Silver Lake discussions, leaving the speculation to play out against co-founder Aneel Bhusri's return as CEO to lead the company's "next chapter."
+> **Silver Lake Buyout Talks Still Unconfirmed** — Weeks after the take-private report first broke, Workday has yet to confirm or deny the Silver Lake discussions; the board's new $4B buyback and management's silence on the matter during the Q2 earnings call have only fueled speculation, playing out against co-founder Aneel Bhusri's return as CEO to lead the company's "next chapter."
 
 ---
 
