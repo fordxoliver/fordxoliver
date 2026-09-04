@@ -38,15 +38,15 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: September 3, 2026*
+*Last updated: September 4, 2026*
 
-- 📅 **Countdown to Financial Analyst Day** — Investors are gearing up for Workday's Oct. 13 Financial Analyst Day in Las Vegas, held during Workday Rising (Oct. 12–15), where finance leadership will detail its next-chapter strategy and product roadmap.
-- 🛠️ **WD2026R2 Release Just Weeks Away** — Workday's second bi-annual feature release lands Sept. 19, bringing the next wave of Financial Management and Illuminate agent updates ahead of the busy fall release season.
-- 💰 **$4B Buyback Authorized Amid Takeover Talk** — Workday's board approved a new $4 billion share repurchase program alongside Q2 FY2027 earnings, a move analysts (including Jim Cramer) read as management pushing back against the ongoing Silver Lake take-private speculation.
-- 🤖 **Agentic AI Revenue Nears $600M** — ARR from Workday's agentic AI offerings, including the Financial Close and Audit agents central to Financial Management, is approaching $600M and up more than 200% YoY, with 5,500+ customers now running Illuminate agents.
-- 📈 **Shares Hover Near $198** — WDAY trades around $198, with a Street consensus "Buy" rating as analysts weigh strong Q2 FY2027 subscription growth and the new buyback against tempered forward guidance.
+- 📅 **Financial Analyst Day Officially Set for Oct. 13** — Workday confirmed its annual Financial Analyst Day will run Oct. 13 in Las Vegas during Workday Rising (Oct. 12–15), where finance leadership is expected to detail its next-chapter strategy and product roadmap.
+- 🛠️ **WD2026R2 Release Two Weeks Out** — Workday's second bi-annual feature release lands Sept. 19, bringing the next wave of Financial Management and Illuminate agent updates ahead of Workday Rising.
+- 📊 **7,000+ Core Financial Management Customers** — Workday now counts more than 11,500 customers globally, including over 7,000 running core Financial Management and HCM, underscoring continued enterprise adoption.
+- 🎯 **Goldman Sachs Lifts Price Target to $164** — Goldman raised its WDAY price target from $151 to $164 (Neutral) following the Q2 FY2027 earnings beat, even as some analysts flag valuation and execution risk.
+- 📈 **Shares Climb Past $207** — WDAY closed near $207.54, up from ~$198 last week, as investors weigh strong subscription growth, the new $4B buyback, and ongoing Silver Lake speculation.
 
-> **Silver Lake Buyout Talks Still Unconfirmed** — Weeks after the take-private report first broke, Workday has yet to confirm or deny the Silver Lake discussions; the board's new $4B buyback and management's silence on the matter during the Q2 earnings call have only fueled speculation, playing out against co-founder Aneel Bhusri's return as CEO to lead the company's "next chapter."
+> **Silver Lake Buyout Talks Still Unconfirmed** — Workday has yet to confirm or deny the Silver Lake take-private discussions first reported in mid-August; the newly scheduled Oct. 13 Financial Analyst Day is shaping up as the next flashpoint for the deal chatter, playing out against co-founder Aneel Bhusri's return as CEO to lead the company's "next chapter."
 
 ---
 
