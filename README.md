@@ -38,15 +38,15 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: September 4, 2026*
+*Last updated: September 5, 2026*
 
-- 📅 **Financial Analyst Day Officially Set for Oct. 13** — Workday confirmed its annual Financial Analyst Day will run Oct. 13 in Las Vegas during Workday Rising (Oct. 12–15), where finance leadership is expected to detail its next-chapter strategy and product roadmap.
+- 🎪 **Workday Rising 2026 Set to Spotlight "Agentic Finance"** — Workday confirmed Rising 2026 runs Oct. 12–15 in Las Vegas with 400+ sessions and 30,000+ expected attendees, headlined by dedicated finance tracks showcasing agentic AI across financial operations.
 - 🛠️ **WD2026R2 Release Two Weeks Out** — Workday's second bi-annual feature release lands Sept. 19, bringing the next wave of Financial Management and Illuminate agent updates ahead of Workday Rising.
+- 🎯 **Analysts Raise Price Targets After Q2 Beat** — RBC Capital lifted its WDAY target to $240 (from $220, Outperform) and Needham to $230 (from $180, Buy), joining Goldman's earlier hike to $164, as Wall Street digests the fiscal Q2 FY2027 earnings beat.
 - 📊 **7,000+ Core Financial Management Customers** — Workday now counts more than 11,500 customers globally, including over 7,000 running core Financial Management and HCM, underscoring continued enterprise adoption.
-- 🎯 **Goldman Sachs Lifts Price Target to $164** — Goldman raised its WDAY price target from $151 to $164 (Neutral) following the Q2 FY2027 earnings beat, even as some analysts flag valuation and execution risk.
-- 📈 **Shares Climb Past $207** — WDAY closed near $207.54, up from ~$198 last week, as investors weigh strong subscription growth, the new $4B buyback, and ongoing Silver Lake speculation.
+- 📅 **Financial Analyst Day Confirmed for Oct. 13** — Workday's annual Financial Analyst Day runs Oct. 13 in Las Vegas during Workday Rising, where finance leadership is expected to detail its next-chapter strategy and product roadmap.
 
-> **Silver Lake Buyout Talks Still Unconfirmed** — Workday has yet to confirm or deny the Silver Lake take-private discussions first reported in mid-August; the newly scheduled Oct. 13 Financial Analyst Day is shaping up as the next flashpoint for the deal chatter, playing out against co-founder Aneel Bhusri's return as CEO to lead the company's "next chapter."
+> **Silver Lake Buyout Talks Still Unconfirmed** — Workday has yet to confirm or deny the Silver Lake take-private discussions first reported in mid-August; co-founders Aneel Bhusri and Dave Duffield control roughly 68% of the vote, meaning no deal can proceed without their approval as the Oct. 13 Financial Analyst Day looms as the next potential flashpoint.
 
 ---
 
