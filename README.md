@@ -38,13 +38,13 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: September 5, 2026*
+*Last updated: September 6, 2026*
 
-- 🎪 **Workday Rising 2026 Set to Spotlight "Agentic Finance"** — Workday confirmed Rising 2026 runs Oct. 12–15 in Las Vegas with 400+ sessions and 30,000+ expected attendees, headlined by dedicated finance tracks showcasing agentic AI across financial operations.
-- 🛠️ **WD2026R2 Release Two Weeks Out** — Workday's second bi-annual feature release lands Sept. 19, bringing the next wave of Financial Management and Illuminate agent updates ahead of Workday Rising.
-- 🎯 **Analysts Raise Price Targets After Q2 Beat** — RBC Capital lifted its WDAY target to $240 (from $220, Outperform) and Needham to $230 (from $180, Buy), joining Goldman's earlier hike to $164, as Wall Street digests the fiscal Q2 FY2027 earnings beat.
-- 📊 **7,000+ Core Financial Management Customers** — Workday now counts more than 11,500 customers globally, including over 7,000 running core Financial Management and HCM, underscoring continued enterprise adoption.
-- 📅 **Financial Analyst Day Confirmed for Oct. 13** — Workday's annual Financial Analyst Day runs Oct. 13 in Las Vegas during Workday Rising, where finance leadership is expected to detail its next-chapter strategy and product roadmap.
+- 🤝 **BDO Canada Selects Workday Financial Management** — Announced Sept. 1, the professional services firm adopted Workday Financial Management, HCM, Payroll, and Professional Services Automation to unify HR, operations, and finance decision-making on one platform.
+- 🎯 **Analysts Split on WDAY Post-Earnings** — Goldman Sachs raised its target to $164 (Neutral) while Wedbush's Brian White reiterated Buy at $218 on profitability gains and AI momentum, even as Freedom Broker downgraded shares to Hold — a sign of diverging views heading into Workday Rising.
+- 🎪 **Workday Rising 2026 Lineup Locks In** — The Oct. 12–15 Las Vegas conference will run 400+ sessions on agentic finance and HR, with keynotes from CEO Aneel Bhusri and President of Product & Technology Gerrit Kazmaier, plus a Kelly Clarkson customer-appreciation concert.
+- 📅 **Financial Analyst Day Set for Oct. 13** — Workday confirmed its annual Financial Analyst Day will run alongside Rising in Las Vegas, where finance leadership is expected to lay out the next-chapter product and growth strategy.
+- 🛠️ **WD2026R2 Release Lands Sept. 19** — Workday's second bi-annual feature release arrives ahead of Rising, bringing the next wave of Financial Management and Illuminate agent updates.
 
 > **Silver Lake Buyout Talks Still Unconfirmed** — Workday has yet to confirm or deny the Silver Lake take-private discussions first reported in mid-August; co-founders Aneel Bhusri and Dave Duffield control roughly 68% of the vote, meaning no deal can proceed without their approval as the Oct. 13 Financial Analyst Day looms as the next potential flashpoint.
 
