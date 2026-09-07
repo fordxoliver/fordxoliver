@@ -38,10 +38,10 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: September 6, 2026*
+*Last updated: September 7, 2026*
 
 - 🤝 **BDO Canada Selects Workday Financial Management** — Announced Sept. 1, the professional services firm adopted Workday Financial Management, HCM, Payroll, and Professional Services Automation to unify HR, operations, and finance decision-making on one platform.
-- 🎯 **Analysts Split on WDAY Post-Earnings** — Goldman Sachs raised its target to $164 (Neutral) while Wedbush's Brian White reiterated Buy at $218 on profitability gains and AI momentum, even as Freedom Broker downgraded shares to Hold — a sign of diverging views heading into Workday Rising.
+- 🎯 **Analysts Stay Split on WDAY** — A fresh Buy rating landed Sept. 2 alongside Goldman Sachs' raised $164 target (Neutral) and Wedbush's reiterated Buy at $218 on profitability and AI momentum, even as Freedom Broker holds a Hold call — diverging views persist heading into Workday Rising.
 - 🎪 **Workday Rising 2026 Lineup Locks In** — The Oct. 12–15 Las Vegas conference will run 400+ sessions on agentic finance and HR, with keynotes from CEO Aneel Bhusri and President of Product & Technology Gerrit Kazmaier, plus a Kelly Clarkson customer-appreciation concert.
 - 📅 **Financial Analyst Day Set for Oct. 13** — Workday confirmed its annual Financial Analyst Day will run alongside Rising in Las Vegas, where finance leadership is expected to lay out the next-chapter product and growth strategy.
 - 🛠️ **WD2026R2 Release Lands Sept. 19** — Workday's second bi-annual feature release arrives ahead of Rising, bringing the next wave of Financial Management and Illuminate agent updates.
