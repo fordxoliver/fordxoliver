@@ -38,13 +38,13 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: September 8, 2026*
+*Last updated: September 9, 2026*
 
-- 🤖 **New Chief AI Officer Calls It a "Refounding Moment"** — Joel Hellermark, who joined via Workday's ~$1.1B Sana acquisition, says new ACV from agentic AI products is up more than 200% as the company pivots from selling finance/HR software to running AI agents that do the work.
-- 📊 **Wall Street Consensus Stays Strong Buy Despite Split Calls** — Across 51 analysts, 31 rate WDAY Buy and 12 Hold (0 Sell) with a $280 median target, even as Goldman Sachs holds a more cautious Neutral rating and $164 target on the stock.
-- 🎤 **Rising 2026 Main Stage Confirmed** — CEO Aneel Bhusri, President of Product & Technology Gerrit Kazmaier, and Hellermark will headline the Oct. 12–15 Las Vegas event, framing agentic finance as agents that "do the work" rather than just assist with it.
-- 🛠️ **WD2026R2 Countdown Continues** — Workday's Sept. 19 bi-annual release will bring AI-assisted routing and answer suggestions to Workday Help, alongside updates spanning Financial Management, Adaptive Planning, and Time Tracking.
-- 📅 **Financial Analyst Day Still on Deck for Oct. 13** — The annual analyst briefing runs alongside Rising in Las Vegas, where finance leadership is expected to detail next-chapter product and growth strategy.
+- 🏛️ **Public-Sector Financial Management Momentum** — Workday says it's now signing a new state or local government customer nearly every week, with the City of Bell Gardens (CA), Bexar County, the State of Delaware, the Commonwealth of Massachusetts, New Jersey Turnpike Authority, NY State Unified Court System, and Utah Transit Authority all recently moving off legacy financial systems onto Workday.
+- 📅 **Financial Analyst Day Officially Confirmed for Oct. 13** — Workday formally announced its annual Financial Analyst Day will run alongside Rising 2026 in Las Vegas, where finance leadership is expected to detail next-chapter product and growth strategy.
+- 🏆 **Named a Cloud HCM Leader for the 11th Straight Year** — Gartner again placed Workday in the Leaders quadrant of its Magic Quadrant for Cloud HCM Suites (1,000+ employee enterprises), reinforcing its standing across the broader HR-and-finance platform.
+- 📊 **AI Push Eases Investor Fears, but Guidance Stays Cautious** — Workday says AI products now drive more than 25% of new annual contract value and are nearing $600M in annual recurring revenue, even as fiscal 2028 subscription growth is guided to ~11%, below the current 13–14% range.
+- 🛠️ **WD2026R2 Release Lands Sept. 19** — The upcoming bi-annual release brings AI-assisted routing and answer suggestions to Workday Help, alongside updates spanning Financial Management, Adaptive Planning, and Time Tracking.
 
 > **Silver Lake Buyout Talks Still Unconfirmed** — Workday has yet to confirm or deny the Silver Lake take-private discussions first reported in mid-August, reportedly worth around $51B; co-founders Aneel Bhusri and Dave Duffield control roughly 68% of the vote, meaning no deal can proceed without their approval as the Oct. 13 Financial Analyst Day looms as the next potential flashpoint.
 
