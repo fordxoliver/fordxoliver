@@ -38,12 +38,12 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: September 8, 2026*
+*Last updated: September 11, 2026*
 
-- 🤖 **New Chief AI Officer Calls It a "Refounding Moment"** — Joel Hellermark, who joined via Workday's ~$1.1B Sana acquisition, says new ACV from agentic AI products is up more than 200% as the company pivots from selling finance/HR software to running AI agents that do the work.
-- 📊 **Wall Street Consensus Stays Strong Buy Despite Split Calls** — Across 51 analysts, 31 rate WDAY Buy and 12 Hold (0 Sell) with a $280 median target, even as Goldman Sachs holds a more cautious Neutral rating and $164 target on the stock.
-- 🎤 **Rising 2026 Main Stage Confirmed** — CEO Aneel Bhusri, President of Product & Technology Gerrit Kazmaier, and Hellermark will headline the Oct. 12–15 Las Vegas event, framing agentic finance as agents that "do the work" rather than just assist with it.
+- 👤 **New CMO Poached From Google Cloud** — Workday named Sarah Kennedy Ellis, who led marketing for Google Cloud and Google Workspace (and was previously CMO at Adobe Experience Cloud and Marketo), as Chief Marketing Officer effective Oct. 5, reporting directly to co-founder and CEO Aneel Bhusri.
+- 📊 **Scale Metrics Revealed Ahead of Analyst Day** — Workday now counts 11,500+ customers globally, including 7,000+ core Workday Financial Management and HCM customers, and says the platform processed 1.7 billion AI actions across fiscal 2026.
 - 🛠️ **WD2026R2 Countdown Continues** — Workday's Sept. 19 bi-annual release will bring AI-assisted routing and answer suggestions to Workday Help, alongside updates spanning Financial Management, Adaptive Planning, and Time Tracking.
+- 🎤 **Rising 2026 Main Stage Confirmed** — CEO Aneel Bhusri, President of Product & Technology Gerrit Kazmaier, and Chief AI Officer Joel Hellermark will headline the Oct. 12–15 Las Vegas event, framing agentic finance as agents that "do the work" rather than just assist with it.
 - 📅 **Financial Analyst Day Still on Deck for Oct. 13** — The annual analyst briefing runs alongside Rising in Las Vegas, where finance leadership is expected to detail next-chapter product and growth strategy.
 
 > **Silver Lake Buyout Talks Still Unconfirmed** — Workday has yet to confirm or deny the Silver Lake take-private discussions first reported in mid-August, reportedly worth around $51B; co-founders Aneel Bhusri and Dave Duffield control roughly 68% of the vote, meaning no deal can proceed without their approval as the Oct. 13 Financial Analyst Day looms as the next potential flashpoint.
