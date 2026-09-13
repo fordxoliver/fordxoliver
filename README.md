@@ -38,10 +38,10 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: September 12, 2026*
+*Last updated: September 13, 2026*
 
 - 👤 **New CMO Poached From Google Cloud** — Workday named Sarah Kennedy Ellis, who led marketing for Google Cloud and Google Workspace (and was previously CMO at Adobe Experience Cloud and Marketo), as Chief Marketing Officer effective Oct. 5, reporting directly to co-founder and CEO Aneel Bhusri.
-- 📈 **Wall Street Stays Split Ahead of Analyst Day** — Citi reaffirmed a Hold rating on Workday this week with a price target in the $270–274 range, even as the broader Street consensus holds at Buy with a median target near $280, underscoring mixed conviction heading into October's investor events.
+- 🤖 **Illuminate Finance Agents Take Shape** — Workday is detailing new Illuminate agents built specifically for Financial Management: a Financial Test Agent for continuous testing and fraud/error detection, a Cost & Profitability Agent for natural-language cost analysis, and a Financial Close Agent to automate and speed up the close process.
 - 🛠️ **WD2026R2 Countdown Continues** — Workday's Sept. 19 bi-annual release will bring AI-assisted routing and answer suggestions to Workday Help, alongside updates spanning Financial Management, Adaptive Planning, and Time Tracking.
 - 🎤 **Rising 2026 Main Stage Confirmed** — CEO Aneel Bhusri, President of Product & Technology Gerrit Kazmaier, and Chief AI Officer Joel Hellermark will headline the Oct. 12–15 Las Vegas event, framing agentic finance as agents that "do the work" rather than just assist with it.
 - 📅 **Financial Analyst Day Still on Deck for Oct. 13** — The annual analyst briefing runs alongside Rising in Las Vegas, where finance leadership is expected to detail next-chapter product and growth strategy.
