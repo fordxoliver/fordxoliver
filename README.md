@@ -38,15 +38,15 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: September 13, 2026*
+*Last updated: September 14, 2026*
 
-- 👤 **New CMO Poached From Google Cloud** — Workday named Sarah Kennedy Ellis, who led marketing for Google Cloud and Google Workspace (and was previously CMO at Adobe Experience Cloud and Marketo), as Chief Marketing Officer effective Oct. 5, reporting directly to co-founder and CEO Aneel Bhusri.
+- 🛠️ **WD2026R2 Lands in 5 Days** — Workday's Sept. 19 bi-annual release goes live with embedded AI and purpose-built finance agents reshaping record-to-report, payables, and opportunity-to-cash cycles, plus hundreds of smaller updates across Financial Management, Adaptive Planning, and Time Tracking.
 - 🤖 **Illuminate Finance Agents Take Shape** — Workday is detailing new Illuminate agents built specifically for Financial Management: a Financial Test Agent for continuous testing and fraud/error detection, a Cost & Profitability Agent for natural-language cost analysis, and a Financial Close Agent to automate and speed up the close process.
-- 🛠️ **WD2026R2 Countdown Continues** — Workday's Sept. 19 bi-annual release will bring AI-assisted routing and answer suggestions to Workday Help, alongside updates spanning Financial Management, Adaptive Planning, and Time Tracking.
-- 🎤 **Rising 2026 Main Stage Confirmed** — CEO Aneel Bhusri, President of Product & Technology Gerrit Kazmaier, and Chief AI Officer Joel Hellermark will headline the Oct. 12–15 Las Vegas event, framing agentic finance as agents that "do the work" rather than just assist with it.
+- 🎤 **Rising 2026 Main Stage Confirmed** — CEO Aneel Bhusri, President of Product & Technology Gerrit Kazmaier, and Chief AI Officer Joel Hellermark will headline the Oct. 12–15 Las Vegas event, framing agentic finance as agents that "do the work" rather than just assist with it, with over 30,000 HR, finance, and IT attendees expected.
 - 📅 **Financial Analyst Day Still on Deck for Oct. 13** — The annual analyst briefing runs alongside Rising in Las Vegas, where finance leadership is expected to detail next-chapter product and growth strategy.
+- 👤 **New CMO Poached From Google Cloud** — Workday named Sarah Kennedy Ellis, who led marketing for Google Cloud and Google Workspace (and was previously CMO at Adobe Experience Cloud and Marketo), as Chief Marketing Officer effective Oct. 5, reporting directly to co-founder and CEO Aneel Bhusri.
 
-> **Silver Lake Buyout Talks Still Unconfirmed** — Workday has yet to confirm or deny the Silver Lake take-private discussions first reported in mid-August, reportedly worth around $51B; co-founders Aneel Bhusri and Dave Duffield control roughly 68% of the vote, meaning no deal can proceed without their approval as the Oct. 13 Financial Analyst Day looms as the next potential flashpoint.
+> **Silver Lake Buyout Talks Still Unconfirmed** — A month after Reuters first reported Silver Lake's take-private talks (reportedly modeled around a ~$227/share, ~$53.8B offer), Workday still hasn't confirmed or denied a deal; co-founders Aneel Bhusri and Dave Duffield control roughly 68% of the vote, meaning no deal can proceed without their approval as the Oct. 13 Financial Analyst Day looms as the next potential flashpoint.
 
 ---
 
