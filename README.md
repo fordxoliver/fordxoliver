@@ -38,13 +38,13 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: September 14, 2026*
+*Last updated: September 15, 2026*
 
-- 🛠️ **WD2026R2 Lands in 5 Days** — Workday's Sept. 19 bi-annual release goes live with embedded AI and purpose-built finance agents reshaping record-to-report, payables, and opportunity-to-cash cycles, plus hundreds of smaller updates across Financial Management, Adaptive Planning, and Time Tracking.
+- 🛠️ **WD2026R2 Lands in 4 Days** — Workday's Sept. 19 bi-annual release goes live with embedded AI and purpose-built finance agents reshaping record-to-report, payables, and opportunity-to-cash cycles, plus hundreds of smaller updates across Financial Management, Adaptive Planning, and Time Tracking.
 - 🤖 **Illuminate Finance Agents Take Shape** — Workday is detailing new Illuminate agents built specifically for Financial Management: a Financial Test Agent for continuous testing and fraud/error detection, a Cost & Profitability Agent for natural-language cost analysis, and a Financial Close Agent to automate and speed up the close process.
-- 🎤 **Rising 2026 Main Stage Confirmed** — CEO Aneel Bhusri, President of Product & Technology Gerrit Kazmaier, and Chief AI Officer Joel Hellermark will headline the Oct. 12–15 Las Vegas event, framing agentic finance as agents that "do the work" rather than just assist with it, with over 30,000 HR, finance, and IT attendees expected.
-- 📅 **Financial Analyst Day Still on Deck for Oct. 13** — The annual analyst briefing runs alongside Rising in Las Vegas, where finance leadership is expected to detail next-chapter product and growth strategy.
-- 👤 **New CMO Poached From Google Cloud** — Workday named Sarah Kennedy Ellis, who led marketing for Google Cloud and Google Workspace (and was previously CMO at Adobe Experience Cloud and Marketo), as Chief Marketing Officer effective Oct. 5, reporting directly to co-founder and CEO Aneel Bhusri.
+- 🏛️ **Governments Keep Signing On** — Workday now lands a new state or local government customer nearly every week as agencies ditch legacy systems; Delaware, Massachusetts, and the New Jersey Turnpike Authority are the latest to adopt the platform for faster payroll processing and real-time budget visibility.
+- 🎤 **Rising 2026 & Financial Analyst Day Set for Oct. 12–15** — CEO Aneel Bhusri, President of Product & Technology Gerrit Kazmaier, and Chief AI Officer Joel Hellermark headline the Las Vegas event (30,000+ attendees expected), with the Financial Analyst Day running Oct. 13 to detail next-chapter finance product and growth strategy.
+- 📈 **Analysts Split as Shares Hold Near Highs** — Citi kept its Hold rating Sept. 9 while another firm initiated Buy coverage Sept. 8; consensus among Wall Street analysts remains a "Buy," with price targets ranging as high as $280 amid continued Silver Lake takeover speculation.
 
 > **Silver Lake Buyout Talks Still Unconfirmed** — A month after Reuters first reported Silver Lake's take-private talks (reportedly modeled around a ~$227/share, ~$53.8B offer), Workday still hasn't confirmed or denied a deal; co-founders Aneel Bhusri and Dave Duffield control roughly 68% of the vote, meaning no deal can proceed without their approval as the Oct. 13 Financial Analyst Day looms as the next potential flashpoint.
 
