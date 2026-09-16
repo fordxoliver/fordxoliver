@@ -38,15 +38,15 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: September 15, 2026*
+*Last updated: September 16, 2026*
 
-- 🛠️ **WD2026R2 Lands in 4 Days** — Workday's Sept. 19 bi-annual release goes live with embedded AI and purpose-built finance agents reshaping record-to-report, payables, and opportunity-to-cash cycles, plus hundreds of smaller updates across Financial Management, Adaptive Planning, and Time Tracking.
-- 🤖 **Illuminate Finance Agents Take Shape** — Workday is detailing new Illuminate agents built specifically for Financial Management: a Financial Test Agent for continuous testing and fraud/error detection, a Cost & Profitability Agent for natural-language cost analysis, and a Financial Close Agent to automate and speed up the close process.
-- 🏛️ **Governments Keep Signing On** — Workday now lands a new state or local government customer nearly every week as agencies ditch legacy systems; Delaware, Massachusetts, and the New Jersey Turnpike Authority are the latest to adopt the platform for faster payroll processing and real-time budget visibility.
-- 🎤 **Rising 2026 & Financial Analyst Day Set for Oct. 12–15** — CEO Aneel Bhusri, President of Product & Technology Gerrit Kazmaier, and Chief AI Officer Joel Hellermark headline the Las Vegas event (30,000+ attendees expected), with the Financial Analyst Day running Oct. 13 to detail next-chapter finance product and growth strategy.
-- 📈 **Analysts Split as Shares Hold Near Highs** — Citi kept its Hold rating Sept. 9 while another firm initiated Buy coverage Sept. 8; consensus among Wall Street analysts remains a "Buy," with price targets ranging as high as $280 amid continued Silver Lake takeover speculation.
+- 🛠️ **WD2026R2 Goes Live in 3 Days** — Workday's Sept. 19 bi-annual release ships embedded AI and purpose-built finance agents reshaping record-to-report, payables, and opportunity-to-cash cycles, following a five-week preview window for regression testing across Financial Management, Adaptive Planning, and Time Tracking.
+- 🤖 **Illuminate Finance Agents Take Shape** — Workday continues detailing new Illuminate agents built specifically for Financial Management: a Financial Test Agent for continuous testing and fraud/error detection, a Cost & Profitability Agent for natural-language cost analysis, and a Financial Close Agent to automate and speed up the close process.
+- 🏛️ **Governments Keep Signing On** — Workday now lands a new state or local government customer nearly every week as agencies ditch legacy systems; Bexar County, the New York State Unified Court System, and Utah Transit Authority join recent wins like Delaware, Massachusetts, and the New Jersey Turnpike Authority, with 100+ state/local governments selecting Workday in the past two years.
+- 🎤 **Rising 2026 & Financial Analyst Day Set for Oct. 12–15** — Early-bird registration for the Las Vegas event closes Sept. 16, with the Financial Analyst Day running Oct. 13 to detail next-chapter finance product and growth strategy alongside agentic HR and finance showcases.
+- 📈 **Analysts Split as Shares Hold Near Highs** — Citi kept its Hold rating Sept. 9 while another firm initiated Buy coverage Sept. 8; the broader Wall Street consensus of 51 analysts remains a "Buy" (31 Buy, 12 Hold, 0 Sell), with price targets ranging as high as $326 amid continued Silver Lake takeover speculation.
 
-> **Silver Lake Buyout Talks Still Unconfirmed** — A month after Reuters first reported Silver Lake's take-private talks (reportedly modeled around a ~$227/share, ~$53.8B offer), Workday still hasn't confirmed or denied a deal; co-founders Aneel Bhusri and Dave Duffield control roughly 68% of the vote, meaning no deal can proceed without their approval as the Oct. 13 Financial Analyst Day looms as the next potential flashpoint.
+> **Silver Lake Buyout Talks Still Unconfirmed** — Over a month after Reuters first reported Silver Lake's take-private talks (reportedly modeled around a ~$227/share, ~$53.8B offer), Workday still hasn't confirmed or denied a deal; co-founders Aneel Bhusri and Dave Duffield control roughly 68% of the vote, meaning no deal can proceed without their approval as the Oct. 13 Financial Analyst Day looms as the next potential flashpoint.
 
 ---
 
