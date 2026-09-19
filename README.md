@@ -38,9 +38,9 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: September 18, 2026*
+*Last updated: September 19, 2026*
 
-- 🛠️ **WD2026R2 Launches Tomorrow** — Workday's second bi-annual release of 2026 goes live company-wide on Sept. 19, capping a five-week regression-testing preview window and bringing embedded AI and finance-agent updates across Financial Management, Adaptive Planning, and Time Tracking.
+- 🚀 **WD2026R2 Goes Live** — Workday's second bi-annual release of 2026 is now live in production company-wide, capping a five-week regression-testing preview window and bringing faster period-end closes, enhanced security/audit controls, and embedded finance-agent updates across Financial Management, Adaptive Planning, and Time Tracking.
 - 📣 **Google Cloud Marketing Chief Named CMO** — Workday hired Sarah Kennedy Ellis, who led global marketing for Google Cloud and Google Workspace (and previously ran marketing at Adobe Experience Cloud and Marketo), as Chief Marketing Officer effective Oct. 5, reporting to co-founder and CEO Aneel Bhusri.
 - 🏛️ **Government Sign-Ons Continue Nearly Weekly** — Workday says it's landing a new state or local government customer almost every week; the City of Akron, State of Georgia, City of San Mateo, and Sandy City, Utah are among the latest to go live, part of 100+ state/local wins over the past two years.
 - 🎤 **Rising 2026 & Financial Analyst Day Countdown to Oct. 12–15** — With the Las Vegas event under a month away, the group-bundle pricing and hotel-booking deadline lands Sept. 29, while the Oct. 13 Financial Analyst Day will detail next-chapter finance product and growth strategy alongside agentic HR and finance showcases.
