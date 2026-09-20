@@ -38,15 +38,15 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: September 19, 2026*
+*Last updated: September 20, 2026*
 
-- 🚀 **WD2026R2 Goes Live** — Workday's second bi-annual release of 2026 is now live in production company-wide, capping a five-week regression-testing preview window and bringing faster period-end closes, enhanced security/audit controls, and embedded finance-agent updates across Financial Management, Adaptive Planning, and Time Tracking.
-- 📣 **Google Cloud Marketing Chief Named CMO** — Workday hired Sarah Kennedy Ellis, who led global marketing for Google Cloud and Google Workspace (and previously ran marketing at Adobe Experience Cloud and Marketo), as Chief Marketing Officer effective Oct. 5, reporting to co-founder and CEO Aneel Bhusri.
+- 🚀 **WD2026R2 Now Fully in Production** — Workday's second bi-annual release of 2026 has settled into company-wide production, deepening Procure-to-Pay exception automation, moving reconciliation from flagging issues to full explanations with recommended actions, and adding new Contract-to-Cash capabilities across Financial Management.
+- 🤖 **Financial Test & Audit Agents Advance Toward GA** — The AI-powered Financial Test Agent and Financial Audit Agent, which auto-identify and resolve anomalies and accelerate evidence collection for real-time control validation, continue rolling out to early customers ahead of a broader release later this year.
 - 🏛️ **Government Sign-Ons Continue Nearly Weekly** — Workday says it's landing a new state or local government customer almost every week; the City of Akron, State of Georgia, City of San Mateo, and Sandy City, Utah are among the latest to go live, part of 100+ state/local wins over the past two years.
-- 🎤 **Rising 2026 & Financial Analyst Day Countdown to Oct. 12–15** — With the Las Vegas event under a month away, the group-bundle pricing and hotel-booking deadline lands Sept. 29, while the Oct. 13 Financial Analyst Day will detail next-chapter finance product and growth strategy alongside agentic HR and finance showcases.
-- 📈 **Bernstein Holds $304 Target, Street Stays Bullish** — Bernstein's Mark Moerdler keeps his Outperform rating and trimmed $304 target in place; the broader Wall Street consensus of 51 analysts remains a "Buy" as shares hold near highs amid continued Silver Lake takeover speculation.
+- 🎤 **Rising 2026 & Financial Analyst Day Now Just Over Three Weeks Out** — With the Las Vegas event (Oct. 12–15) approaching, the group-bundle pricing and hotel-booking deadline lands Sept. 29, while the Oct. 13 Financial Analyst Day will detail next-chapter finance product and growth strategy alongside agentic HR and finance showcases.
+- 📈 **Street Stays Split but Leans Bullish** — Bernstein reaffirmed its Buy rating on Sept. 10, while Citi held to its Hold rating on Sept. 8; the broader Wall Street consensus across 50+ analysts remains a "Buy," with shares holding near highs amid continued Silver Lake takeover speculation.
 
-> **Silver Lake Financing Momentum Reportedly Building** — CNBC's David Faber says "financing packages are being provided" and equity is "continuing to be raised in a significant way" for a potential take-private, a notably more upbeat tone than his caution last month; co-founders Aneel Bhusri and Dave Duffield still control roughly 68% of the vote, meaning no deal can proceed without their approval as the Oct. 13 Financial Analyst Day looms as a potential flashpoint.
+> **Silver Lake Take-Private Talks Still the Big Overhang** — Reports that Silver Lake is discussing a take-private of the ~$51B company (among the largest software buyouts in history) first surfaced in mid-August and remain unresolved, with financing said to be coming together; co-founders Aneel Bhusri and Dave Duffield still control roughly 68% of the vote, meaning no deal can proceed without their approval as the Oct. 13 Financial Analyst Day looms as a potential flashpoint.
 
 ---
 
