@@ -38,14 +38,14 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: September 22, 2026*
+*Last updated: September 23, 2026*
 
-- 📊 **Shares Rally Toward $200 on Deal Optimism** — Workday stock climbed to an intraday high near $199.61 this week on more than double its average daily volume, as reports of progress on take-private financing lifted sentiment.
-- 🎯 **Analysts Split on Where Shares Head Next** — RBC Capital raised its price target to $240 (from $220), while Freedom Broker moved the other way, downgrading shares to Hold with a $200 target — leaving the Street sharply divided as the buyout saga plays out.
+- 🏆 **Named a Leader in Inaugural Gartner Workforce Management Magic Quadrant** — Workday was named a Leader in Gartner's first-ever Magic Quadrant for Workforce Management Technology (Sept. 17), adding to existing Leader placements in Cloud HCM, Talent Acquisition, and Higher Education Student Information Systems.
+- 📊 **Take-Private Chatter Keeps Shares in Play** — CNBC's David Faber reported fresh optimism (Sept. 18) that financing for a Silver Lake-led take-private is coming together, with meaningful new equity being raised, keeping the stock volatile on every headline.
 - 🏛️ **Public-Sector Wins Keep Coming** — Workday keeps adding state and local government customers nearly every week, with Delaware, the Commonwealth of Massachusetts, and the New Jersey Turnpike Authority among the latest to sign as agencies retire legacy ERP systems.
-- 🎤 **Financial Analyst Day Countdown Enters Final Stretch** — The Sept. 29 group-bundle pricing and hotel deadline for Workday Rising (Oct. 12–15, Las Vegas) is now about a week away, setting up the Oct. 13 Financial Analyst Day's next-chapter finance strategy reveal.
+- 🎤 **Financial Analyst Day Countdown Enters Final Stretch** — The Sept. 29 group-bundle pricing and hotel deadline for Workday Rising (Oct. 12–15, Las Vegas) is under a week away, setting up the Oct. 13 Financial Analyst Day's next-chapter finance strategy reveal.
 
-> **Take-Private Financing Momentum Builds** — CNBC's David Faber reported growing optimism that a Silver Lake-led take-private could get done, with sources describing financing packages coming together and meaningful new equity being raised; co-founders Aneel Bhusri and Dave Duffield's roughly 68% voting control still means no deal proceeds without their sign-off.
+> **New Chief Marketing Officer Named** — Workday announced Sarah Kennedy Ellis, formerly of Google Cloud/Workspace and CMO of Adobe Experience Cloud and Marketo, as its next Chief Marketing Officer effective Oct. 5, reporting directly to co-founder, CEO, and Chair Aneel Bhusri.
 
 ---
 
