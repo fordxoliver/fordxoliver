@@ -38,15 +38,15 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: September 26, 2026*
+*Last updated: September 27, 2026*
 
-- 🎤 **Countdown to Workday Rising 2026** — With the Oct. 12–15 Las Vegas event now under three weeks away, Workday confirmed CEO Aneel Bhusri, President Gerrit Kazmaier, and Chief AI Officer Joel Hellermark will headline more than 400 sessions putting "agentic finance" and agentic HR center stage for an expected 30,000+ attendees.
-- 📈 **Take-Private Talk Still Driving Volatility** — Shares remain choppy on every fresh report that financing for a Silver Lake-led take-private continues to progress, with no confirmed deal yet as of this week.
-- 💰 **Neeyamo Extends Workday Payroll to India** — A newly expanded partnership brings "Workday Payroll provided by Neeyamo" to market, letting customers process India payroll natively inside Workday via a single contract and certified Global Payroll Connect integration.
-- 🏆 **Named a Leader in Inaugural Gartner Workforce Management Magic Quadrant** — Workday was named a Leader in Gartner's first-ever Magic Quadrant for Workforce Management Technology, adding to existing Leader placements in Cloud HCM, Talent Acquisition, and Higher Education Student Information Systems.
-- 🏛️ **Public-Sector Momentum Keeps Building** — More than 100 state and local governments have selected Workday in the past two years, with new go-lives at the City of Akron (OH), the State of Georgia, and Sandy City (UT) joining recent signings from Delaware, the Commonwealth of Massachusetts, and New Jersey Transit as agencies retire legacy ERP systems.
+- 🤝 **Cash App & Experian Expand the Payroll Ecosystem** — Cash App will appear as a direct deposit option inside Workday's paycheck-election experience starting Oct. 1, while a new Experian Verify connection lets employers fulfill automated income and employment verification requests covering more than 80 million U.S. worker records.
+- 🧬 **"Total Benefits" Platform Debuts** — Workday launched Total Benefits, a new AI-powered offering that unifies employees' health, financial, and wellbeing benefits into a single view inside the platform.
+- 🎤 **Workday Rising 2026 About Two Weeks Out** — With the Oct. 12–15 Las Vegas event approaching, Workday continues teasing more than 400 sessions built around "agentic finance" and agentic HR for an expected 30,000+ attendees.
+- 📈 **Take-Private Talks Remain Unresolved** — Shares are still reacting to every fresh report on financing for a possible Silver Lake-led buyout, with no confirmed deal announced as of this week.
+- 🏆 **Another Gartner Leader Nod** — Workday was named a Leader in the 2026 Gartner Magic Quadrant for Cloud HCM Suites (1,000+ employee enterprises) for the 11th consecutive year, adding to its recent Leader placement in the inaugural Workforce Management Magic Quadrant.
 
-> **New Chief Marketing Officer Named** — Workday announced Sarah Kennedy Ellis, formerly of Google Cloud/Workspace and CMO of Adobe Experience Cloud and Marketo, as its next Chief Marketing Officer effective Oct. 5, reporting directly to co-founder, CEO, and Chair Aneel Bhusri.
+> **Co-Founder Trims Stake Amid Buyout Speculation** — Filings show co-founder David Duffield sold 99,613 shares for roughly $19.1 million, cutting his personal position by nearly half, as speculation continues around a potential Silver Lake-led take-private of the company.
 
 ---
 
