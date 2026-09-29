@@ -38,15 +38,15 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: September 28, 2026*
+*Last updated: September 29, 2026*
 
-- 📣 **New Chief Marketing Officer Named** — Workday appointed Sarah Kennedy Ellis, formerly of Google Cloud/Workspace and Marketo, as Chief Marketing Officer effective Oct. 5, reporting directly to co-founder, CEO, and Chair Aneel Bhusri.
-- 🎤 **Rising 2026 Keynote Lineup Set** — With the Oct. 12–15 Las Vegas event under two weeks away, Workday confirmed Bhusri, President of Product & Technology Gerrit Kazmaier, and Chief AI Officer Joel Hellermark will headline the agentic HR and agentic finance keynotes for an expected 30,000+ attendees.
-- 🤝 **Cash App & Experian Expand the Payroll Ecosystem** — Cash App will appear as a direct deposit option inside Workday's paycheck-election experience starting Oct. 1, while a new Experian Verify connection lets employers fulfill automated income and employment verification requests covering more than 80 million U.S. worker records.
-- 🧬 **"Total Benefits" Platform Debuts** — Workday launched Total Benefits, a new AI-powered offering that unifies employees' health, financial, and wellbeing benefits into a single view inside the platform.
-- 🏆 **Another Gartner Leader Nod** — Workday was named a Leader in the 2026 Gartner Magic Quadrant for Cloud HCM Suites (1,000+ employee enterprises) for the 11th consecutive year, adding to its recent Leader placement in the inaugural Workforce Management Magic Quadrant.
+- 🛒 **Teem Adds AI Supplier Intelligence to Spend Management** — Announced Sept. 28, procurement-intelligence startup Teem now integrates with Workday Strategic Sourcing and Contract Lifecycle Management, pulling supplier and contract context straight from Workday to flag redundant purchases before they happen — customers report 20–35% cuts in duplicate software spend and sourcing cycle times halved.
+- 📊 **Financial Analyst Day Set for Oct. 13** — Workday will hold its annual financial analyst day during Rising in Las Vegas at 2:00 p.m. PT, with a live webcast on the Investor Relations site and a replay available for at least 90 days.
+- 🤖 **Illuminate for Financials Agents Near GA** — The Cost & Profitability, Financial Close, and Financial Test agents are all slated to land in 2026, with the Financial Test Suite — aimed at catching fraud, errors, and anomalies in transactions — moving from early customers to general availability in the second half of the year.
+- 🎤 **Rising 2026 Is Two Weeks Out** — The Oct. 12–15 Las Vegas event puts agentic HR and agentic finance center stage across 400+ sessions, role-based keynotes for HR, finance, and IT, plus demos and hands-on labs for 30,000+ in-person and digital attendees.
+- 🌍 **Ecosystem Keeps Widening** — A new Neeyamo India payroll integration targets multinational payroll compliance, following recent Cash App direct deposit and Experian Verify connections — reinforcing the push to make Workday a broader enterprise workflow hub.
 
-> **Co-Founder Trims Stake Amid Buyout Speculation** — Filings show co-founder David Duffield sold 99,613 shares for roughly $19.1 million, cutting his personal position by nearly half, as speculation continues around a potential Silver Lake-led take-private of the ~$45B company.
+> **Take-Private Talks Still Live** — Reporting on Sept. 17 sent shares up ~7% on word that financing work continues for a potential Silver Lake–led buyout valued at up to $43B, one of the largest software deals ever floated. Talks remain preliminary with no formal terms, and co-founder David Duffield recently trimmed his personal stake by roughly half.
 
 ---
 
