@@ -38,15 +38,15 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: September 29, 2026*
+*Last updated: September 30, 2026*
 
-- 🛒 **Teem Adds AI Supplier Intelligence to Spend Management** — Announced Sept. 28, procurement-intelligence startup Teem now integrates with Workday Strategic Sourcing and Contract Lifecycle Management, pulling supplier and contract context straight from Workday to flag redundant purchases before they happen — customers report 20–35% cuts in duplicate software spend and sourcing cycle times halved.
-- 📊 **Financial Analyst Day Set for Oct. 13** — Workday will hold its annual financial analyst day during Rising in Las Vegas at 2:00 p.m. PT, with a live webcast on the Investor Relations site and a replay available for at least 90 days.
-- 🤖 **Illuminate for Financials Agents Near GA** — The Cost & Profitability, Financial Close, and Financial Test agents are all slated to land in 2026, with the Financial Test Suite — aimed at catching fraud, errors, and anomalies in transactions — moving from early customers to general availability in the second half of the year.
-- 🎤 **Rising 2026 Is Two Weeks Out** — The Oct. 12–15 Las Vegas event puts agentic HR and agentic finance center stage across 400+ sessions, role-based keynotes for HR, finance, and IT, plus demos and hands-on labs for 30,000+ in-person and digital attendees.
-- 🌍 **Ecosystem Keeps Widening** — A new Neeyamo India payroll integration targets multinational payroll compliance, following recent Cash App direct deposit and Experian Verify connections — reinforcing the push to make Workday a broader enterprise workflow hub.
+- ✂️ **Second Workforce Reduction of 2026** — Disclosed Sept. 29: Workday will cut roughly 2.5% of staff (~525 roles), concentrated in Product & Technology, with $65–85M in severance, benefits, and lease-impairment charges landing mostly in Q3 FY2027 and pushing GAAP operating margin about 21 points below non-GAAP for the quarter. Q3 and full-year guidance were reiterated; shares closed at $189.17, up 0.3%.
+- 🛒 **Teem Brings AI Supplier Intelligence to Spend Management** — Announced Sept. 28, the procurement-intelligence startup now integrates with Workday Strategic Sourcing and Contract Lifecycle Management, pulling supplier and contract context straight from Workday to flag redundant purchases before they get approved.
+- 💚 **Total Benefits Launches** — Unveiled Sept. 24, it pulls health, wealth, and wellbeing into a single AI-guided experience. Workday Wellness is live for U.S. customers now, and benefits guidance through the Self-Service Agent is slated for general availability in October.
+- 📊 **Financial Analyst Day on Oct. 13** — Workday hosts its annual analyst day during Rising in Las Vegas at 2:00 p.m. PT, with a live webcast on the Investor Relations site and a replay up for at least 90 days — the first detailed read on strategy since this week's reorg.
+- 🤖 **Illuminate for Financials Agents Still Tracking to 2026** — The Cost & Profitability, Financial Close, and Financial Test agents remain on deck for this year, with the Financial Test Suite — built to catch fraud, duplicate invoices, and transaction anomalies — moving from early customers to general availability in the second half.
 
-> **Take-Private Talks Still Live** — Reporting on Sept. 17 sent shares up ~7% on word that financing work continues for a potential Silver Lake–led buyout valued at up to $43B, one of the largest software deals ever floated. Talks remain preliminary with no formal terms, and co-founder David Duffield recently trimmed his personal stake by roughly half.
+> **Reorg Reframes the Growth Story** — The 525-role cut was filed as a realignment of team structures around Workday's growth strategy rather than a retrenchment, with restructuring work running into fiscal 2028. It follows February's ~400-role reduction in global customer operations and lands against still-unresolved reporting that Silver Lake is working on financing for a take-private that would rank among the largest software deals ever. No formal terms have surfaced — which makes the Oct. 13 analyst day the most consequential in years.
 
 ---
 
