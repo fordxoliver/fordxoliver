@@ -38,9 +38,9 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: October 24, 2026*
+*Last updated: October 25, 2026*
 
-- 💵 **Workday Prices $2.5B Senior Notes Offering** — On Oct. 21 Workday announced it priced an underwritten, registered public offering of $2.5 billion in senior notes, a corporate financing move that follows the Oct. 13 analyst-day capital-return messaging (including $4B left on its buyback authorization).
+- 💵 **Workday Prices $2.5B Senior Notes Offering** — On Oct. 21 Workday announced it priced an underwritten, registered public offering of $2.5 billion in senior notes, with closing expected Oct. 23 and proceeds earmarked mainly to retire $1.0B of 3.500% notes due April 2027, a financing move that follows the Oct. 13 analyst-day capital-return messaging (including $4B left on its buyback authorization).
 - 🏆 **Gartner Names Workday a Leader in Cloud ERP Finance** — On Oct. 19 Workday said it was named a Leader in the 2026 Gartner Magic Quadrant for Cloud ERP Finance, positioning Workday Financial Management as finance data, processes and AI on one platform. Days earlier (Oct. 13) it made Decision Intelligence available to Workday HCM and Financial Management customers, so teams can weigh workforce and financial decisions together.
 - 📊 **Analyst Day Sets the Numbers** — At the Oct. 13 Financial Analyst Day, Workday reiterated a non-GAAP operating margin target above 33%, guided free cash flow per share to $13 this year and $15 in fiscal 2028, and said AI-related ARR is approaching $600M, more than triple a year earlier. It has $4B left on its buyback authorization after finishing the prior $5B program early, and trimmed its agent portfolio from 50 to 20 (17 in production), prioritizing agents that scale across core HR and finance.
 - 🔐 **C1.ai Acquisition to Govern Agents** — At Rising, Bhusri announced Workday will buy identity-governance company C1.ai, and said autopilot versions of the Payroll, Accounting and Deployment agents go to early adopters in early calendar 2027. C1.ai (formerly ConductorOne) becomes the identity-governance layer for people, money and agents, with closing expected around January 2027. Framing: "lawful" AI that works within existing permissions and business rules.
