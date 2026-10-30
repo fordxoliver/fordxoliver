@@ -38,7 +38,7 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: October 29, 2026*
+*Last updated: October 30, 2026*
 
 - 💵 **Workday Completes $2.5B Senior Notes Offering** — Priced Oct. 21 and expected to close Oct. 23, the $2.5 billion registered senior notes offering has now wrapped up, with proceeds earmarked mainly to retire $1.0B of 3.500% notes due April 2027, a financing move that follows the Oct. 13 analyst-day capital-return messaging (including $4B left on its buyback authorization).
 - 🏆 **Gartner Names Workday a Leader in Cloud ERP Finance** — On Oct. 19 Workday said it was named a Leader in the 2026 Gartner Magic Quadrant for Cloud ERP Finance, positioning Workday Financial Management as finance data, processes and AI on one platform. Days earlier (Oct. 13) it made Decision Intelligence available to Workday HCM and Financial Management customers, so teams can weigh workforce and financial decisions together.
