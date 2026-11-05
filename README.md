@@ -38,9 +38,9 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: November 1, 2026*
+*Last updated: November 5, 2026*
 
-- 💵 **Workday Completes $2.5B Senior Notes Offering** — Priced Oct. 21 and expected to close Oct. 23, the $2.5 billion registered senior notes offering has now wrapped up, with proceeds earmarked mainly to retire $1.0B of 3.500% notes due April 2027, a financing move that follows the Oct. 13 analyst-day capital-return messaging (including $4B left on its buyback authorization).
+- 📅 **Q3 FY2027 Earnings Set for Nov. 24** — On Nov. 2 Workday said it will report fiscal 2027 third-quarter results on Nov. 24, 2026 with a live webcast on its investor site, the next checkpoint for Financial Management and agent-adoption momentum after Q1's 4,000+ agent-using customers and ~$500M annualized agentic AI revenue.
 - 🏆 **Gartner Names Workday a Leader in Cloud ERP Finance** — On Oct. 19 Workday said it was named a Leader in the 2026 Gartner Magic Quadrant for Cloud ERP Finance, positioning Workday Financial Management as finance data, processes and AI on one platform. Days earlier (Oct. 13) it made Decision Intelligence available to Workday HCM and Financial Management customers, so teams can weigh workforce and financial decisions together.
 - 🔐 **C1.ai Acquisition to Govern Agents** — At Rising, Bhusri announced Workday will buy identity-governance company C1.ai, and said autopilot versions of the Payroll, Accounting and Deployment agents go to early adopters in early calendar 2027. C1.ai (formerly ConductorOne) becomes the identity-governance layer for people, money and agents, with closing expected around January 2027. Framing: "lawful" AI that works within existing permissions and business rules.
 - 💳 **Agents Priced by Consumption** — Per The Register (Oct. 15), Bhusri expects customers to pay for Workday's AI agents based on usage, so Financial Management agent bills would grow with adoption — Workday is positioning agents as a slice of customers' labor budgets.
