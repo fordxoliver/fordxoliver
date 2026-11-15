@@ -38,7 +38,7 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: November 14, 2026*
+*Last updated: November 15, 2026*
 
 - 🏆 **Gartner Names Workday a Leader — Fifth Year Running** — On Nov. 5 Workday said Gartner named it a Leader in the 2026 Magic Quadrant for Cloud ERP for Service-Centric Enterprises for the fifth consecutive year, and the only vendor named a Customers' Choice in Gartner Peer Insights' Voice of the Customer for that category — its second Gartner Leader nod in three weeks, after Oct. 19's Cloud ERP Finance recognition.
 - 📅 **Q3 FY2027 Earnings Set for Nov. 24** — Workday confirmed it will report fiscal 2027 third-quarter results after market close on Nov. 24, 2026 with a live webcast on its investor site, the next checkpoint for Financial Management and agent-adoption momentum after Q1's 4,000+ agent-using customers and ~$500M annualized agentic AI revenue.
