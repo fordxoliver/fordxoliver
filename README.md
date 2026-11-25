@@ -38,15 +38,15 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: November 24, 2026*
+*Last updated: November 25, 2026*
 
+- 📊 **Q3 FY2027 Results Beat Estimates** — Reported after market close Nov. 24, Workday posted $2.705B total revenue (+11.2% YoY) and $2.532B subscription revenue (+12.8%), topping its own $2.515B guidance; non-GAAP EPS hit $2.82 (vs. $2.32 a year ago) on a 31.4% non-GAAP operating margin, with 12-month subscription backlog up 12.3% to $9.216B — a strong read on Financial Management and agent-adoption momentum.
 - 🚀 **Workday GO for Financials Launched at Rising EMEA** — Unveiled Nov. 18 in Barcelona, Workday GO for Financials is a packaged, transparently priced way for growing companies (sub-3,500 employees) to buy, deploy, and run Financial Management, with industry add-ons for financial services, professional/business services, and tech & media; it's live now in the U.S., U.K., Ireland, and Canada, with more markets to follow.
 - 🤖 **Accounting, Deployment & Financial Audit Agents Now GA** — The GO package bundles a GA Accounting Agent that follows each customer's existing approval rules to gather audit records and prep reports, plus a GA Deployment Agent that guides setup; separately, Workday's Financial Audit Agent reached general availability, reportedly cutting the time to build audit evidence packages by about 75%.
 - 💳 **Zuora Billing and Revenue Now Live Inside Financial Management** — Workday and Zuora's expanded partnership (Nov. 12) gives Financial Management customers direct, in-app access to Zuora Billing and Zuora Revenue via the Zuora Monetization Suite, so usage-based charges and revenue post straight into Workday's Accounting Center and general ledger.
-- 📅 **Q3 FY2027 Earnings Report Today, Nov. 24** — Workday reports fiscal 2027 third-quarter results after today's market close (1:30 p.m. PT call, live webcast on its investor site) — the next read on Financial Management and agent-adoption momentum against full-year guidance of $9.925–9.95B subscription revenue and 30.5%+ non-GAAP operating margin.
 - 🐐 **C1.ai Deal Still Pending Close** — Workday's October-announced acquisition of identity-governance platform C1.ai, which will govern what people and AI agents can access across Financial Management and HR, remains on track for close in Workday's fiscal Q4 (ending Jan. 31, 2027); no regulatory or closing update has surfaced yet.
 
-> **Silver Lake Take-Private Talks Still Unresolved** — Reuters' Aug. 13 report of Silver Lake-led talks to take Workday private at a reported $43–51B valuation remains the last word publicly; neither side has commented since, and co-founders Aneel Bhusri and David Duffield's combined 68% voting control means no deal proceeds without them. Today's Q3 earnings call is the next moment the subject could resurface.
+> **Silver Lake Take-Private Talks Still Unresolved** — Reuters' Aug. 13 report of Silver Lake-led talks to take Workday private at a reported $43–51B valuation remains the last word publicly; neither side has commented since, and co-founders Aneel Bhusri and David Duffield's combined 68% voting control means no deal proceeds without them. No commentary on the deal has surfaced from the Nov. 24 Q3 earnings call, consistent with management's silence on it back in August.
 
 ---
 
