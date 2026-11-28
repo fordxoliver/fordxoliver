@@ -38,7 +38,7 @@ Financial systems, AI agents, or how to get things done without writing a single
 
 ## 📰 Workday Financial Management — What's New
 
-*Last updated: November 27, 2026*
+*Last updated: November 28, 2026*
 
 - 📊 **Q3 FY2027 Results Beat Estimates** — Reported after market close Nov. 24, Workday posted $2.705B total revenue (+11.2% YoY) and $2.532B subscription revenue (+12.8%), topping its own $2.515B guidance; non-GAAP EPS hit $2.82 (vs. $2.32 a year ago) on a 31.4% non-GAAP operating margin, with 12-month subscription backlog up 12.3% to $9.216B — a strong read on Financial Management and agent-adoption momentum.
 - 🚀 **Workday GO for Financials Launched at Rising EMEA** — Unveiled Nov. 18 in Barcelona, Workday GO for Financials is a packaged, transparently priced way for growing companies (sub-3,500 employees) to buy, deploy, and run Financial Management, with industry add-ons for financial services, professional/business services, and tech & media; it's live now in the U.S., U.K., Ireland, and Canada, with more markets to follow.
